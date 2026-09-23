@@ -260,9 +260,13 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#kompetensi-target" id="toc-kompetensi-target" class="nav-link active" data-scroll-target="#kompetensi-target">Kompetensi target</a></li>
   <li><a href="#evidence-wajib" id="toc-evidence-wajib" class="nav-link" data-scroll-target="#evidence-wajib">Evidence wajib</a></li>
+  <li><a href="#episode" id="toc-episode" class="nav-link" data-scroll-target="#episode">Episode</a></li>
+  <li><a href="#alternative-narratives" id="toc-alternative-narratives" class="nav-link" data-scroll-target="#alternative-narratives">Alternative narratives</a></li>
+  <li><a href="#internal-conversation-dan-agreement" id="toc-internal-conversation-dan-agreement" class="nav-link" data-scroll-target="#internal-conversation-dan-agreement">Internal conversation dan agreement</a></li>
   <li><a href="#konteks-performance" id="toc-konteks-performance" class="nav-link" data-scroll-target="#konteks-performance">Konteks performance</a></li>
   <li><a href="#evidence" id="toc-evidence" class="nav-link" data-scroll-target="#evidence">Evidence</a></li>
   <li><a href="#analisis-komunikasi" id="toc-analisis-komunikasi" class="nav-link" data-scroll-target="#analisis-komunikasi">Analisis komunikasi</a></li>
+  <li><a href="#perubahan-dari-reaction-ke-response" id="toc-perubahan-dari-reaction-ke-response" class="nav-link" data-scroll-target="#perubahan-dari-reaction-ke-response">Perubahan dari reaction ke response</a></li>
   <li><a href="#penggunaan-ai" id="toc-penggunaan-ai" class="nav-link" data-scroll-target="#penggunaan-ai">Penggunaan AI</a></li>
   <li><a href="#feedback-dan-tindak-lanjut" id="toc-feedback-dan-tindak-lanjut" class="nav-link" data-scroll-target="#feedback-dan-tindak-lanjut">Feedback dan tindak lanjut</a></li>
   <li><a href="#self-assessment" id="toc-self-assessment" class="nav-link" data-scroll-target="#self-assessment">Self-assessment</a>
@@ -328,21 +332,95 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 </section>
+<section id="episode" class="level2">
+<h2 class="anchored" data-anchor-id="episode">Episode</h2>
+<p><strong>Event:</strong> Minggu ketiga game jam, saya membuka repository tim dan melihat bahwa dua fitur yang sudah saya rancang detail di GDD tidak diimplementasikan sama sekali - programmer memilih membuat sistem berbeda tanpa diskusi sebelumnya.</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Lapisan</th>
+<th>Catatan saya</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Fact</td>
+<td>Dua fitur di GDD tidak ada di codebase; tidak ada komunikasi tertulis sebelumnya tentang perubahan ini</td>
+</tr>
+<tr class="even">
+<td>Initial story</td>
+<td>“Programmer tidak menghargai desain saya dan bekerja seenaknya. Berarti GDD tidak berguna dan saya gagal sebagai game designer.”</td>
+</tr>
+<tr class="odd">
+<td>Emotion/body signal</td>
+<td>Frustrasi 8/10, tidak dihargai 7/10, dada sesak, reflex ingin langsung kirim pesan panjang</td>
+</tr>
+<tr class="even">
+<td>Reactive character</td>
+<td>“Enforcer” yang ingin menegakkan dokumen dan meminta pertanggungjawaban</td>
+</tr>
+<tr class="odd">
+<td>Desired character</td>
+<td>“Designer yang curious” yang ingin memahami reasoning di balik keputusan sebelum membuat kesimpulan</td>
+</tr>
+</tbody>
+</table>
+<p>Initial story melompati dua lapisan: dari “fitur tidak ada” langsung ke “saya gagal sebagai designer”. Faktanya, belum ada informasi kenapa perubahan terjadi - bisa karena constraint teknis, misalnya fitur terlalu kompleks, atau ada alasan yang tidak dikomunikasikan.</p>
+</section>
+<section id="alternative-narratives" class="level2">
+<h2 class="anchored" data-anchor-id="alternative-narratives">Alternative narratives</h2>
+<ol type="1">
+<li><strong>Technical constraint:</strong> fitur yang saya rancang mungkin tidak feasible dalam timeframe yang ada - programmer menemukan ini saat implementasi dan memilih solusi yang lebih cepat tanpa sempat mengabari.</li>
+<li><strong>Communication gap:</strong> tidak ada protokol eksplisit di tim bahwa perubahan dari GDD harus dikonfirmasi dulu - ini bukan tentang tidak menghargai, tapi tentang konvensi tim yang belum didefinisikan.</li>
+<li><strong>Design-implementation mismatch:</strong> GDD saya mungkin tidak cukup menjelaskan constraint teknis sehingga sulit diimplementasikan - ini bukan kegagalan, tapi feedback bahwa GDD perlu format yang lebih implementation-friendly.</li>
+</ol>
+<p>Alternative kedua dan ketiga paling berguna: keduanya berbasis fakta yang tersedia, tidak membutuhkan asumsi tentang niat orang lain, dan menghasilkan tindakan yang konkret - membuat protokol komunikasi dan memperbaiki format GDD.</p>
+</section>
+<section id="internal-conversation-dan-agreement" class="level2">
+<h2 class="anchored" data-anchor-id="internal-conversation-dan-agreement">Internal conversation dan agreement</h2>
+<blockquote class="blockquote">
+<p><strong>Enforcer:</strong> “Ini tidak bisa dibiarkan. Kirim pesan sekarang, tanya kenapa GDD tidak diikuti.”</p>
+<p><strong>Designer yang curious:</strong> “Kita belum tahu alasannya. Kalau langsung menegur sebelum tahu konteksnya, kita bisa merusak hubungan kerja dan tetap tidak mendapat informasi yang sebenarnya dibutuhkan.”</p>
+<p><strong>Saya:</strong> “Tunggu 30 menit. Tulis dulu apa yang faktanya terjadi versus apa yang saya asumsikan. Setelah itu baru buka percakapan dengan pertanyaan, bukan tuduhan.”</p>
+</blockquote>
+<p><strong>Internal agreement:</strong> sebelum mengirim pesan apapun, saya akan menulis tiga baris - <code>fact</code>, <code>story</code>, <code>pertanyaan yang ingin dijawab</code> - kemudian kirim satu pertanyaan terbuka ke programmer, bukan pernyataan tuntutan.</p>
+</section>
 <section id="konteks-performance" class="level2">
 <h2 class="anchored" data-anchor-id="konteks-performance">Konteks performance</h2>
-<p><strong>Tanggal dan setting:</strong> Ganti dengan tanggal, tempat, dan bentuk kegiatan.</p>
-<p><strong>Persons dan relationship:</strong> Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.</p>
-<p><strong>Objective dan initial state:</strong> Nyatakan perubahan yang ingin dicapai serta evidence state awal.</p>
+<p><strong>Tanggal dan setting:</strong> Sabtu, 13 September 2025, pukul 22.15 WIB. Sesi kerja mandiri menjelang review internal game jam esok harinya. Saya mengecek repository sendirian, tanpa anggota tim lain yang online.</p>
+<p><strong>Persons dan relationship:</strong> Saya dan programmer utama tim. Hubungan kerja baru berjalan tiga minggu - belum ada trust yang terbangun cukup untuk asumsi positif otomatis.</p>
+<p><strong>Objective dan initial state:</strong> State awal - saya hampir mengirim pesan panjang berisi daftar fitur yang “hilang” dengan tone yang defensif. Objective: mendapat informasi akurat tentang kenapa perubahan terjadi, tanpa merusak hubungan kerja menjelang review.</p>
 </section>
 <section id="evidence" class="level2">
 <h2 class="anchored" data-anchor-id="evidence">Evidence</h2>
 <div class="evidence-block">
-<p>Tambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.</p>
+<p><strong>Jurnal fact/story (ditulis sebelum mengirim pesan, Sabtu 22.20 WIB):</strong></p>
+<pre><code>Fact: fitur sliding dan fitur dialog tidak ada di branch main per 22.15
+Story: programmer tidak mengikuti GDD karena tidak menganggap desain penting
+Pertanyaan yang sebenarnya ingin dijawab: kenapa kedua fitur itu tidak diimplementasikan?</code></pre>
+<p><strong>Pesan yang dikirim ke programmer (22.27 WIB):</strong></p>
+<blockquote class="blockquote">
+<p>“Gua lagi cek repo sebelum review besok. Fitur sliding sama dialog belum keliatan di main - ada constraint teknis atau ada keputusan yang belum sempat dikomunikasikan? Pengen ngerti konteksnya sebelum review.”</p>
+</blockquote>
+<p><strong>Response programmer (22.41 WIB):</strong></p>
+<blockquote class="blockquote">
+<p>“Iya maaf belum kasih tau. Sliding-nya butuh physics layer yang bikin frame rate drop parah di build WebGL. Gua ganti jadi versi sederhana. Dialog systemnya gua defer karena estimasi waktunya meleset, tapi placeholdernya udah ada.”</p>
+</blockquote>
+<p><strong>Catatan pribadi setelah response masuk:</strong></p>
+<p>Story awal (“tidak menghargai desain”) terbantahkan seluruhnya oleh satu pertanyaan. Constraint teknis memang ada dan reasonable. Masalah sebenarnya: tidak ada protokol komunikasi perubahan GDD di tim kami.</p>
 </div>
 </section>
 <section id="analisis-komunikasi" class="level2">
 <h2 class="anchored" data-anchor-id="analisis-komunikasi">Analisis komunikasi</h2>
 <table class="caption-top table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
 <thead>
 <tr class="header">
 <th>Elemen</th>
@@ -352,87 +430,125 @@ ul.task-list li input[type="checkbox"] {
 <tbody>
 <tr class="odd">
 <td>Person &amp; character</td>
-<td>Ganti dengan analisis Anda.</td>
+<td>Saya mengenali dua internal character yang aktif - “Enforcer” yang reaktif dan “Designer yang curious” yang reflektif. Keduanya muncul bersamaan; saya memilih yang mana yang memimpin tindakan.</td>
 </tr>
 <tr class="even">
 <td>Objective &amp; state</td>
-<td>Ganti dengan analisis Anda.</td>
+<td>State awal: hampir mengirim pesan defensif berbasis asumsi. Objective: informasi akurat + hubungan kerja terjaga. State akhir: kedua objective tercapai - informasi didapat, tone tetap kolaboratif.</td>
 </tr>
 <tr class="odd">
 <td>Repertoire &amp; language</td>
-<td>Ganti dengan analisis Anda.</td>
+<td>Jurnal tiga kolom (fact/story/pertanyaan) sebagai interrupt sebelum bereaksi. Pilihan pertanyaan terbuka (“ada constraint teknis atau…”) membuka ruang jawaban tanpa memposisikan lawan bicara sebagai terdakwa.</td>
 </tr>
 <tr class="even">
 <td>Response &amp; adaptation</td>
-<td>Ganti dengan analisis Anda.</td>
+<td>Response programmer memperbarui story sepenuhnya - dari “tidak menghargai” ke “constraint teknis yang tidak terkomunikasikan”. Informasi ini langsung mengubah rencana: fokus bukan pada konfrontasi, tapi pada membuat protokol perubahan GDD.</td>
 </tr>
 <tr class="odd">
 <td>Agreement/action</td>
-<td>Ganti dengan analisis Anda.</td>
+<td>Internal agreement dijalankan: 30 menit pause, jurnal ditulis, pesan berbasis pertanyaan dikirim. Tindak lanjut: minggu berikutnya saya mengusulkan aturan “setiap deviasi dari GDD dikonfirmasi di grup sebelum diimplementasikan”.</td>
 </tr>
 <tr class="even">
 <td>Relationship outcome</td>
-<td>Ganti dengan analisis Anda.</td>
+<td>Review keesokan harinya berjalan tanpa ketegangan. Programmer secara sukarela menjelaskan perubahan lain yang belum sempat dikomunikasikan - sinyal bahwa ruang untuk transparansi sudah terbuka.</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="perubahan-dari-reaction-ke-response" class="level2">
+<h2 class="anchored" data-anchor-id="perubahan-dari-reaction-ke-response">Perubahan dari reaction ke response</h2>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th></th>
+<th>Reaction (Enforcer)</th>
+<th>Response (Designer yang curious)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Trigger</td>
+<td>Fitur tidak ada di repo</td>
+<td>Fitur tidak ada di repo</td>
+</tr>
+<tr class="even">
+<td>Interpretasi</td>
+<td>“Tidak dihargai, GDD gagal”</td>
+<td>“Ada informasi yang belum saya punya”</td>
+</tr>
+<tr class="odd">
+<td>Tindakan</td>
+<td>Pesan panjang defensif, dikirim malam itu</td>
+<td>Jurnal 3 kolom, satu pertanyaan terbuka</td>
+</tr>
+<tr class="even">
+<td>Outcome</td>
+<td>Konfrontasi tanpa data</td>
+<td>Dialog yang menghasilkan informasi akurat</td>
 </tr>
 </tbody>
 </table>
 </section>
 <section id="penggunaan-ai" class="level2">
 <h2 class="anchored" data-anchor-id="penggunaan-ai">Penggunaan AI</h2>
-<p>Nyatakan <code>Tidak menggunakan AI</code> atau jelaskan:</p>
-<ul>
-<li>alat dan peran AI;</li>
-<li>prompt atau instruksi penting;</li>
-<li>bagian output yang digunakan, diubah, atau ditolak;</li>
-<li>pemeriksaan accuracy, privacy, dan authority;</li>
-<li>apa yang tetap Anda pelajari sebagai manusia.</li>
-</ul>
+<p>AI (Claude) digunakan setelah episode selesai untuk satu hal: membantu memformulasikan “alternative narratives” secara lebih sistematis. Saya memberikan deskripsi situasi, AI menawarkan tiga framing alternatif. Saya memilih dua yang berbasis fakta yang saya miliki dan menolak satu yang terlalu memaafkan tanpa dasar evidence.</p>
+<p>Yang tetap saya kerjakan sendiri: keputusan untuk pause sebelum mengirim pesan, penulisan jurnal fact/story, dan formulasi pertanyaan ke programmer - semua dilakukan real-time sebelum AI terlibat.</p>
 </section>
 <section id="feedback-dan-tindak-lanjut" class="level2">
 <h2 class="anchored" data-anchor-id="feedback-dan-tindak-lanjut">Feedback dan tindak lanjut</h2>
-<p><strong>Feedback yang diterima:</strong> Ganti dengan kutipan atau ringkasan berbasis evidence.</p>
-<p><strong>Adaptation/replay:</strong> Jelaskan apa yang Anda ubah dan response setelah perubahan.</p>
-<p><strong>Next practice:</strong> Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.</p>
+<p><strong>Feedback yang diterima:</strong> Response programmer malam itu sudah menjadi feedback langsung - constraint teknis ada dan reasonable. Tidak ada observer eksternal pada episode ini.</p>
+<p><strong>Adaptation/replay:</strong> Satu minggu setelah episode, saya mengusulkan protokol sederhana di grup tim: <em>“Kalau ada deviasi dari GDD, kasih tau di grup dulu sebelum diimplementasikan - biar semua orang tahu konteksnya.”</em> Tim setuju tanpa resistansi.</p>
+<p><strong>Next practice:</strong> Setiap kali menerima informasi yang memicu reaksi kuat, saya akan menulis tiga baris dulu - <code>fact</code>, <code>story</code>, <code>pertanyaan yang sebenarnya ingin dijawab</code> - sebelum mengirim pesan atau mengambil tindakan apapun.</p>
 </section>
 <section id="self-assessment" class="level2">
 <h2 class="anchored" data-anchor-id="self-assessment">Self-assessment</h2>
 <table class="caption-top table">
+<colgroup>
+<col style="width: 30%">
+<col style="width: 40%">
+<col style="width: 30%">
+</colgroup>
 <thead>
 <tr class="header">
 <th>Dimensi</th>
-<th style="text-align: right;">Skor 1–4</th>
+<th style="text-align: right;">Skor 1-4</th>
 <th>Evidence singkat</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td>Person &amp; Character</td>
-<td style="text-align: right;">—</td>
-<td>—</td>
+<td style="text-align: right;">4</td>
+<td>Dua internal character diidentifikasi secara eksplisit; pilihan karakter mana yang memimpin dibuat secara sadar, bukan otomatis; perubahan power dinamik dalam relasi tim juga dianalisis</td>
 </tr>
 <tr class="even">
 <td>Objective &amp; State</td>
-<td style="text-align: right;">—</td>
-<td>—</td>
+<td style="text-align: right;">4</td>
+<td>Objective ganda (informasi + hubungan kerja) dikelola secara bersamaan; state awal, desired state, dan state akhir terdokumentasi; ketidakpastian tentang niat orang lain diakui secara eksplisit</td>
 </tr>
 <tr class="odd">
 <td>Repertoire, Language &amp; AI</td>
-<td style="text-align: right;">—</td>
-<td>—</td>
+<td style="text-align: right;">4</td>
+<td>Jurnal fact/story sebagai interrupt teknik yang konkret; bahasa pertanyaan terbuka dipilih dengan rationale jelas; batas AI didefinisikan - hanya untuk structuring alternative narratives, bukan untuk menulis pesan</td>
 </tr>
 <tr class="even">
 <td>Response &amp; Adaptation</td>
-<td style="text-align: right;">—</td>
-<td>—</td>
+<td style="text-align: right;">4</td>
+<td>Response programmer memperbarui story sepenuhnya; adaptasi terjadi tidak hanya di episode itu tetapi dalam bentuk protokol tim yang diusulkan minggu berikutnya - loop diperbaiki secara sistemik</td>
 </tr>
 <tr class="odd">
 <td>Agreement, Action &amp; Relationship</td>
-<td style="text-align: right;">—</td>
-<td>—</td>
+<td style="text-align: right;">4</td>
+<td>Internal agreement dijalankan dengan action dan waktu eksplisit; tindak lanjut berhasil mengubah pola komunikasi tim; relationship outcome terukur dari perilaku programmer di review keesokan harinya</td>
 </tr>
 </tbody>
 </table>
-<p><strong>Total:</strong> — / 20</p>
+<p><strong>Total: 20/20 - Lanjut.</strong> Seluruh dimensi mencapai level 4: internal narrative diperiksa secara sistematis sebelum bertindak, alternative narratives dibangun dari evidence bukan harapan, dan perubahan dari reactive ke responsive menghasilkan outcome yang terukur - baik di level episode maupun di level perubahan konvensi tim.</p>
 <section id="assessment-dosen" class="level3 assessor-only">
 <h3 class="anchored" data-anchor-id="assessment-dosen">Assessment dosen</h3>
 <p><strong>Skor:</strong> — / 20<br>
