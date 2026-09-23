@@ -1,10 +1,10 @@
 ---
 title: "Five-Language Translation Portfolio"
 week: 4
-status: "Belum dimulai"
-self_score: "—"
+status: "Selesai"
+self_score: "20"
 assessor_score: "—"
-description: "Satu meaning untuk lima person atau character."
+description: "Satu meaning soal hasil CTF untuk lima person berbeda: teman, rekan teknis, dosen pembimbing, sponsor, dan publik."
 categories: [Fondasi, Language]
 ---
 
@@ -22,4 +22,72 @@ Mengadaptasi repertoire dan language tanpa mengubah core meaning.
 [Buka contoh fiktif Minggu 4](../examples/week-04.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+## Konteks performance
+
+**Tanggal dan setting:** Malam setelah hasil babak kualifikasi CTF Gemastik diumumkan. Gua perlu mengkomunikasikan satu fakta yang sama ke beberapa orang dengan latar belakang dan kebutuhan informasi yang sangat berbeda.
+
+**Persons dan relationship:** Gua (peserta, anggota tim CTF dari unit mahasiswa di ITB). Lima target dengan karakter berbeda: (1) teman satu kos yang tidak tahu CTF, (2) rekan teknis sesama pemain CTF, (3) dosen pembimbing unit, (4) sponsor kecil yang mendanai biaya registrasi tim, (5) publik umum di feed media sosial unit.
+
+**Objective dan initial state:** Kami menyelesaikan semua challenge dan mengirim flag lebih banyak dari target, tapi tim kami tidak masuk leaderboard resmi babak pertama karena ada kesalahan prosedur submit - flag satu soal terkirim lewat jalur tidak resmi (DM panitia bukan platform). Tim tetap eligible untuk babak berikutnya karena flag valid, tapi poin tidak dihitung di babak ini. Gua perlu menyampaikan fakta ini tanpa distorsi, tanpa membesarkan kegagalan, dan tanpa mengecilkan dampaknya.
+
+**Core meaning yang tidak boleh berubah:** Tim berhasil solve semua challenge dengan flag valid. Poin babak ini tidak masuk leaderboard karena satu submit lewat jalur yang salah. Tim tetap bisa lanjut ke babak berikutnya. Ada pelajaran prosedural yang harus diperbaiki.
+
+## Evidence
+
+::: {.evidence-block}
+Lima versi ditulis langsung malam itu sebelum tidur. Gua cek dulu: apakah setiap versi masih memuat fakta dasar (solve valid, poin hangus babak ini, eligible lanjut) atau ada yang hilang atau ditambah.
+
+| Target/character | Versi language | Alasan adaptasi |
+|---|---|---|
+| Friend (teman kos, tidak familiar dengan CTF) | "Kita tadi ikut lomba hacking - semua soalnya berhasil gua jawab dengan bener, tapi poinnya nggak keitung karena gua kirim jawaban ke tempat yang salah. Kayak udah nulis esai yang bener tapi dikumpulin ke loker yang salah. Tapi masih bisa lanjut ke babak berikutnya kok." | Pakai analogi loker untuk replace jargon "submit platform"; fokus ke outcome (eligible lanjut) biar tidak cuma terkesan gagal |
+| Technical peer (sesama peserta CTF) | "Semua flag valid, tapi satu submission masuk via DM bukan portal, jadi poin challenge itu void di scoring babak pertama. Tim masih qualified karena flag-nya legitimate. Babak dua tetap jalan, tapi harus fix submission flow-nya dulu." | Jargon teknis aman dipakai karena shared vocabulary; langsung ke root cause dan next action tanpa basa-basi |
+| Manager (dosen pembimbing unit) | "Tim berhasil menyelesaikan seluruh challenge dan menghasilkan flag yang valid. Satu poin tidak tercatat di leaderboard babak pertama akibat kesalahan prosedur pengiriman - flag dikirim via jalur komunikasi langsung, bukan platform resmi. Tim tetap eligible untuk babak kedua. Kami akan membuat SOP checklist submission sebelum sesi berikutnya agar insiden prosedural seperti ini tidak terulang." | Dosen butuh konteks lengkap, dampak, dan respons terhadap masalah - bukan hanya fakta mentah; framing accountability tanpa dramatisasi |
+| Customer (sponsor yang mendanai biaya registrasi) | "Tim kami berhasil menyelesaikan semua tantangan teknis di babak kualifikasi dan dinyatakan lolos ke babak berikutnya. Ada kendala administratif di proses pengiriman yang menyebabkan poin babak ini tidak tercatat, namun hal tersebut sudah kami identifikasi dan akan kami perbaiki. Dukungan Anda sangat berarti untuk keberlangsungan tim." | Sponsor perlu tahu tim masih layak didukung (eligible lanjut) dan ada accountability - tanpa detail teknis yang tidak relevan untuk mereka |
+| Public (caption Instagram unit mahasiswa) | "Babak kualifikasi selesai! Tim CTF kami berhasil solve semua soal dan lolos ke babak selanjutnya. Ada pelajaran berharga soal prosedur yang kami bawa sebagai bekal untuk babak berikutnya. Doakan kami ya!" | Publik tidak perlu tahu detail kegagalan internal; fokus ke milestone positif (lolos) dan growth mindset; tone ringan sesuai platform |
+
+**Uji understanding:** Gua tunjukkan versi "friend" ke teman kos gua dan tanya apakah dia ngerti apa yang terjadi. Dia paham bahwa gua berhasil jawab tapi poin nggak keitung, dan dia tanya "terus masih bisa lanjut nggak?" - yang berarti satu informasi kunci (eligible lanjut) belum cukup prominent di versi itu. Gua tambahkan kalimat terakhir "Tapi masih bisa lanjut ke babak berikutnya kok" setelah feedback itu.
+:::
+
+## Analisis komunikasi
+
+| Elemen | Evidence dan analisis |
+|---|---|
+| Person & character | Lima target berbeda dianalisis dari sisi apa yang mereka tahu (shared vocabulary), apa yang mereka butuhkan (detail vs. ringkasan), dan apa yang relevan untuk mereka ambil tindakan. Sponsor butuh "masih layak didukung", dosen butuh "ada accountability", teman butuh "bisa dipahami tanpa konteks CTF". |
+| Objective & state | Core meaning ditetapkan sebelum menulis: empat fakta yang tidak boleh hilang atau ditambah di semua versi. Gua cek ulang setiap versi terhadap empat fakta itu sebelum finalisasi. |
+| Repertoire & language | Jargon ("flag", "submit", "portal", "leaderboard") hanya digunakan di versi technical peer karena shared vocabulary ada. Versi lain menggunakan analogi (loker), framing dampak (poin tidak tercatat), atau tone media sosial. Ini bukan manipulasi - nilai dan fakta tidak berubah, hanya kemasan yang disesuaikan. |
+| Response & adaptation | Feedback dari teman kos mengungkap bahwa informasi "eligible lanjut" kurang menonjol di versi awal. Gua adaptasi versi friend setelah feedback itu - bukan mengganti fakta, tapi menggeser emphasis. |
+| Agreement/action | Tidak ada agreement formal, tapi setiap versi punya action yang jelas: teman kos cukup tahu, rekan teknis tahu perlu fix flow, dosen tahu akan ada SOP, sponsor tahu tim masih layak, publik tahu untuk support. |
+| Relationship outcome | Tidak ada ketegangan yang muncul setelah komunikasi ini. Dosen merespons dengan "oke, buatkan SOP-nya sebelum babak dua" - ini berarti framing accountability diterima tanpa drama. |
+
+## Penggunaan AI
+
+Tidak menggunakan AI untuk menulis lima versi ini. Proses dilakukan manual karena inti latihan adalah memahami siapa yang gua ajak bicara dan apa yang mereka butuhkan - proses itu harus datang dari pemahaman gua sendiri, bukan output model bahasa. AI digunakan hanya untuk mengecek apakah keempat fakta kunci (solve valid, poin hangus babak ini, eligible lanjut, ada pelajaran prosedural) muncul di semua versi. Satu versi yang dihasilkan AI untuk perbandingan ditolak karena menambahkan framing "kemenangan moral" yang tidak ada di fakta asal.
+
+## Feedback dan tindak lanjut
+
+**Feedback yang diterima:** Uji understanding dengan teman kos mengungkap bahwa informasi eligibility perlu lebih eksplisit di versi non-teknis. Dosen pembimbing merespons versi manager dengan meminta SOP - berarti accountability framing berhasil diterima sebagai respons produktif, bukan defensive.
+
+**Adaptation/replay:** Gua ubah urutan kalimat di versi friend - informasi "eligible lanjut" dipindah ke kalimat terakhir dengan lebih eksplisit. Ini menunjukkan bahwa emphasis dalam language juga bagian dari meaning - bukan hanya apa yang disampaikan, tapi di mana letaknya dalam struktur pesan.
+
+**Next practice:** Sebelum berkomunikasi soal situasi kompleks, gua akan tulis dulu "core meaning" dalam satu paragraf, baru buat versi per target. Ini mencegah drift di mana satu versi tidak sengaja mengubah fakta karena terlalu fokus ke tone.
+
+## Self-assessment
+
+| Dimensi | Skor 1-4 | Evidence singkat |
+|---|---:|---|
+| Person & Character | 4 | Lima target dianalisis dari vocabulary, kebutuhan, dan relevansi - bukan hanya label "awam vs. ahli" |
+| Objective & State | 4 | Empat core meaning ditetapkan sebelum nulis dan dicek ulang di semua versi |
+| Repertoire, Language & AI | 4 | Jargon hanya di versi yang punya shared vocabulary; analogi dan framing digunakan tepat sasaran; AI digunakan terbatas untuk fact-check |
+| Response & Adaptation | 4 | Feedback teman kos menghasilkan perubahan konkret pada emphasis versi friend |
+| Agreement, Action & Relationship | 4 | Setiap versi punya implied action yang sesuai dengan character target; dosen merespons produktif |
+
+**Total:** 20 / 20
+
+::: {.assessor-only}
+### Assessment dosen
+
+**Skor:** — / 20
+**Evidence yang mendukung:** —
+**Prioritas perbaikan:** —
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+:::

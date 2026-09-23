@@ -1,10 +1,10 @@
 ---
 title: "Professional Discovery Interview"
 week: 5
-status: "Belum dimulai"
-self_score: "—"
+status: "Selesai"
+self_score: "20"
 assessor_score: "—"
-description: "Discovery menuju shared problem statement."
+description: "Discovery interview bersama senior GIM ITB soal masalah retensi member baru - asumsi awal dibalik oleh data interview."
 categories: [Professional, Discovery]
 ---
 
@@ -22,4 +22,97 @@ Mendengar sebelum proposing dan membangun shared problem statement dengan person
 [Buka contoh fiktif Minggu 5](../examples/week-05.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+## Konteks performance
+
+**Tanggal dan setting:** Awal semester, beberapa minggu setelah open recruitment GIM (Game Innovation and Making) ITB selesai. Gua berbincang dengan Kak Dani, senior yang sudah tiga tahun di GIM dan pernah jadi koordinator rekrutmen, di lobi gedung kuliah sekitar 30 menit setelah kelas selesai.
+
+**Persons dan relationship:** Gua (anggota aktif GIM, trainer game design, angkatan 2025) dan Kak Dani (alumni aktif, senior koordinator rekrutmen sebelumnya). Hubungan: mentor-mentee tidak formal - Kak Dani sering kasih feedback ke gua soal materi training game design. Trust level tinggi, tapi gua belum pernah serius nanya soal masalah rekrutmen ke beliau.
+
+**Objective dan initial state:** Gua masuk dengan asumsi bahwa jumlah pendaftar GIM turun karena promosi kurang masif dan kurang menjangkau angkatan baru. Gua ingin ngajuin usulan program promosi baru, tapi sebelum itu mau verifikasi dulu asumsi gua ke orang yang punya pengalaman langsung. Objective interview: pahami apa yang sebenarnya terjadi di sisi pengalaman calon member, bukan langsung jualan ide.
+
+## Evidence
+
+::: {.evidence-block}
+Catatan percakapan ditulis dari memori segera setelah selesai. Pertanyaan gua susun sebelumnya, tapi tidak dibacakan - dipakai sebagai panduan saja.
+
+**Initial assumption sebelum interview:**
+- Promosi GIM kurang terlihat di media sosial dan poster fisik
+- Angkatan baru tidak tahu GIM ada atau apa yang GIM kerjakan
+- Solusi yang sudah gua bayangkan: bikin konten promosi lebih agresif, collab sama maba orientation
+
+**Pertanyaan yang gua siapkan:**
+1. Ceritain gimana proses rekrutmen terakhir berjalan dari sudut pandang lo.
+2. Di tahap mana menurut lo paling banyak orang "hilang"?
+3. Apa dampak konkretnya ke GIM waktu itu?
+4. Gimana cara angkatan lo dulu ngatasinnya?
+5. Hal apa yang tidak boleh diubah dari cara rekrutmen GIM sekarang?
+
+**Ringkasan percakapan (sekitar 25 menit):**
+
+> **Gua:** "Kak, gua lagi mau ngusulin sesuatu soal rekrutmen, tapi sebelumnya mau dengerin dulu pengalaman Kak Dani waktu jadi koordinator. Boleh ceritain gimana proses terakhir berjalan?"
+> **Kak Dani:** "Rekrutmen terakhir yang gua pegang, jumlah pendaftar sebenarnya cukup - hampir 80 orang. Masalahnya, yang aktif setelah dua bulan tinggal 20-an."
+> **Gua:** "Jadi bukan soal jumlah pendaftar yang kurang, tapi soal yang bertahan setelah bergabung?"
+> **Kak Dani:** "Betul. Yang pertama kali datang banyak, tapi langsung drop di bulan pertama."
+> **Gua:** "Di bulan pertama itu, mereka biasanya ngapain? Ada program onboarding atau langsung dilempar ke proyek?"
+> **Kak Dani:** "Nah itu. Kita langsung masukin ke divisi, tapi tidak ada penjelasan yang jelas tentang ekspektasi. Orang baru bingung mau ngapain, ngerasa tidak dibutuhkan, lalu pergi."
+> **Gua:** "Jadi masalahnya bukan orang tidak tahu GIM ada, tapi orang masuk dan tidak tahu harus mulai dari mana?"
+> **Kak Dani:** "Iya, persis. Tiga angkatan terakhir pola-nya sama."
+> **Gua:** "Apa dampaknya ke GIM waktu itu?"
+> **Kak Dani:** "Divisi game dev kekurangan orang di tengah proyek. Kita jadi overload karena yang baru tidak bisa langsung kontribusi."
+> **Gua:** "Hal apa yang menurut Kak Dani tidak boleh diubah dari cara rekrutmen sekarang?"
+> **Kak Dani:** "Jangan hapus open audition - itu yang bikin GIM masih punya karakter seleksi. Tapi after-audition-nya yang perlu diperbaiki."
+
+**Pembaruan pembacaan setelah interview:**
+
+Asumsi awal gua ("promosi kurang") tidak didukung oleh data Kak Dani. Pendaftar cukup banyak - 80 orang. Masalahnya ada di retention dua bulan pertama, bukan akuisisi. Root cause yang muncul dari interview: tidak ada struktur onboarding yang jelas, dan member baru tidak punya jalur kontribusi yang terdefinisi.
+
+**Shared problem statement yang dikonfirmasi Kak Dani:**
+
+> "Member baru GIM yang sudah melewati audisi membutuhkan jalur onboarding yang terstruktur - minimal peta ekspektasi dan satu proyek entry-level yang bisa mereka kontribusikan - karena tanpa itu mereka merasa tidak dibutuhkan dan keluar sebelum bisa berkontribusi, sehingga divisi kekurangan kapasitas di tengah proyek aktif."
+
+Gua bacakan ulang rumusan itu ke Kak Dani. Beliau mengkoreksi satu kata: "entry-level" diganti "sesuai kemampuan awal" karena level entry bisa terkesan merendahkan. Perubahan itu gua terima dan revisi.
+:::
+
+## Analisis komunikasi
+
+| Elemen | Evidence dan analisis |
+|---|---|
+| Person & character | Kak Dani adalah praktisi dengan pengalaman langsung tiga tahun, bukan teoretisi. Gua perlakukan beliau sebagai sumber otoritas tentang apa yang sebenarnya terjadi - bukan sebagai orang yang gua ajak setuju soal ide yang sudah gua punya. Pertanyaan pertama dibuka dengan "ceritain" bukan "apakah menurut lo promosi kurang?" yang sudah mengarahkan jawaban. |
+| Objective & state | Gua masuk dengan hipotesis eksplisit (promosi kurang) dan niat untuk mengujinya, bukan membuktikannya. Ini penting karena kalau gua masuk untuk konfirmasi, gua tidak akan mendengar data yang berbeda. Hipotesis itu gua tulis sebelum interview dan gua tinggalkan untuk diuji. |
+| Repertoire & language | Pertanyaan open ("ceritain gimana..."), paraphrase ("jadi bukan soal jumlah, tapi soal yang bertahan?"), dan pertanyaan dampak ("apa dampaknya ke GIM waktu itu?") digunakan secara berurut. Gua tahan untuk tidak propose solusi sampai problem statement selesai dikonfirmasi. |
+| Response & adaptation | Di tengah interview, gua sadar asumsi gua soal promosi salah. Alih-alih defensive atau mengalihkan topik, gua follow the data - pindah ke pertanyaan retention dan onboarding. Ini memerlukan adaptasi real-time dari rencana awal interview. |
+| Agreement/action | Shared problem statement dirumuskan oleh gua, dibacakan ke Kak Dani, dikoreksi ("entry-level" jadi "sesuai kemampuan awal"), dan diterima. Problem statement dikonfirmasi sebelum gua propose solusi apapun. |
+| Relationship outcome | Kak Dani mengakhiri percakapan dengan menawarkan untuk terlibat kalau gua mau bikin proposal onboarding - sinyal bahwa beliau merasa didengar dan percakapan ini bermanfaat, bukan sekadar gua mengorek informasi. |
+
+## Penggunaan AI
+
+AI digunakan setelah interview selesai untuk memberi label pada catatan percakapan - menandai mana yang `fact` (data konkret dari Kak Dani), mana yang `interpretation` (pembacaan gua), dan mana yang `assumption` gua yang belum terkonfirmasi. Gua periksa ulang setiap label terhadap catatan asli. Satu label "fact" dari AI dikoreksi menjadi "interpretation" karena Kak Dani hanya menyebutkan pola, bukan data tertulis. AI tidak dilibatkan dalam percakapan itu sendiri dan tidak digunakan untuk merumuskan shared problem statement - itu proses gua dan Kak Dani langsung.
+
+## Feedback dan tindak lanjut
+
+**Feedback yang diterima:** Kak Dani mengkoreksi kata "entry-level" dalam rumusan problem statement menjadi "sesuai kemampuan awal" - ini feedback substantif tentang framing yang bisa berdampak ke cara orang membaca masalah. Koreksi itu gua terima tanpa argumen karena Kak Dani yang lebih tahu culture GIM.
+
+**Adaptation/replay:** Gua revisi problem statement sesuai koreksi Kak Dani sebelum digunakan sebagai basis proposal ke pengurus GIM. Gua juga catat bahwa asumsi "promosi kurang" tidak valid dan tidak dimasukkan ke proposal.
+
+**Next practice:** Sebelum interview discovery berikutnya, gua akan eksplisit menuliskan asumsi yang ingin diuji - bukan hanya pertanyaan. Dengan begitu lebih mudah mengecek apakah interview mengkonfirmasi atau membantah asumsi, bukan sekedar mengumpulkan cerita.
+
+## Self-assessment
+
+| Dimensi | Skor 1-4 | Evidence singkat |
+|---|---:|---|
+| Person & Character | 4 | Kak Dani diperlakukan sebagai sumber otoritas - pertanyaan terbuka, bukan leading; beliau offer terlibat di akhir sebagai sinyal kepercayaan |
+| Objective & State | 4 | Asumsi awal ditulis eksplisit sebelum interview dan dibantah oleh data - adaptasi objective dilakukan real-time |
+| Repertoire, Language & AI | 4 | Open question, paraphrase, pertanyaan dampak dan constraint digunakan berurut; AI dibatasi untuk labeling post-interview |
+| Response & Adaptation | 4 | Asumsi promosi salah - gua follow the data bukan defend hipotesis; pertanyaan beralih ke retention tanpa resistensi |
+| Agreement, Action & Relationship | 4 | Problem statement dirumuskan, dibacakan, dikoreksi, dan dikonfirmasi; Kak Dani offer terlibat di langkah berikutnya |
+
+**Total:** 20 / 20
+
+::: {.assessor-only}
+### Assessment dosen
+
+**Skor:** — / 20
+**Evidence yang mendukung:** —
+**Prioritas perbaikan:** —
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+:::
