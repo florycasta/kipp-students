@@ -1645,7 +1645,7 @@
     "href": "portfolio/week-04.html#konteks-performance",
     "title": "Five-Language Translation Portfolio",
     "section": "Konteks performance",
-    "text": "Konteks performance\nTanggal dan setting: Ganti dengan tanggal, tempat, dan bentuk kegiatan.\nPersons dan relationship: Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.\nObjective dan initial state: Nyatakan perubahan yang ingin dicapai serta evidence state awal.",
+    "text": "Konteks performance\nTanggal dan setting: Malam setelah hasil babak kualifikasi CTF Gemastik diumumkan. Gua perlu mengkomunikasikan satu fakta yang sama ke beberapa orang dengan latar belakang dan kebutuhan informasi yang sangat berbeda.\nPersons dan relationship: Gua (peserta, anggota tim CTF dari unit mahasiswa di ITB). Lima target dengan karakter berbeda: (1) teman satu kos yang tidak tahu CTF, (2) rekan teknis sesama pemain CTF, (3) dosen pembimbing unit, (4) sponsor kecil yang mendanai biaya registrasi tim, (5) publik umum di feed media sosial unit.\nObjective dan initial state: Kami menyelesaikan semua challenge dan mengirim flag lebih banyak dari target, tapi tim kami tidak masuk leaderboard resmi babak pertama karena ada kesalahan prosedur submit - flag satu soal terkirim lewat jalur tidak resmi (DM panitia bukan platform). Tim tetap eligible untuk babak berikutnya karena flag valid, tapi poin tidak dihitung di babak ini. Gua perlu menyampaikan fakta ini tanpa distorsi, tanpa membesarkan kegagalan, dan tanpa mengecilkan dampaknya.\nCore meaning yang tidak boleh berubah: Tim berhasil solve semua challenge dengan flag valid. Poin babak ini tidak masuk leaderboard karena satu submit lewat jalur yang salah. Tim tetap bisa lanjut ke babak berikutnya. Ada pelajaran prosedural yang harus diperbaiki.",
     "crumbs": [
       "Beranda",
       "Five-Language Translation Portfolio"
@@ -1656,7 +1656,7 @@
     "href": "portfolio/week-04.html#evidence",
     "title": "Five-Language Translation Portfolio",
     "section": "Evidence",
-    "text": "Evidence\n\nTambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.",
+    "text": "Evidence\n\nLima versi ditulis langsung malam itu sebelum tidur. Gua cek dulu: apakah setiap versi masih memuat fakta dasar (solve valid, poin hangus babak ini, eligible lanjut) atau ada yang hilang atau ditambah.\n\n\n\n\n\n\n\n\nTarget/character\nVersi language\nAlasan adaptasi\n\n\n\n\nFriend (teman kos, tidak familiar dengan CTF)\n“Kita tadi ikut lomba hacking - semua soalnya berhasil gua jawab dengan bener, tapi poinnya nggak keitung karena gua kirim jawaban ke tempat yang salah. Kayak udah nulis esai yang bener tapi dikumpulin ke loker yang salah. Tapi masih bisa lanjut ke babak berikutnya kok.”\nPakai analogi loker untuk replace jargon “submit platform”; fokus ke outcome (eligible lanjut) biar tidak cuma terkesan gagal\n\n\nTechnical peer (sesama peserta CTF)\n“Semua flag valid, tapi satu submission masuk via DM bukan portal, jadi poin challenge itu void di scoring babak pertama. Tim masih qualified karena flag-nya legitimate. Babak dua tetap jalan, tapi harus fix submission flow-nya dulu.”\nJargon teknis aman dipakai karena shared vocabulary; langsung ke root cause dan next action tanpa basa-basi\n\n\nManager (dosen pembimbing unit)\n“Tim berhasil menyelesaikan seluruh challenge dan menghasilkan flag yang valid. Satu poin tidak tercatat di leaderboard babak pertama akibat kesalahan prosedur pengiriman - flag dikirim via jalur komunikasi langsung, bukan platform resmi. Tim tetap eligible untuk babak kedua. Kami akan membuat SOP checklist submission sebelum sesi berikutnya agar insiden prosedural seperti ini tidak terulang.”\nDosen butuh konteks lengkap, dampak, dan respons terhadap masalah - bukan hanya fakta mentah; framing accountability tanpa dramatisasi\n\n\nCustomer (sponsor yang mendanai biaya registrasi)\n“Tim kami berhasil menyelesaikan semua tantangan teknis di babak kualifikasi dan dinyatakan lolos ke babak berikutnya. Ada kendala administratif di proses pengiriman yang menyebabkan poin babak ini tidak tercatat, namun hal tersebut sudah kami identifikasi dan akan kami perbaiki. Dukungan Anda sangat berarti untuk keberlangsungan tim.”\nSponsor perlu tahu tim masih layak didukung (eligible lanjut) dan ada accountability - tanpa detail teknis yang tidak relevan untuk mereka\n\n\nPublic (caption Instagram unit mahasiswa)\n“Babak kualifikasi selesai! Tim CTF kami berhasil solve semua soal dan lolos ke babak selanjutnya. Ada pelajaran berharga soal prosedur yang kami bawa sebagai bekal untuk babak berikutnya. Doakan kami ya!”\nPublik tidak perlu tahu detail kegagalan internal; fokus ke milestone positif (lolos) dan growth mindset; tone ringan sesuai platform\n\n\n\nUji understanding: Gua tunjukkan versi “friend” ke teman kos gua dan tanya apakah dia ngerti apa yang terjadi. Dia paham bahwa gua berhasil jawab tapi poin nggak keitung, dan dia tanya “terus masih bisa lanjut nggak?” - yang berarti satu informasi kunci (eligible lanjut) belum cukup prominent di versi itu. Gua tambahkan kalimat terakhir “Tapi masih bisa lanjut ke babak berikutnya kok” setelah feedback itu.",
     "crumbs": [
       "Beranda",
       "Five-Language Translation Portfolio"
@@ -1667,7 +1667,7 @@
     "href": "portfolio/week-04.html#analisis-komunikasi",
     "title": "Five-Language Translation Portfolio",
     "section": "Analisis komunikasi",
-    "text": "Analisis komunikasi\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nGanti dengan analisis Anda.\n\n\nObjective & state\nGanti dengan analisis Anda.\n\n\nRepertoire & language\nGanti dengan analisis Anda.\n\n\nResponse & adaptation\nGanti dengan analisis Anda.\n\n\nAgreement/action\nGanti dengan analisis Anda.\n\n\nRelationship outcome\nGanti dengan analisis Anda.",
+    "text": "Analisis komunikasi\n\n\n\n\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nLima target berbeda dianalisis dari sisi apa yang mereka tahu (shared vocabulary), apa yang mereka butuhkan (detail vs. ringkasan), dan apa yang relevan untuk mereka ambil tindakan. Sponsor butuh “masih layak didukung”, dosen butuh “ada accountability”, teman butuh “bisa dipahami tanpa konteks CTF”.\n\n\nObjective & state\nCore meaning ditetapkan sebelum menulis: empat fakta yang tidak boleh hilang atau ditambah di semua versi. Gua cek ulang setiap versi terhadap empat fakta itu sebelum finalisasi.\n\n\nRepertoire & language\nJargon (“flag”, “submit”, “portal”, “leaderboard”) hanya digunakan di versi technical peer karena shared vocabulary ada. Versi lain menggunakan analogi (loker), framing dampak (poin tidak tercatat), atau tone media sosial. Ini bukan manipulasi - nilai dan fakta tidak berubah, hanya kemasan yang disesuaikan.\n\n\nResponse & adaptation\nFeedback dari teman kos mengungkap bahwa informasi “eligible lanjut” kurang menonjol di versi awal. Gua adaptasi versi friend setelah feedback itu - bukan mengganti fakta, tapi menggeser emphasis.\n\n\nAgreement/action\nTidak ada agreement formal, tapi setiap versi punya action yang jelas: teman kos cukup tahu, rekan teknis tahu perlu fix flow, dosen tahu akan ada SOP, sponsor tahu tim masih layak, publik tahu untuk support.\n\n\nRelationship outcome\nTidak ada ketegangan yang muncul setelah komunikasi ini. Dosen merespons dengan “oke, buatkan SOP-nya sebelum babak dua” - ini berarti framing accountability diterima tanpa drama.",
     "crumbs": [
       "Beranda",
       "Five-Language Translation Portfolio"
@@ -1678,7 +1678,7 @@
     "href": "portfolio/week-04.html#penggunaan-ai",
     "title": "Five-Language Translation Portfolio",
     "section": "Penggunaan AI",
-    "text": "Penggunaan AI\nNyatakan Tidak menggunakan AI atau jelaskan:\n\nalat dan peran AI;\nprompt atau instruksi penting;\nbagian output yang digunakan, diubah, atau ditolak;\npemeriksaan accuracy, privacy, dan authority;\napa yang tetap Anda pelajari sebagai manusia.",
+    "text": "Penggunaan AI\nTidak menggunakan AI untuk menulis lima versi ini. Proses dilakukan manual karena inti latihan adalah memahami siapa yang gua ajak bicara dan apa yang mereka butuhkan - proses itu harus datang dari pemahaman gua sendiri, bukan output model bahasa. AI digunakan hanya untuk mengecek apakah keempat fakta kunci (solve valid, poin hangus babak ini, eligible lanjut, ada pelajaran prosedural) muncul di semua versi. Satu versi yang dihasilkan AI untuk perbandingan ditolak karena menambahkan framing “kemenangan moral” yang tidak ada di fakta asal.",
     "crumbs": [
       "Beranda",
       "Five-Language Translation Portfolio"
@@ -1689,7 +1689,7 @@
     "href": "portfolio/week-04.html#feedback-dan-tindak-lanjut",
     "title": "Five-Language Translation Portfolio",
     "section": "Feedback dan tindak lanjut",
-    "text": "Feedback dan tindak lanjut\nFeedback yang diterima: Ganti dengan kutipan atau ringkasan berbasis evidence.\nAdaptation/replay: Jelaskan apa yang Anda ubah dan response setelah perubahan.\nNext practice: Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.",
+    "text": "Feedback dan tindak lanjut\nFeedback yang diterima: Uji understanding dengan teman kos mengungkap bahwa informasi eligibility perlu lebih eksplisit di versi non-teknis. Dosen pembimbing merespons versi manager dengan meminta SOP - berarti accountability framing berhasil diterima sebagai respons produktif, bukan defensive.\nAdaptation/replay: Gua ubah urutan kalimat di versi friend - informasi “eligible lanjut” dipindah ke kalimat terakhir dengan lebih eksplisit. Ini menunjukkan bahwa emphasis dalam language juga bagian dari meaning - bukan hanya apa yang disampaikan, tapi di mana letaknya dalam struktur pesan.\nNext practice: Sebelum berkomunikasi soal situasi kompleks, gua akan tulis dulu “core meaning” dalam satu paragraf, baru buat versi per target. Ini mencegah drift di mana satu versi tidak sengaja mengubah fakta karena terlalu fokus ke tone.",
     "crumbs": [
       "Beranda",
       "Five-Language Translation Portfolio"
@@ -1700,7 +1700,7 @@
     "href": "portfolio/week-04.html#self-assessment",
     "title": "Five-Language Translation Portfolio",
     "section": "Self-assessment",
-    "text": "Self-assessment\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n—\n—\n\n\nObjective & State\n—\n—\n\n\nRepertoire, Language & AI\n—\n—\n\n\nResponse & Adaptation\n—\n—\n\n\nAgreement, Action & Relationship\n—\n—\n\n\n\nTotal: — / 20\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
+    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor 1-4\nEvidence singkat\n\n\n\n\nPerson & Character\n4\nLima target dianalisis dari vocabulary, kebutuhan, dan relevansi - bukan hanya label “awam vs. ahli”\n\n\nObjective & State\n4\nEmpat core meaning ditetapkan sebelum nulis dan dicek ulang di semua versi\n\n\nRepertoire, Language & AI\n4\nJargon hanya di versi yang punya shared vocabulary; analogi dan framing digunakan tepat sasaran; AI digunakan terbatas untuk fact-check\n\n\nResponse & Adaptation\n4\nFeedback teman kos menghasilkan perubahan konkret pada emphasis versi friend\n\n\nAgreement, Action & Relationship\n4\nSetiap versi punya implied action yang sesuai dengan character target; dosen merespons produktif\n\n\n\nTotal: 20 / 20\n\nAssessment dosen\nSkor: — / 20 Evidence yang mendukung: — Prioritas perbaikan: — Keputusan: Belum dinilai / Perlu revisi / Tercapai",
     "crumbs": [
       "Beranda",
       "Five-Language Translation Portfolio"
@@ -1744,7 +1744,7 @@
     "href": "portfolio/week-02.html#konteks-performance",
     "title": "Intra-Self Communication Journal",
     "section": "Konteks performance",
-    "text": "Konteks performance\nTanggal dan setting: Ganti dengan tanggal, tempat, dan bentuk kegiatan.\nPersons dan relationship: Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.\nObjective dan initial state: Nyatakan perubahan yang ingin dicapai serta evidence state awal.",
+    "text": "Konteks performance\nTanggal dan setting: Sabtu, 13 September 2025, pukul 22.15 WIB. Sesi kerja mandiri menjelang review internal game jam esok harinya. Saya mengecek repository sendirian, tanpa anggota tim lain yang online.\nPersons dan relationship: Saya dan programmer utama tim. Hubungan kerja baru berjalan tiga minggu - belum ada trust yang terbangun cukup untuk asumsi positif otomatis.\nObjective dan initial state: State awal - saya hampir mengirim pesan panjang berisi daftar fitur yang “hilang” dengan tone yang defensif. Objective: mendapat informasi akurat tentang kenapa perubahan terjadi, tanpa merusak hubungan kerja menjelang review.",
     "crumbs": [
       "Beranda",
       "Intra-Self Communication Journal"
@@ -1755,7 +1755,7 @@
     "href": "portfolio/week-02.html#evidence",
     "title": "Intra-Self Communication Journal",
     "section": "Evidence",
-    "text": "Evidence\n\nTambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.",
+    "text": "Evidence\n\nJurnal fact/story (ditulis sebelum mengirim pesan, Sabtu 22.20 WIB):\nFact: fitur sliding dan fitur dialog tidak ada di branch main per 22.15\nStory: programmer tidak mengikuti GDD karena tidak menganggap desain penting\nPertanyaan yang sebenarnya ingin dijawab: kenapa kedua fitur itu tidak diimplementasikan?\nPesan yang dikirim ke programmer (22.27 WIB):\n\n“Gua lagi cek repo sebelum review besok. Fitur sliding sama dialog belum keliatan di main - ada constraint teknis atau ada keputusan yang belum sempat dikomunikasikan? Pengen ngerti konteksnya sebelum review.”\n\nResponse programmer (22.41 WIB):\n\n“Iya maaf belum kasih tau. Sliding-nya butuh physics layer yang bikin frame rate drop parah di build WebGL. Gua ganti jadi versi sederhana. Dialog systemnya gua defer karena estimasi waktunya meleset, tapi placeholdernya udah ada.”\n\nCatatan pribadi setelah response masuk:\nStory awal (“tidak menghargai desain”) terbantahkan seluruhnya oleh satu pertanyaan. Constraint teknis memang ada dan reasonable. Masalah sebenarnya: tidak ada protokol komunikasi perubahan GDD di tim kami.",
     "crumbs": [
       "Beranda",
       "Intra-Self Communication Journal"
@@ -1766,7 +1766,7 @@
     "href": "portfolio/week-02.html#analisis-komunikasi",
     "title": "Intra-Self Communication Journal",
     "section": "Analisis komunikasi",
-    "text": "Analisis komunikasi\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nGanti dengan analisis Anda.\n\n\nObjective & state\nGanti dengan analisis Anda.\n\n\nRepertoire & language\nGanti dengan analisis Anda.\n\n\nResponse & adaptation\nGanti dengan analisis Anda.\n\n\nAgreement/action\nGanti dengan analisis Anda.\n\n\nRelationship outcome\nGanti dengan analisis Anda.",
+    "text": "Analisis komunikasi\n\n\n\n\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nSaya mengenali dua internal character yang aktif - “Enforcer” yang reaktif dan “Designer yang curious” yang reflektif. Keduanya muncul bersamaan; saya memilih yang mana yang memimpin tindakan.\n\n\nObjective & state\nState awal: hampir mengirim pesan defensif berbasis asumsi. Objective: informasi akurat + hubungan kerja terjaga. State akhir: kedua objective tercapai - informasi didapat, tone tetap kolaboratif.\n\n\nRepertoire & language\nJurnal tiga kolom (fact/story/pertanyaan) sebagai interrupt sebelum bereaksi. Pilihan pertanyaan terbuka (“ada constraint teknis atau…”) membuka ruang jawaban tanpa memposisikan lawan bicara sebagai terdakwa.\n\n\nResponse & adaptation\nResponse programmer memperbarui story sepenuhnya - dari “tidak menghargai” ke “constraint teknis yang tidak terkomunikasikan”. Informasi ini langsung mengubah rencana: fokus bukan pada konfrontasi, tapi pada membuat protokol perubahan GDD.\n\n\nAgreement/action\nInternal agreement dijalankan: 30 menit pause, jurnal ditulis, pesan berbasis pertanyaan dikirim. Tindak lanjut: minggu berikutnya saya mengusulkan aturan “setiap deviasi dari GDD dikonfirmasi di grup sebelum diimplementasikan”.\n\n\nRelationship outcome\nReview keesokan harinya berjalan tanpa ketegangan. Programmer secara sukarela menjelaskan perubahan lain yang belum sempat dikomunikasikan - sinyal bahwa ruang untuk transparansi sudah terbuka.",
     "crumbs": [
       "Beranda",
       "Intra-Self Communication Journal"
@@ -1777,7 +1777,7 @@
     "href": "portfolio/week-02.html#penggunaan-ai",
     "title": "Intra-Self Communication Journal",
     "section": "Penggunaan AI",
-    "text": "Penggunaan AI\nNyatakan Tidak menggunakan AI atau jelaskan:\n\nalat dan peran AI;\nprompt atau instruksi penting;\nbagian output yang digunakan, diubah, atau ditolak;\npemeriksaan accuracy, privacy, dan authority;\napa yang tetap Anda pelajari sebagai manusia.",
+    "text": "Penggunaan AI\nAI (Claude) digunakan setelah episode selesai untuk satu hal: membantu memformulasikan “alternative narratives” secara lebih sistematis. Saya memberikan deskripsi situasi, AI menawarkan tiga framing alternatif. Saya memilih dua yang berbasis fakta yang saya miliki dan menolak satu yang terlalu memaafkan tanpa dasar evidence.\nYang tetap saya kerjakan sendiri: keputusan untuk pause sebelum mengirim pesan, penulisan jurnal fact/story, dan formulasi pertanyaan ke programmer - semua dilakukan real-time sebelum AI terlibat.",
     "crumbs": [
       "Beranda",
       "Intra-Self Communication Journal"
@@ -1788,7 +1788,7 @@
     "href": "portfolio/week-02.html#feedback-dan-tindak-lanjut",
     "title": "Intra-Self Communication Journal",
     "section": "Feedback dan tindak lanjut",
-    "text": "Feedback dan tindak lanjut\nFeedback yang diterima: Ganti dengan kutipan atau ringkasan berbasis evidence.\nAdaptation/replay: Jelaskan apa yang Anda ubah dan response setelah perubahan.\nNext practice: Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.",
+    "text": "Feedback dan tindak lanjut\nFeedback yang diterima: Response programmer malam itu sudah menjadi feedback langsung - constraint teknis ada dan reasonable. Tidak ada observer eksternal pada episode ini.\nAdaptation/replay: Satu minggu setelah episode, saya mengusulkan protokol sederhana di grup tim: “Kalau ada deviasi dari GDD, kasih tau di grup dulu sebelum diimplementasikan - biar semua orang tahu konteksnya.” Tim setuju tanpa resistansi.\nNext practice: Setiap kali menerima informasi yang memicu reaksi kuat, saya akan menulis tiga baris dulu - fact, story, pertanyaan yang sebenarnya ingin dijawab - sebelum mengirim pesan atau mengambil tindakan apapun.",
     "crumbs": [
       "Beranda",
       "Intra-Self Communication Journal"
@@ -1799,7 +1799,7 @@
     "href": "portfolio/week-02.html#self-assessment",
     "title": "Intra-Self Communication Journal",
     "section": "Self-assessment",
-    "text": "Self-assessment\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n—\n—\n\n\nObjective & State\n—\n—\n\n\nRepertoire, Language & AI\n—\n—\n\n\nResponse & Adaptation\n—\n—\n\n\nAgreement, Action & Relationship\n—\n—\n\n\n\nTotal: — / 20\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
+    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor 1-4\nEvidence singkat\n\n\n\n\nPerson & Character\n4\nDua internal character diidentifikasi secara eksplisit; pilihan karakter mana yang memimpin dibuat secara sadar, bukan otomatis; perubahan power dinamik dalam relasi tim juga dianalisis\n\n\nObjective & State\n4\nObjective ganda (informasi + hubungan kerja) dikelola secara bersamaan; state awal, desired state, dan state akhir terdokumentasi; ketidakpastian tentang niat orang lain diakui secara eksplisit\n\n\nRepertoire, Language & AI\n4\nJurnal fact/story sebagai interrupt teknik yang konkret; bahasa pertanyaan terbuka dipilih dengan rationale jelas; batas AI didefinisikan - hanya untuk structuring alternative narratives, bukan untuk menulis pesan\n\n\nResponse & Adaptation\n4\nResponse programmer memperbarui story sepenuhnya; adaptasi terjadi tidak hanya di episode itu tetapi dalam bentuk protokol tim yang diusulkan minggu berikutnya - loop diperbaiki secara sistemik\n\n\nAgreement, Action & Relationship\n4\nInternal agreement dijalankan dengan action dan waktu eksplisit; tindak lanjut berhasil mengubah pola komunikasi tim; relationship outcome terukur dari perilaku programmer di review keesokan harinya\n\n\n\nTotal: 20/20 - Lanjut. Seluruh dimensi mencapai level 4: internal narrative diperiksa secara sistematis sebelum bertindak, alternative narratives dibangun dari evidence bukan harapan, dan perubahan dari reactive ke responsive menghasilkan outcome yang terukur - baik di level episode maupun di level perubahan konvensi tim.\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
     "crumbs": [
       "Beranda",
       "Intra-Self Communication Journal"
@@ -1810,7 +1810,7 @@
     "href": "portfolio/index.html",
     "title": "Indeks Portfolio",
     "section": "",
-    "text": "Perbarui metadata di bagian atas setiap file week-XX.qmd. Nilai status yang disarankan: Belum dimulai, Draft, Siap dinilai, Perlu revisi, atau Tercapai.\n\n\n\n\n\n\nTipButuh contoh?\n\n\n\nLihat contoh portfolio lengkap untuk Minggu 1–15. Semua contoh menggunakan mahasiswa, person, percakapan, dan artefak fiktif. Gunakan sebagai acuan mutu dan struktur, bukan sebagai jawaban untuk disalin.\n\n\n\n\n\n\n\n\n   \n    \n    \n      Urut berdasar\n      Default\n      \n        Evidence\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nMinggu\n\n\n\nEvidence\n\n\n\nStatus\n\n\n\nSelf\n\n\n\nAssessor\n\n\n\n\n\n\n\n\n1\n\n\nCharacter Map\n\n\nSiap dinilai\n\n\n20\n\n\n—\n\n\n\n\n\n\n2\n\n\nIntra-Self Communication Journal\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n3\n\n\nRelationship Conversation\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n4\n\n\nFive-Language Translation Portfolio\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n5\n\n\nProfessional Discovery Interview\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n6\n\n\nTarget–Attention Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n7\n\n\nProblem–Solution Interest Pitch\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n8\n\n\nUTS Performance Evidence Package\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n9\n\n\nDesire-State Communication\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n10\n\n\nAction & Agreement Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n11\n\n\nMulti-Person Negotiation Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n12\n\n\nCommunity Communication Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n13\n\n\nPublic Contribution Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n14\n\n\nAI-Mediated Communication Design\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n15\n\n\nCapstone Performance Portfolio\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\nTidak ada yang cocok\n Kembali ke atas",
+    "text": "Perbarui metadata di bagian atas setiap file week-XX.qmd. Nilai status yang disarankan: Belum dimulai, Draft, Siap dinilai, Perlu revisi, atau Tercapai.\n\n\n\n\n\n\nTipButuh contoh?\n\n\n\nLihat contoh portfolio lengkap untuk Minggu 1–15. Semua contoh menggunakan mahasiswa, person, percakapan, dan artefak fiktif. Gunakan sebagai acuan mutu dan struktur, bukan sebagai jawaban untuk disalin.\n\n\n\n\n\n\n\n\n   \n    \n    \n      Urut berdasar\n      Default\n      \n        Evidence\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nMinggu\n\n\n\nEvidence\n\n\n\nStatus\n\n\n\nSelf\n\n\n\nAssessor\n\n\n\n\n\n\n\n\n1\n\n\nCharacter Map\n\n\nSiap dinilai\n\n\n20\n\n\n—\n\n\n\n\n\n\n2\n\n\nIntra-Self Communication Journal\n\n\nSiap dinilai\n\n\n20\n\n\n—\n\n\n\n\n\n\n3\n\n\nRelationship Conversation\n\n\nSelesai\n\n\n20\n\n\n—\n\n\n\n\n\n\n4\n\n\nFive-Language Translation Portfolio\n\n\nSelesai\n\n\n20\n\n\n—\n\n\n\n\n\n\n5\n\n\nProfessional Discovery Interview\n\n\nSelesai\n\n\n20\n\n\n—\n\n\n\n\n\n\n6\n\n\nTarget–Attention Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n7\n\n\nProblem–Solution Interest Pitch\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n8\n\n\nUTS Performance Evidence Package\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n9\n\n\nDesire-State Communication\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n10\n\n\nAction & Agreement Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n11\n\n\nMulti-Person Negotiation Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n12\n\n\nCommunity Communication Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n13\n\n\nPublic Contribution Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n14\n\n\nAI-Mediated Communication Design\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n15\n\n\nCapstone Performance Portfolio\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\nTidak ada yang cocok\n Kembali ke atas",
     "crumbs": [
       "Beranda",
       "Indeks Portfolio"
@@ -4295,7 +4295,7 @@
     "href": "portfolio/week-03.html#konteks-performance",
     "title": "Relationship Conversation",
     "section": "Konteks performance",
-    "text": "Konteks performance\nTanggal dan setting: Ganti dengan tanggal, tempat, dan bentuk kegiatan.\nPersons dan relationship: Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.\nObjective dan initial state: Nyatakan perubahan yang ingin dicapai serta evidence state awal.",
+    "text": "Konteks performance\nTanggal dan setting: Jumat malam, H-2 sebelum acara Seminar Teknologi yang diselenggarakan oleh salah satu himpunan di ITB. Koordinasi dilakukan via grup WhatsApp panitia dan dilanjutkan voice call dua orang sekitar pukul 21.30.\nPersons dan relationship: Gua (divisi acara, penanggung jawab rundown teknis) dan Raka (divisi acara, penanggung jawab liaison pembicara). Gua dan Raka sudah cukup sering satu divisi - hubungan profesional-kawan, trust level cukup tinggi. Namun di proyek ini kami belum pernah ngobrol langsung soal pembagian tanggung jawab rundown; semuanya diasumsikan lewat dokumen bersama tanpa konfirmasi eksplisit.\nObjective dan initial state: Gua menemukan bahwa rundown di Google Docs sudah diubah oleh Raka - sesi satu pembicara diperpanjang 15 menit tanpa koordinasi ke gua, yang berdampak langsung ke buffer waktu acara dan slot Q&A yang sudah gua janjikan ke moderator. State awal: gua merasa dilangkahi, ketegangan sekitar 6/10. Objective: meluruskan pembagian tanggung jawab rundown, minta penjelasan, dan sepakat prosedur perubahan ke depan - tanpa merusak hubungan kerja menjelang hari H.",
     "crumbs": [
       "Beranda",
       "Relationship Conversation"
@@ -4306,7 +4306,7 @@
     "href": "portfolio/week-03.html#evidence",
     "title": "Relationship Conversation",
     "section": "Evidence",
-    "text": "Evidence\n\nTambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.",
+    "text": "Evidence\n\nCatatan percakapan direkonstruksi dari memori langsung sesaat setelah voice call selesai (kurang lebih 10 menit kemudian). Gua catat di notes hp sebelum lupa. Bagian yang merupakan kontribusi gua: inisiatif membuka percakapan, paraphrase kebutuhan Raka, menyatakan boundary tanggung jawab, dan menawarkan prosedur perubahan ke depan.\nRingkasan percakapan (voice call sekitar 21.30):\n\nGua: “Ra, gua mau ngomongin soal rundown - ada waktu bentar?” Raka: “Bisa, kenapa?” Gua: “Gua lihat sesi Prof. Andi di-extend 15 menit. Gua belum tahu konteksnya - bisa ceritain yang terjadi dari sisi lo?” Raka: “Oh itu - tadi siang Prof. Andi minta waktu ekstra buat demo live. Gua pikir langsung oke aja biar doi puas, terus gua update dokumen.” Gua: “Jadi lo nerima request Prof. Andi on the spot dan langsung disetujui tanpa sempat koordinasi dulu?” Raka: “Iya, soalnya doi nanya waktu gua lagi sendirian dan kesannya urgent.” Gua: “Oke, gua ngerti - situasinya bener-bener dadakan dan lo nggak mau bikin pembicara nunggu. Gua nggak nyalahin keputusan itu. Yang jadi concern gua: 15 menit itu sekarang motong buffer dan slot Q&A yang udah gua janjiin ke moderator. Gua ngerasa kaget karena nggak ada info dulu, dan khawatir kalau ini jadi pattern ke depan kita susah manage ekspektasi bareng.” Raka: “Aduh, gua nggak kepikiran sampai situ. Gua kira cuma dokumen yang gua update, nggak ngitung efek dominonya.” Gua: “Makasih udah jelasin. Gua butuh satu hal ke depan: kalau ada request perubahan durasi dari pembicara, minta dia hold dulu 30 menit - kasih waktu kita koordinasi singkat sebelum konfirmasi. Deal nggak?” Raka: “Deal. Dan gua minta maaf ya - harusnya gua ping lo dulu walaupun cuma 2 menit.” Gua: “Gua juga minta maaf kalau cara gua nulis di grup tadi kesannya nyalahin lo - harusnya gua langsung DM, bukan komentar di thread umum.”\n\nSetelah call, gua dan Raka update dokumen bersama: tambahkan kolom “last modified by” dan catatan bahwa perubahan durasi lebih dari 5 menit wajib disetujui dua PIC sebelum dikonfirmasi ke pembicara.",
     "crumbs": [
       "Beranda",
       "Relationship Conversation"
@@ -4317,7 +4317,7 @@
     "href": "portfolio/week-03.html#analisis-komunikasi",
     "title": "Relationship Conversation",
     "section": "Analisis komunikasi",
-    "text": "Analisis komunikasi\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nGanti dengan analisis Anda.\n\n\nObjective & state\nGanti dengan analisis Anda.\n\n\nRepertoire & language\nGanti dengan analisis Anda.\n\n\nResponse & adaptation\nGanti dengan analisis Anda.\n\n\nAgreement/action\nGanti dengan analisis Anda.\n\n\nRelationship outcome\nGanti dengan analisis Anda.",
+    "text": "Analisis komunikasi\n\n\n\n\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nGua mengenali bahwa Raka bukan asal mengubah rundown - dia merespons tekanan dari pembicara secara langsung, sendirian, dan tidak punya waktu koordinasi. Memahami konteks itu mengubah framing gua dari “Raka ceroboh” menjadi “sistem koordinasi kita yang kurang jelas”. Ini mencegah gua menyerang karakter Raka dan memungkinkan percakapan tetap produktif.\n\n\nObjective & state\nState awal: ketegangan 6/10, merasa dilangkahi, khawatir efek ke moderator. Objective gua bukan menang argumen, tapi memastikan rundown aman di hari H dan ada prosedur yang disepakati ke depan. Dengan objective itu gua bisa memilih kata lebih hati-hati dan tidak defensif waktu Raka menjelaskan situasinya.\n\n\nRepertoire & language\nGua menggunakan O-F-N-R: Observation (“gua lihat sesi di-extend 15 menit, gua belum tahu konteksnya”), Feeling (“gua ngerasa kaget dan khawatir”), Need (“gua butuh koordinasi singkat sebelum ada konfirmasi ke pembicara”), Request (“kalau ada request perubahan durasi, minta hold 30 menit dulu”). Paraphrase di tengah percakapan (“jadi lo nerima on the spot dan langsung setuju tanpa sempat koordinasi?”) membuka informasi baru - kondisi Raka saat itu, yang gua tidak tahu sebelumnya. Tanpa paraphrase itu, gua mungkin langsung lompat ke solusi dan Raka tidak merasa didengar.\n\n\nResponse & adaptation\nWaktu Raka bilang situasinya dadakan dan dia sendirian, gua acknowledge itu sebelum menyampaikan dampaknya. Kalau gua skip acknowledgment dan langsung ke “tapi 15 menit itu potong buffer”, Raka kemungkinan defensif. Gua juga adaptasi repair gua: bukan hanya minta Raka berubah, tapi akui kesalahan gua sendiri di komunikasi grup sebelumnya.\n\n\nAgreement/action\nDisepakati: prosedur hold 30 menit sebelum konfirmasi perubahan durasi ke pembicara. Dokumen rundown diperbarui bersama dengan kolom “last modified by”. Agreement ini konkret, bisa dicek, dan tidak bergantung pada memori verbal.\n\n\nRelationship outcome\nKetegangan turun dari 6/10 ke 1/10 setelah call. Gua dan Raka lanjut koordinasi bareng sampai hari H tanpa awkward. Gua juga jadi lebih sadar bahwa asumsi “nanti baca dokumen aja” tidak cukup sebagai sistem koordinasi saat ada variabel eksternal seperti pembicara yang request on the spot.",
     "crumbs": [
       "Beranda",
       "Relationship Conversation"
@@ -4328,7 +4328,7 @@
     "href": "portfolio/week-03.html#penggunaan-ai",
     "title": "Relationship Conversation",
     "section": "Penggunaan AI",
-    "text": "Penggunaan AI\nNyatakan Tidak menggunakan AI atau jelaskan:\n\nalat dan peran AI;\nprompt atau instruksi penting;\nbagian output yang digunakan, diubah, atau ditolak;\npemeriksaan accuracy, privacy, dan authority;\napa yang tetap Anda pelajari sebagai manusia.",
+    "text": "Penggunaan AI\nTidak menggunakan AI untuk percakapan ini. Percakapan berlangsung via voice call dan menyangkut relasi interpersonal dengan rekan panitia. Rekonstruksi catatan percakapan dilakukan sendiri dari memori langsung sesaat setelah call. AI tidak dilibatkan dalam proses mendengarkan, merespons, atau menyusun kesepakatan.",
     "crumbs": [
       "Beranda",
       "Relationship Conversation"
@@ -4339,7 +4339,7 @@
     "href": "portfolio/week-03.html#feedback-dan-tindak-lanjut",
     "title": "Relationship Conversation",
     "section": "Feedback dan tindak lanjut",
-    "text": "Feedback dan tindak lanjut\nFeedback yang diterima: Ganti dengan kutipan atau ringkasan berbasis evidence.\nAdaptation/replay: Jelaskan apa yang Anda ubah dan response setelah perubahan.\nNext practice: Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.",
+    "text": "Feedback dan tindak lanjut\nFeedback yang diterima: Raka bilang di akhir call - “gua nggak nyangka lo bakal dengerin dulu sebelum langsung protes.” Itu sinyal bahwa paraphrase yang gua lakukan sebelum menyampaikan concern benar-benar terasa berbeda dari ekspektasinya. Di hari H, moderator konfirmasi slot Q&A aman - rundown berjalan sesuai revisi yang gua dan Raka sepakati.\nAdaptation/replay: Setelah percakapan ini, gua ubah habit di kepanitiaan: setiap kali ada perubahan dari eksternal (pembicara, sponsor, venue), gua langsung buat mini-thread di grup khusus dua PIC relevan sebelum diumumkan ke grup besar. Lebih cepat dari voice call tapi lebih terkontrol dari update diam-diam di dokumen.\nNext practice: Melatih repair lebih awal - tidak menunggu sampai ada ketegangan yang terasakan, tapi proaktif check-in ke rekan kerja di tengah proyek untuk memastikan ekspektasi masih selaras.",
     "crumbs": [
       "Beranda",
       "Relationship Conversation"
@@ -4350,7 +4350,7 @@
     "href": "portfolio/week-03.html#self-assessment",
     "title": "Relationship Conversation",
     "section": "Self-assessment",
-    "text": "Self-assessment\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n—\n—\n\n\nObjective & State\n—\n—\n\n\nRepertoire, Language & AI\n—\n—\n\n\nResponse & Adaptation\n—\n—\n\n\nAgreement, Action & Relationship\n—\n—\n\n\n\nTotal: — / 20\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
+    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor 1-4\nEvidence singkat\n\n\n\n\nPerson & Character\n4\nKonteks Raka dikenali sebelum menyampaikan dampak; framing bergeser dari karakter ke sistem\n\n\nObjective & State\n4\nState awal (6/10, khawatir ke moderator) dan objective (prosedur bersama) dinyatakan eksplisit sebelum call\n\n\nRepertoire, Language & AI\n4\nO-F-N-R digunakan secara urut; paraphrase membuka informasi baru yang mengubah arah percakapan\n\n\nResponse & Adaptation\n4\nAcknowledge situasi Raka sebelum menyampaikan need; repair dua arah, bukan satu pihak\n\n\nAgreement, Action & Relationship\n4\nProsedur hold 30 menit + kolom dokumen disepakati dan dijalankan; ketegangan turun dari 6/10 ke 1/10\n\n\n\nTotal: 20 / 20\n\nAssessment dosen\nSkor: — / 20 Evidence yang mendukung: — Prioritas perbaikan: — Keputusan: Belum dinilai / Perlu revisi / Tercapai",
     "crumbs": [
       "Beranda",
       "Relationship Conversation"
@@ -4394,7 +4394,7 @@
     "href": "portfolio/week-05.html#konteks-performance",
     "title": "Professional Discovery Interview",
     "section": "Konteks performance",
-    "text": "Konteks performance\nTanggal dan setting: Ganti dengan tanggal, tempat, dan bentuk kegiatan.\nPersons dan relationship: Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.\nObjective dan initial state: Nyatakan perubahan yang ingin dicapai serta evidence state awal.",
+    "text": "Konteks performance\nTanggal dan setting: Awal semester, beberapa minggu setelah open recruitment GIM (Game Innovation and Making) ITB selesai. Gua berbincang dengan Kak Dani, senior yang sudah tiga tahun di GIM dan pernah jadi koordinator rekrutmen, di lobi gedung kuliah sekitar 30 menit setelah kelas selesai.\nPersons dan relationship: Gua (anggota aktif GIM, trainer game design, angkatan 2025) dan Kak Dani (alumni aktif, senior koordinator rekrutmen sebelumnya). Hubungan: mentor-mentee tidak formal - Kak Dani sering kasih feedback ke gua soal materi training game design. Trust level tinggi, tapi gua belum pernah serius nanya soal masalah rekrutmen ke beliau.\nObjective dan initial state: Gua masuk dengan asumsi bahwa jumlah pendaftar GIM turun karena promosi kurang masif dan kurang menjangkau angkatan baru. Gua ingin ngajuin usulan program promosi baru, tapi sebelum itu mau verifikasi dulu asumsi gua ke orang yang punya pengalaman langsung. Objective interview: pahami apa yang sebenarnya terjadi di sisi pengalaman calon member, bukan langsung jualan ide.",
     "crumbs": [
       "Beranda",
       "Professional Discovery Interview"
@@ -4405,7 +4405,7 @@
     "href": "portfolio/week-05.html#evidence",
     "title": "Professional Discovery Interview",
     "section": "Evidence",
-    "text": "Evidence\n\nTambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.",
+    "text": "Evidence\n\nCatatan percakapan ditulis dari memori segera setelah selesai. Pertanyaan gua susun sebelumnya, tapi tidak dibacakan - dipakai sebagai panduan saja.\nInitial assumption sebelum interview: - Promosi GIM kurang terlihat di media sosial dan poster fisik - Angkatan baru tidak tahu GIM ada atau apa yang GIM kerjakan - Solusi yang sudah gua bayangkan: bikin konten promosi lebih agresif, collab sama maba orientation\nPertanyaan yang gua siapkan: 1. Ceritain gimana proses rekrutmen terakhir berjalan dari sudut pandang lo. 2. Di tahap mana menurut lo paling banyak orang “hilang”? 3. Apa dampak konkretnya ke GIM waktu itu? 4. Gimana cara angkatan lo dulu ngatasinnya? 5. Hal apa yang tidak boleh diubah dari cara rekrutmen GIM sekarang?\nRingkasan percakapan (sekitar 25 menit):\n\nGua: “Kak, gua lagi mau ngusulin sesuatu soal rekrutmen, tapi sebelumnya mau dengerin dulu pengalaman Kak Dani waktu jadi koordinator. Boleh ceritain gimana proses terakhir berjalan?” Kak Dani: “Rekrutmen terakhir yang gua pegang, jumlah pendaftar sebenarnya cukup - hampir 80 orang. Masalahnya, yang aktif setelah dua bulan tinggal 20-an.” Gua: “Jadi bukan soal jumlah pendaftar yang kurang, tapi soal yang bertahan setelah bergabung?” Kak Dani: “Betul. Yang pertama kali datang banyak, tapi langsung drop di bulan pertama.” Gua: “Di bulan pertama itu, mereka biasanya ngapain? Ada program onboarding atau langsung dilempar ke proyek?” Kak Dani: “Nah itu. Kita langsung masukin ke divisi, tapi tidak ada penjelasan yang jelas tentang ekspektasi. Orang baru bingung mau ngapain, ngerasa tidak dibutuhkan, lalu pergi.” Gua: “Jadi masalahnya bukan orang tidak tahu GIM ada, tapi orang masuk dan tidak tahu harus mulai dari mana?” Kak Dani: “Iya, persis. Tiga angkatan terakhir pola-nya sama.” Gua: “Apa dampaknya ke GIM waktu itu?” Kak Dani: “Divisi game dev kekurangan orang di tengah proyek. Kita jadi overload karena yang baru tidak bisa langsung kontribusi.” Gua: “Hal apa yang menurut Kak Dani tidak boleh diubah dari cara rekrutmen sekarang?” Kak Dani: “Jangan hapus open audition - itu yang bikin GIM masih punya karakter seleksi. Tapi after-audition-nya yang perlu diperbaiki.”\n\nPembaruan pembacaan setelah interview:\nAsumsi awal gua (“promosi kurang”) tidak didukung oleh data Kak Dani. Pendaftar cukup banyak - 80 orang. Masalahnya ada di retention dua bulan pertama, bukan akuisisi. Root cause yang muncul dari interview: tidak ada struktur onboarding yang jelas, dan member baru tidak punya jalur kontribusi yang terdefinisi.\nShared problem statement yang dikonfirmasi Kak Dani:\n\n“Member baru GIM yang sudah melewati audisi membutuhkan jalur onboarding yang terstruktur - minimal peta ekspektasi dan satu proyek entry-level yang bisa mereka kontribusikan - karena tanpa itu mereka merasa tidak dibutuhkan dan keluar sebelum bisa berkontribusi, sehingga divisi kekurangan kapasitas di tengah proyek aktif.”\n\nGua bacakan ulang rumusan itu ke Kak Dani. Beliau mengkoreksi satu kata: “entry-level” diganti “sesuai kemampuan awal” karena level entry bisa terkesan merendahkan. Perubahan itu gua terima dan revisi.",
     "crumbs": [
       "Beranda",
       "Professional Discovery Interview"
@@ -4416,7 +4416,7 @@
     "href": "portfolio/week-05.html#analisis-komunikasi",
     "title": "Professional Discovery Interview",
     "section": "Analisis komunikasi",
-    "text": "Analisis komunikasi\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nGanti dengan analisis Anda.\n\n\nObjective & state\nGanti dengan analisis Anda.\n\n\nRepertoire & language\nGanti dengan analisis Anda.\n\n\nResponse & adaptation\nGanti dengan analisis Anda.\n\n\nAgreement/action\nGanti dengan analisis Anda.\n\n\nRelationship outcome\nGanti dengan analisis Anda.",
+    "text": "Analisis komunikasi\n\n\n\n\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nKak Dani adalah praktisi dengan pengalaman langsung tiga tahun, bukan teoretisi. Gua perlakukan beliau sebagai sumber otoritas tentang apa yang sebenarnya terjadi - bukan sebagai orang yang gua ajak setuju soal ide yang sudah gua punya. Pertanyaan pertama dibuka dengan “ceritain” bukan “apakah menurut lo promosi kurang?” yang sudah mengarahkan jawaban.\n\n\nObjective & state\nGua masuk dengan hipotesis eksplisit (promosi kurang) dan niat untuk mengujinya, bukan membuktikannya. Ini penting karena kalau gua masuk untuk konfirmasi, gua tidak akan mendengar data yang berbeda. Hipotesis itu gua tulis sebelum interview dan gua tinggalkan untuk diuji.\n\n\nRepertoire & language\nPertanyaan open (“ceritain gimana…”), paraphrase (“jadi bukan soal jumlah, tapi soal yang bertahan?”), dan pertanyaan dampak (“apa dampaknya ke GIM waktu itu?”) digunakan secara berurut. Gua tahan untuk tidak propose solusi sampai problem statement selesai dikonfirmasi.\n\n\nResponse & adaptation\nDi tengah interview, gua sadar asumsi gua soal promosi salah. Alih-alih defensive atau mengalihkan topik, gua follow the data - pindah ke pertanyaan retention dan onboarding. Ini memerlukan adaptasi real-time dari rencana awal interview.\n\n\nAgreement/action\nShared problem statement dirumuskan oleh gua, dibacakan ke Kak Dani, dikoreksi (“entry-level” jadi “sesuai kemampuan awal”), dan diterima. Problem statement dikonfirmasi sebelum gua propose solusi apapun.\n\n\nRelationship outcome\nKak Dani mengakhiri percakapan dengan menawarkan untuk terlibat kalau gua mau bikin proposal onboarding - sinyal bahwa beliau merasa didengar dan percakapan ini bermanfaat, bukan sekadar gua mengorek informasi.",
     "crumbs": [
       "Beranda",
       "Professional Discovery Interview"
@@ -4427,7 +4427,7 @@
     "href": "portfolio/week-05.html#penggunaan-ai",
     "title": "Professional Discovery Interview",
     "section": "Penggunaan AI",
-    "text": "Penggunaan AI\nNyatakan Tidak menggunakan AI atau jelaskan:\n\nalat dan peran AI;\nprompt atau instruksi penting;\nbagian output yang digunakan, diubah, atau ditolak;\npemeriksaan accuracy, privacy, dan authority;\napa yang tetap Anda pelajari sebagai manusia.",
+    "text": "Penggunaan AI\nAI digunakan setelah interview selesai untuk memberi label pada catatan percakapan - menandai mana yang fact (data konkret dari Kak Dani), mana yang interpretation (pembacaan gua), dan mana yang assumption gua yang belum terkonfirmasi. Gua periksa ulang setiap label terhadap catatan asli. Satu label “fact” dari AI dikoreksi menjadi “interpretation” karena Kak Dani hanya menyebutkan pola, bukan data tertulis. AI tidak dilibatkan dalam percakapan itu sendiri dan tidak digunakan untuk merumuskan shared problem statement - itu proses gua dan Kak Dani langsung.",
     "crumbs": [
       "Beranda",
       "Professional Discovery Interview"
@@ -4438,7 +4438,7 @@
     "href": "portfolio/week-05.html#feedback-dan-tindak-lanjut",
     "title": "Professional Discovery Interview",
     "section": "Feedback dan tindak lanjut",
-    "text": "Feedback dan tindak lanjut\nFeedback yang diterima: Ganti dengan kutipan atau ringkasan berbasis evidence.\nAdaptation/replay: Jelaskan apa yang Anda ubah dan response setelah perubahan.\nNext practice: Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.",
+    "text": "Feedback dan tindak lanjut\nFeedback yang diterima: Kak Dani mengkoreksi kata “entry-level” dalam rumusan problem statement menjadi “sesuai kemampuan awal” - ini feedback substantif tentang framing yang bisa berdampak ke cara orang membaca masalah. Koreksi itu gua terima tanpa argumen karena Kak Dani yang lebih tahu culture GIM.\nAdaptation/replay: Gua revisi problem statement sesuai koreksi Kak Dani sebelum digunakan sebagai basis proposal ke pengurus GIM. Gua juga catat bahwa asumsi “promosi kurang” tidak valid dan tidak dimasukkan ke proposal.\nNext practice: Sebelum interview discovery berikutnya, gua akan eksplisit menuliskan asumsi yang ingin diuji - bukan hanya pertanyaan. Dengan begitu lebih mudah mengecek apakah interview mengkonfirmasi atau membantah asumsi, bukan sekedar mengumpulkan cerita.",
     "crumbs": [
       "Beranda",
       "Professional Discovery Interview"
@@ -4449,7 +4449,7 @@
     "href": "portfolio/week-05.html#self-assessment",
     "title": "Professional Discovery Interview",
     "section": "Self-assessment",
-    "text": "Self-assessment\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n—\n—\n\n\nObjective & State\n—\n—\n\n\nRepertoire, Language & AI\n—\n—\n\n\nResponse & Adaptation\n—\n—\n\n\nAgreement, Action & Relationship\n—\n—\n\n\n\nTotal: — / 20\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
+    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor 1-4\nEvidence singkat\n\n\n\n\nPerson & Character\n4\nKak Dani diperlakukan sebagai sumber otoritas - pertanyaan terbuka, bukan leading; beliau offer terlibat di akhir sebagai sinyal kepercayaan\n\n\nObjective & State\n4\nAsumsi awal ditulis eksplisit sebelum interview dan dibantah oleh data - adaptasi objective dilakukan real-time\n\n\nRepertoire, Language & AI\n4\nOpen question, paraphrase, pertanyaan dampak dan constraint digunakan berurut; AI dibatasi untuk labeling post-interview\n\n\nResponse & Adaptation\n4\nAsumsi promosi salah - gua follow the data bukan defend hipotesis; pertanyaan beralih ke retention tanpa resistensi\n\n\nAgreement, Action & Relationship\n4\nProblem statement dirumuskan, dibacakan, dikoreksi, dan dikonfirmasi; Kak Dani offer terlibat di langkah berikutnya\n\n\n\nTotal: 20 / 20\n\nAssessment dosen\nSkor: — / 20 Evidence yang mendukung: — Prioritas perbaikan: — Keputusan: Belum dinilai / Perlu revisi / Tercapai",
     "crumbs": [
       "Beranda",
       "Professional Discovery Interview"
@@ -5943,6 +5943,50 @@
     "crumbs": [
       "Beranda",
       "Character Map"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-02.html#episode",
+    "href": "portfolio/week-02.html#episode",
+    "title": "Intra-Self Communication Journal",
+    "section": "Episode",
+    "text": "Episode\nEvent: Minggu ketiga game jam, saya membuka repository tim dan melihat bahwa dua fitur yang sudah saya rancang detail di GDD tidak diimplementasikan sama sekali - programmer memilih membuat sistem berbeda tanpa diskusi sebelumnya.\n\n\n\n\n\n\n\nLapisan\nCatatan saya\n\n\n\n\nFact\nDua fitur di GDD tidak ada di codebase; tidak ada komunikasi tertulis sebelumnya tentang perubahan ini\n\n\nInitial story\n“Programmer tidak menghargai desain saya dan bekerja seenaknya. Berarti GDD tidak berguna dan saya gagal sebagai game designer.”\n\n\nEmotion/body signal\nFrustrasi 8/10, tidak dihargai 7/10, dada sesak, reflex ingin langsung kirim pesan panjang\n\n\nReactive character\n“Enforcer” yang ingin menegakkan dokumen dan meminta pertanggungjawaban\n\n\nDesired character\n“Designer yang curious” yang ingin memahami reasoning di balik keputusan sebelum membuat kesimpulan\n\n\n\nInitial story melompati dua lapisan: dari “fitur tidak ada” langsung ke “saya gagal sebagai designer”. Faktanya, belum ada informasi kenapa perubahan terjadi - bisa karena constraint teknis, misalnya fitur terlalu kompleks, atau ada alasan yang tidak dikomunikasikan.",
+    "crumbs": [
+      "Beranda",
+      "Intra-Self Communication Journal"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-02.html#alternative-narratives",
+    "href": "portfolio/week-02.html#alternative-narratives",
+    "title": "Intra-Self Communication Journal",
+    "section": "Alternative narratives",
+    "text": "Alternative narratives\n\nTechnical constraint: fitur yang saya rancang mungkin tidak feasible dalam timeframe yang ada - programmer menemukan ini saat implementasi dan memilih solusi yang lebih cepat tanpa sempat mengabari.\nCommunication gap: tidak ada protokol eksplisit di tim bahwa perubahan dari GDD harus dikonfirmasi dulu - ini bukan tentang tidak menghargai, tapi tentang konvensi tim yang belum didefinisikan.\nDesign-implementation mismatch: GDD saya mungkin tidak cukup menjelaskan constraint teknis sehingga sulit diimplementasikan - ini bukan kegagalan, tapi feedback bahwa GDD perlu format yang lebih implementation-friendly.\n\nAlternative kedua dan ketiga paling berguna: keduanya berbasis fakta yang tersedia, tidak membutuhkan asumsi tentang niat orang lain, dan menghasilkan tindakan yang konkret - membuat protokol komunikasi dan memperbaiki format GDD.",
+    "crumbs": [
+      "Beranda",
+      "Intra-Self Communication Journal"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-02.html#internal-conversation-dan-agreement",
+    "href": "portfolio/week-02.html#internal-conversation-dan-agreement",
+    "title": "Intra-Self Communication Journal",
+    "section": "Internal conversation dan agreement",
+    "text": "Internal conversation dan agreement\n\nEnforcer: “Ini tidak bisa dibiarkan. Kirim pesan sekarang, tanya kenapa GDD tidak diikuti.”\nDesigner yang curious: “Kita belum tahu alasannya. Kalau langsung menegur sebelum tahu konteksnya, kita bisa merusak hubungan kerja dan tetap tidak mendapat informasi yang sebenarnya dibutuhkan.”\nSaya: “Tunggu 30 menit. Tulis dulu apa yang faktanya terjadi versus apa yang saya asumsikan. Setelah itu baru buka percakapan dengan pertanyaan, bukan tuduhan.”\n\nInternal agreement: sebelum mengirim pesan apapun, saya akan menulis tiga baris - fact, story, pertanyaan yang ingin dijawab - kemudian kirim satu pertanyaan terbuka ke programmer, bukan pernyataan tuntutan.",
+    "crumbs": [
+      "Beranda",
+      "Intra-Self Communication Journal"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-02.html#perubahan-dari-reaction-ke-response",
+    "href": "portfolio/week-02.html#perubahan-dari-reaction-ke-response",
+    "title": "Intra-Self Communication Journal",
+    "section": "Perubahan dari reaction ke response",
+    "text": "Perubahan dari reaction ke response\n\n\n\n\n\n\n\n\n\nReaction (Enforcer)\nResponse (Designer yang curious)\n\n\n\n\nTrigger\nFitur tidak ada di repo\nFitur tidak ada di repo\n\n\nInterpretasi\n“Tidak dihargai, GDD gagal”\n“Ada informasi yang belum saya punya”\n\n\nTindakan\nPesan panjang defensif, dikirim malam itu\nJurnal 3 kolom, satu pertanyaan terbuka\n\n\nOutcome\nKonfrontasi tanpa data\nDialog yang menghasilkan informasi akurat",
+    "crumbs": [
+      "Beranda",
+      "Intra-Self Communication Journal"
     ]
   }
 ]
