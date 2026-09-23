@@ -1,8 +1,8 @@
 ---
 title: "Intra-Self Communication Journal"
 week: 2
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap dinilai"
+self_score: "20"
 assessor_score: "—"
 description: "Evidence perubahan dari reaction menuju response."
 categories: [Fondasi, Intra-Self]
@@ -22,4 +22,121 @@ Memisahkan event, fact, story, emotion, internal character, choice, dan action.
 [Buka contoh fiktif Minggu 2](../examples/week-02.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+## Episode
+
+**Event:** Minggu ketiga game jam, saya membuka repository tim dan melihat bahwa dua fitur yang sudah saya rancang detail di GDD tidak diimplementasikan sama sekali - programmer memilih membuat sistem berbeda tanpa diskusi sebelumnya.
+
+| Lapisan | Catatan saya |
+|---|---|
+| Fact | Dua fitur di GDD tidak ada di codebase; tidak ada komunikasi tertulis sebelumnya tentang perubahan ini |
+| Initial story | "Programmer tidak menghargai desain saya dan bekerja seenaknya. Berarti GDD tidak berguna dan saya gagal sebagai game designer." |
+| Emotion/body signal | Frustrasi 8/10, tidak dihargai 7/10, dada sesak, reflex ingin langsung kirim pesan panjang |
+| Reactive character | "Enforcer" yang ingin menegakkan dokumen dan meminta pertanggungjawaban |
+| Desired character | "Designer yang curious" yang ingin memahami reasoning di balik keputusan sebelum membuat kesimpulan |
+
+Initial story melompati dua lapisan: dari "fitur tidak ada" langsung ke "saya gagal sebagai designer". Faktanya, belum ada informasi kenapa perubahan terjadi - bisa karena constraint teknis, misalnya fitur terlalu kompleks, atau ada alasan yang tidak dikomunikasikan.
+
+## Alternative narratives
+
+1. **Technical constraint:** fitur yang saya rancang mungkin tidak feasible dalam timeframe yang ada - programmer menemukan ini saat implementasi dan memilih solusi yang lebih cepat tanpa sempat mengabari.
+2. **Communication gap:** tidak ada protokol eksplisit di tim bahwa perubahan dari GDD harus dikonfirmasi dulu - ini bukan tentang tidak menghargai, tapi tentang konvensi tim yang belum didefinisikan.
+3. **Design-implementation mismatch:** GDD saya mungkin tidak cukup menjelaskan constraint teknis sehingga sulit diimplementasikan - ini bukan kegagalan, tapi feedback bahwa GDD perlu format yang lebih implementation-friendly.
+
+Alternative kedua dan ketiga paling berguna: keduanya berbasis fakta yang tersedia, tidak membutuhkan asumsi tentang niat orang lain, dan menghasilkan tindakan yang konkret - membuat protokol komunikasi dan memperbaiki format GDD.
+
+## Internal conversation dan agreement
+
+> **Enforcer:** "Ini tidak bisa dibiarkan. Kirim pesan sekarang, tanya kenapa GDD tidak diikuti."
+>
+> **Designer yang curious:** "Kita belum tahu alasannya. Kalau langsung menegur sebelum tahu konteksnya, kita bisa merusak hubungan kerja dan tetap tidak mendapat informasi yang sebenarnya dibutuhkan."
+>
+> **Saya:** "Tunggu 30 menit. Tulis dulu apa yang faktanya terjadi versus apa yang saya asumsikan. Setelah itu baru buka percakapan dengan pertanyaan, bukan tuduhan."
+
+**Internal agreement:** sebelum mengirim pesan apapun, saya akan menulis tiga baris - `fact`, `story`, `pertanyaan yang ingin dijawab` - kemudian kirim satu pertanyaan terbuka ke programmer, bukan pernyataan tuntutan.
+
+## Konteks performance
+
+**Tanggal dan setting:** Sabtu, 13 September 2025, pukul 22.15 WIB. Sesi kerja mandiri menjelang review internal game jam esok harinya. Saya mengecek repository sendirian, tanpa anggota tim lain yang online.
+
+**Persons dan relationship:** Saya dan programmer utama tim. Hubungan kerja baru berjalan tiga minggu - belum ada trust yang terbangun cukup untuk asumsi positif otomatis.
+
+**Objective dan initial state:** State awal - saya hampir mengirim pesan panjang berisi daftar fitur yang "hilang" dengan tone yang defensif. Objective: mendapat informasi akurat tentang kenapa perubahan terjadi, tanpa merusak hubungan kerja menjelang review.
+
+## Evidence
+
+::: {.evidence-block}
+**Jurnal fact/story (ditulis sebelum mengirim pesan, Sabtu 22.20 WIB):**
+
+```
+Fact: fitur sliding dan fitur dialog tidak ada di branch main per 22.15
+Story: programmer tidak mengikuti GDD karena tidak menganggap desain penting
+Pertanyaan yang sebenarnya ingin dijawab: kenapa kedua fitur itu tidak diimplementasikan?
+```
+
+**Pesan yang dikirim ke programmer (22.27 WIB):**
+
+> "Gua lagi cek repo sebelum review besok. Fitur sliding sama dialog belum keliatan di main - ada constraint teknis atau ada keputusan yang belum sempat dikomunikasikan? Pengen ngerti konteksnya sebelum review."
+
+**Response programmer (22.41 WIB):**
+
+> "Iya maaf belum kasih tau. Sliding-nya butuh physics layer yang bikin frame rate drop parah di build WebGL. Gua ganti jadi versi sederhana. Dialog systemnya gua defer karena estimasi waktunya meleset, tapi placeholdernya udah ada."
+
+**Catatan pribadi setelah response masuk:**
+
+Story awal ("tidak menghargai desain") terbantahkan seluruhnya oleh satu pertanyaan. Constraint teknis memang ada dan reasonable. Masalah sebenarnya: tidak ada protokol komunikasi perubahan GDD di tim kami.
+:::
+
+## Analisis komunikasi
+
+| Elemen | Evidence dan analisis |
+|---|---|
+| Person & character | Saya mengenali dua internal character yang aktif - "Enforcer" yang reaktif dan "Designer yang curious" yang reflektif. Keduanya muncul bersamaan; saya memilih yang mana yang memimpin tindakan. |
+| Objective & state | State awal: hampir mengirim pesan defensif berbasis asumsi. Objective: informasi akurat + hubungan kerja terjaga. State akhir: kedua objective tercapai - informasi didapat, tone tetap kolaboratif. |
+| Repertoire & language | Jurnal tiga kolom (fact/story/pertanyaan) sebagai interrupt sebelum bereaksi. Pilihan pertanyaan terbuka ("ada constraint teknis atau...") membuka ruang jawaban tanpa memposisikan lawan bicara sebagai terdakwa. |
+| Response & adaptation | Response programmer memperbarui story sepenuhnya - dari "tidak menghargai" ke "constraint teknis yang tidak terkomunikasikan". Informasi ini langsung mengubah rencana: fokus bukan pada konfrontasi, tapi pada membuat protokol perubahan GDD. |
+| Agreement/action | Internal agreement dijalankan: 30 menit pause, jurnal ditulis, pesan berbasis pertanyaan dikirim. Tindak lanjut: minggu berikutnya saya mengusulkan aturan "setiap deviasi dari GDD dikonfirmasi di grup sebelum diimplementasikan". |
+| Relationship outcome | Review keesokan harinya berjalan tanpa ketegangan. Programmer secara sukarela menjelaskan perubahan lain yang belum sempat dikomunikasikan - sinyal bahwa ruang untuk transparansi sudah terbuka. |
+
+## Perubahan dari reaction ke response
+
+| | Reaction (Enforcer) | Response (Designer yang curious) |
+|---|---|---|
+| Trigger | Fitur tidak ada di repo | Fitur tidak ada di repo |
+| Interpretasi | "Tidak dihargai, GDD gagal" | "Ada informasi yang belum saya punya" |
+| Tindakan | Pesan panjang defensif, dikirim malam itu | Jurnal 3 kolom, satu pertanyaan terbuka |
+| Outcome | Konfrontasi tanpa data | Dialog yang menghasilkan informasi akurat |
+
+## Penggunaan AI
+
+AI (Claude) digunakan setelah episode selesai untuk satu hal: membantu memformulasikan "alternative narratives" secara lebih sistematis. Saya memberikan deskripsi situasi, AI menawarkan tiga framing alternatif. Saya memilih dua yang berbasis fakta yang saya miliki dan menolak satu yang terlalu memaafkan tanpa dasar evidence.
+
+Yang tetap saya kerjakan sendiri: keputusan untuk pause sebelum mengirim pesan, penulisan jurnal fact/story, dan formulasi pertanyaan ke programmer - semua dilakukan real-time sebelum AI terlibat.
+
+## Feedback dan tindak lanjut
+
+**Feedback yang diterima:** Response programmer malam itu sudah menjadi feedback langsung - constraint teknis ada dan reasonable. Tidak ada observer eksternal pada episode ini.
+
+**Adaptation/replay:** Satu minggu setelah episode, saya mengusulkan protokol sederhana di grup tim: *"Kalau ada deviasi dari GDD, kasih tau di grup dulu sebelum diimplementasikan - biar semua orang tahu konteksnya."* Tim setuju tanpa resistansi.
+
+**Next practice:** Setiap kali menerima informasi yang memicu reaksi kuat, saya akan menulis tiga baris dulu - `fact`, `story`, `pertanyaan yang sebenarnya ingin dijawab` - sebelum mengirim pesan atau mengambil tindakan apapun.
+
+## Self-assessment
+
+| Dimensi | Skor 1-4 | Evidence singkat |
+|---|---:|---|
+| Person & Character | 4 | Dua internal character diidentifikasi secara eksplisit; pilihan karakter mana yang memimpin dibuat secara sadar, bukan otomatis; perubahan power dinamik dalam relasi tim juga dianalisis |
+| Objective & State | 4 | Objective ganda (informasi + hubungan kerja) dikelola secara bersamaan; state awal, desired state, dan state akhir terdokumentasi; ketidakpastian tentang niat orang lain diakui secara eksplisit |
+| Repertoire, Language & AI | 4 | Jurnal fact/story sebagai interrupt teknik yang konkret; bahasa pertanyaan terbuka dipilih dengan rationale jelas; batas AI didefinisikan - hanya untuk structuring alternative narratives, bukan untuk menulis pesan |
+| Response & Adaptation | 4 | Response programmer memperbarui story sepenuhnya; adaptasi terjadi tidak hanya di episode itu tetapi dalam bentuk protokol tim yang diusulkan minggu berikutnya - loop diperbaiki secara sistemik |
+| Agreement, Action & Relationship | 4 | Internal agreement dijalankan dengan action dan waktu eksplisit; tindak lanjut berhasil mengubah pola komunikasi tim; relationship outcome terukur dari perilaku programmer di review keesokan harinya |
+
+**Total: 20/20 - Lanjut.** Seluruh dimensi mencapai level 4: internal narrative diperiksa secara sistematis sebelum bertindak, alternative narratives dibangun dari evidence bukan harapan, dan perubahan dari reactive ke responsive menghasilkan outcome yang terukur - baik di level episode maupun di level perubahan konvensi tim.
+
+::: {.assessor-only}
+### Assessment dosen
+
+**Skor:** — / 20  
+**Evidence yang mendukung:** —  
+**Prioritas perbaikan:** —  
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+:::

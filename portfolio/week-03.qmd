@@ -1,10 +1,10 @@
 ---
 title: "Relationship Conversation"
 week: 3
-status: "Belum dimulai"
-self_score: "—"
+status: "Selesai"
+self_score: "20"
 assessor_score: "—"
-description: "Evidence listening, boundary, request, atau repair."
+description: "Evidence listening, boundary, request, dan repair saat miskom rundown di kepanitiaan."
 categories: [Fondasi, Relationship]
 ---
 
@@ -22,4 +22,76 @@ Melakukan personal conversation dengan listening, clarity, boundary, dan relatio
 [Buka contoh fiktif Minggu 3](../examples/week-03.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+## Konteks performance
+
+**Tanggal dan setting:** Jumat malam, H-2 sebelum acara Seminar Teknologi yang diselenggarakan oleh salah satu himpunan di ITB. Koordinasi dilakukan via grup WhatsApp panitia dan dilanjutkan voice call dua orang sekitar pukul 21.30.
+
+**Persons dan relationship:** Gua (divisi acara, penanggung jawab rundown teknis) dan Raka (divisi acara, penanggung jawab liaison pembicara). Gua dan Raka sudah cukup sering satu divisi - hubungan profesional-kawan, trust level cukup tinggi. Namun di proyek ini kami belum pernah ngobrol langsung soal pembagian tanggung jawab rundown; semuanya diasumsikan lewat dokumen bersama tanpa konfirmasi eksplisit.
+
+**Objective dan initial state:** Gua menemukan bahwa rundown di Google Docs sudah diubah oleh Raka - sesi satu pembicara diperpanjang 15 menit tanpa koordinasi ke gua, yang berdampak langsung ke buffer waktu acara dan slot Q&A yang sudah gua janjikan ke moderator. State awal: gua merasa dilangkahi, ketegangan sekitar 6/10. Objective: meluruskan pembagian tanggung jawab rundown, minta penjelasan, dan sepakat prosedur perubahan ke depan - tanpa merusak hubungan kerja menjelang hari H.
+
+## Evidence
+
+::: {.evidence-block}
+Catatan percakapan direkonstruksi dari memori langsung sesaat setelah voice call selesai (kurang lebih 10 menit kemudian). Gua catat di notes hp sebelum lupa. Bagian yang merupakan kontribusi gua: inisiatif membuka percakapan, paraphrase kebutuhan Raka, menyatakan boundary tanggung jawab, dan menawarkan prosedur perubahan ke depan.
+
+**Ringkasan percakapan (voice call sekitar 21.30):**
+
+> **Gua:** "Ra, gua mau ngomongin soal rundown - ada waktu bentar?"
+> **Raka:** "Bisa, kenapa?"
+> **Gua:** "Gua lihat sesi Prof. Andi di-extend 15 menit. Gua belum tahu konteksnya - bisa ceritain yang terjadi dari sisi lo?"
+> **Raka:** "Oh itu - tadi siang Prof. Andi minta waktu ekstra buat demo live. Gua pikir langsung oke aja biar doi puas, terus gua update dokumen."
+> **Gua:** "Jadi lo nerima request Prof. Andi on the spot dan langsung disetujui tanpa sempat koordinasi dulu?"
+> **Raka:** "Iya, soalnya doi nanya waktu gua lagi sendirian dan kesannya urgent."
+> **Gua:** "Oke, gua ngerti - situasinya bener-bener dadakan dan lo nggak mau bikin pembicara nunggu. Gua nggak nyalahin keputusan itu. Yang jadi concern gua: 15 menit itu sekarang motong buffer dan slot Q&A yang udah gua janjiin ke moderator. Gua ngerasa kaget karena nggak ada info dulu, dan khawatir kalau ini jadi pattern ke depan kita susah manage ekspektasi bareng."
+> **Raka:** "Aduh, gua nggak kepikiran sampai situ. Gua kira cuma dokumen yang gua update, nggak ngitung efek dominonya."
+> **Gua:** "Makasih udah jelasin. Gua butuh satu hal ke depan: kalau ada request perubahan durasi dari pembicara, minta dia hold dulu 30 menit - kasih waktu kita koordinasi singkat sebelum konfirmasi. Deal nggak?"
+> **Raka:** "Deal. Dan gua minta maaf ya - harusnya gua ping lo dulu walaupun cuma 2 menit."
+> **Gua:** "Gua juga minta maaf kalau cara gua nulis di grup tadi kesannya nyalahin lo - harusnya gua langsung DM, bukan komentar di thread umum."
+
+Setelah call, gua dan Raka update dokumen bersama: tambahkan kolom "last modified by" dan catatan bahwa perubahan durasi lebih dari 5 menit wajib disetujui dua PIC sebelum dikonfirmasi ke pembicara.
+:::
+
+## Analisis komunikasi
+
+| Elemen | Evidence dan analisis |
+|---|---|
+| Person & character | Gua mengenali bahwa Raka bukan asal mengubah rundown - dia merespons tekanan dari pembicara secara langsung, sendirian, dan tidak punya waktu koordinasi. Memahami konteks itu mengubah framing gua dari "Raka ceroboh" menjadi "sistem koordinasi kita yang kurang jelas". Ini mencegah gua menyerang karakter Raka dan memungkinkan percakapan tetap produktif. |
+| Objective & state | State awal: ketegangan 6/10, merasa dilangkahi, khawatir efek ke moderator. Objective gua bukan menang argumen, tapi memastikan rundown aman di hari H dan ada prosedur yang disepakati ke depan. Dengan objective itu gua bisa memilih kata lebih hati-hati dan tidak defensif waktu Raka menjelaskan situasinya. |
+| Repertoire & language | Gua menggunakan O-F-N-R: Observation ("gua lihat sesi di-extend 15 menit, gua belum tahu konteksnya"), Feeling ("gua ngerasa kaget dan khawatir"), Need ("gua butuh koordinasi singkat sebelum ada konfirmasi ke pembicara"), Request ("kalau ada request perubahan durasi, minta hold 30 menit dulu"). Paraphrase di tengah percakapan ("jadi lo nerima on the spot dan langsung setuju tanpa sempat koordinasi?") membuka informasi baru - kondisi Raka saat itu, yang gua tidak tahu sebelumnya. Tanpa paraphrase itu, gua mungkin langsung lompat ke solusi dan Raka tidak merasa didengar. |
+| Response & adaptation | Waktu Raka bilang situasinya dadakan dan dia sendirian, gua acknowledge itu sebelum menyampaikan dampaknya. Kalau gua skip acknowledgment dan langsung ke "tapi 15 menit itu potong buffer", Raka kemungkinan defensif. Gua juga adaptasi repair gua: bukan hanya minta Raka berubah, tapi akui kesalahan gua sendiri di komunikasi grup sebelumnya. |
+| Agreement/action | Disepakati: prosedur hold 30 menit sebelum konfirmasi perubahan durasi ke pembicara. Dokumen rundown diperbarui bersama dengan kolom "last modified by". Agreement ini konkret, bisa dicek, dan tidak bergantung pada memori verbal. |
+| Relationship outcome | Ketegangan turun dari 6/10 ke 1/10 setelah call. Gua dan Raka lanjut koordinasi bareng sampai hari H tanpa awkward. Gua juga jadi lebih sadar bahwa asumsi "nanti baca dokumen aja" tidak cukup sebagai sistem koordinasi saat ada variabel eksternal seperti pembicara yang request on the spot. |
+
+## Penggunaan AI
+
+Tidak menggunakan AI untuk percakapan ini. Percakapan berlangsung via voice call dan menyangkut relasi interpersonal dengan rekan panitia. Rekonstruksi catatan percakapan dilakukan sendiri dari memori langsung sesaat setelah call. AI tidak dilibatkan dalam proses mendengarkan, merespons, atau menyusun kesepakatan.
+
+## Feedback dan tindak lanjut
+
+**Feedback yang diterima:** Raka bilang di akhir call - "gua nggak nyangka lo bakal dengerin dulu sebelum langsung protes." Itu sinyal bahwa paraphrase yang gua lakukan sebelum menyampaikan concern benar-benar terasa berbeda dari ekspektasinya. Di hari H, moderator konfirmasi slot Q&A aman - rundown berjalan sesuai revisi yang gua dan Raka sepakati.
+
+**Adaptation/replay:** Setelah percakapan ini, gua ubah habit di kepanitiaan: setiap kali ada perubahan dari eksternal (pembicara, sponsor, venue), gua langsung buat mini-thread di grup khusus dua PIC relevan sebelum diumumkan ke grup besar. Lebih cepat dari voice call tapi lebih terkontrol dari update diam-diam di dokumen.
+
+**Next practice:** Melatih repair lebih awal - tidak menunggu sampai ada ketegangan yang terasakan, tapi proaktif check-in ke rekan kerja di tengah proyek untuk memastikan ekspektasi masih selaras.
+
+## Self-assessment
+
+| Dimensi | Skor 1-4 | Evidence singkat |
+|---|---:|---|
+| Person & Character | 4 | Konteks Raka dikenali sebelum menyampaikan dampak; framing bergeser dari karakter ke sistem |
+| Objective & State | 4 | State awal (6/10, khawatir ke moderator) dan objective (prosedur bersama) dinyatakan eksplisit sebelum call |
+| Repertoire, Language & AI | 4 | O-F-N-R digunakan secara urut; paraphrase membuka informasi baru yang mengubah arah percakapan |
+| Response & Adaptation | 4 | Acknowledge situasi Raka sebelum menyampaikan need; repair dua arah, bukan satu pihak |
+| Agreement, Action & Relationship | 4 | Prosedur hold 30 menit + kolom dokumen disepakati dan dijalankan; ketegangan turun dari 6/10 ke 1/10 |
+
+**Total:** 20 / 20
+
+::: {.assessor-only}
+### Assessment dosen
+
+**Skor:** — / 20
+**Evidence yang mendukung:** —
+**Prioritas perbaikan:** —
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+:::
