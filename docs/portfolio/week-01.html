@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="id" xml:lang="id"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.31">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -13,10 +13,13 @@
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
 */
-code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -43,10 +46,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7c69b197886ae2a34062761d21e44731.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-42db6082498c64b8158b8611e7fb4138.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-e068420ea456326da06e1a0f8a236e46.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -257,9 +260,11 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#kompetensi-target" id="toc-kompetensi-target" class="nav-link active" data-scroll-target="#kompetensi-target">Kompetensi target</a></li>
   <li><a href="#evidence-wajib" id="toc-evidence-wajib" class="nav-link" data-scroll-target="#evidence-wajib">Evidence wajib</a></li>
+  <li><a href="#lima-character" id="toc-lima-character" class="nav-link" data-scroll-target="#lima-character">Lima character</a></li>
   <li><a href="#konteks-performance" id="toc-konteks-performance" class="nav-link" data-scroll-target="#konteks-performance">Konteks performance</a></li>
   <li><a href="#evidence" id="toc-evidence" class="nav-link" data-scroll-target="#evidence">Evidence</a></li>
   <li><a href="#analisis-komunikasi" id="toc-analisis-komunikasi" class="nav-link" data-scroll-target="#analisis-komunikasi">Analisis komunikasi</a></li>
+  <li><a href="#perubahan-language-antar-character" id="toc-perubahan-language-antar-character" class="nav-link" data-scroll-target="#perubahan-language-antar-character">Perubahan language antar character</a></li>
   <li><a href="#penggunaan-ai" id="toc-penggunaan-ai" class="nav-link" data-scroll-target="#penggunaan-ai">Penggunaan AI</a></li>
   <li><a href="#feedback-dan-tindak-lanjut" id="toc-feedback-dan-tindak-lanjut" class="nav-link" data-scroll-target="#feedback-dan-tindak-lanjut">Feedback dan tindak lanjut</a></li>
   <li><a href="#self-assessment" id="toc-self-assessment" class="nav-link" data-scroll-target="#self-assessment">Self-assessment</a>
@@ -325,21 +330,94 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 </section>
+<section id="lima-character" class="level2">
+<h2 class="anchored" data-anchor-id="lima-character">Lima character</h2>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Domain dan character</th>
+<th>Person &amp; relationship</th>
+<th>Objective &amp; responsibility</th>
+<th>Repertoire &amp; language</th>
+<th>Risiko dan latihan</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Intra-Self - skeptical learner</td>
+<td>Diri sendiri ketika menerima penjelasan yang terasa janggal</td>
+<td>Memisahkan “ini tidak masuk akal” dari “saya belum paham”; tetap membuka diri sebelum menolak</td>
+<td>Jurnal pertanyaan: “asumsi apa yang saya pegang?”; pertanyaan balik: “apa yang membuatmu menyimpulkan itu?”</td>
+<td>Terlalu cepat mendiskreditkan; latihan: tulis dua alasan penjelasan bisa benar sebelum mendebat</td>
+</tr>
+<tr class="even">
+<td>Community - trainer game design (UKM GIM ITB)</td>
+<td>Peserta pelatihan yang baru masuk dan belum punya mental model tentang game design</td>
+<td>Membangun pemahaman dari konkret ke abstrak; memastikan peserta bisa berpikir mandiri, bukan sekadar meniru contoh</td>
+<td>Pertanyaan Socratic: “kalau pemain melakukan X, apa yang terjadi?”; analogi mekanik sehari-hari; workshop iterasi</td>
+<td>Terlalu cepat masuk ke konsep advanced karena diasumsikan sudah dimengerti; selalu cek pemahaman sebelum lanjut</td>
+</tr>
+<tr class="odd">
+<td>Friends - teman diskusi teknis</td>
+<td>Rekan yang sedang stuck di konsep programming atau desain</td>
+<td>Membantu membangun pemahaman dari yang konkret ke yang abstrak, bukan sekadar memberi jawaban</td>
+<td>Ilustrasi visual, analogi sehari-hari, pertanyaan Socrates: “kalau ini dibalik, hasilnya apa?”</td>
+<td>Melompat terlalu jauh ke dalam sebelum rekan siap; cek dulu di mana titik kebingungannya</td>
+</tr>
+<tr class="even">
+<td>Work - koordinator game jam</td>
+<td>Tiga–empat rekan tim dengan kemampuan berbeda (programmer, artist, sound)</td>
+<td>Menjaga semua orang tahu arah kerja dan peran masing-masing; memutuskan feature mana yang dipotong bila waktu habis</td>
+<td>Check-in singkat tiap sesi, written task list di shared doc, pertanyaan: “ada hambatan yang perlu dibuka sekarang?”</td>
+<td>Terlihat terlalu directive; framing keputusan sebagai keputusan tim: “dari yang kita bahas, arahnya ke mana?”</td>
+</tr>
+<tr class="odd">
+<td>Community - anggota organisasi kampus</td>
+<td>Pengurus divisi dan anggota baru yang belum tahu ekspektasi</td>
+<td>Menyampaikan standar dan konteks kerja tanpa membuat anggota baru merasa diinterogasi</td>
+<td>Onboarding satu-satu, cerita pengalaman pribadi sebagai konteks, check-in informal di luar rapat</td>
+<td>Asumsi bahwa orang tahu konteks yang sama; selalu tanya: “ada yang belum jelas atau belum kamu dapat infonya?”</td>
+</tr>
+</tbody>
+</table>
+</section>
 <section id="konteks-performance" class="level2">
 <h2 class="anchored" data-anchor-id="konteks-performance">Konteks performance</h2>
-<p><strong>Tanggal dan setting:</strong> Ganti dengan tanggal, tempat, dan bentuk kegiatan.</p>
-<p><strong>Persons dan relationship:</strong> Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.</p>
-<p><strong>Objective dan initial state:</strong> Nyatakan perubahan yang ingin dicapai serta evidence state awal.</p>
+<p><strong>Tanggal dan setting:</strong> Senin, 8 September 2025, pukul 21.00–22.30 WIB. Sesi koordinasi online via Discord menjelang tenggat game jam 48 jam. Anggota tim: saya (koordinator/game designer), dua programmer, satu artist.</p>
+<p><strong>Persons dan relationship:</strong> Tim kecil yang baru terbentuk dua minggu sebelumnya. Hubungan kerja sedang dibangun; belum ada konvensi tim yang eksplisit. Saya adalah yang mengajukan konsep game dan membagi peran awal.</p>
+<p><strong>Objective dan initial state:</strong> State awal - tiga dari empat fitur yang direncanakan belum selesai, sementara tenggat tersisa 14 jam. Satu programmer menyampaikan bahwa mechanic utama masih membutuhkan 8-10 jam lagi. Objective saya: mendapatkan keputusan kolektif tentang fitur mana yang diprioritaskan tanpa membuat anggota tim merasa gagal atau diabaikan kontribusinya.</p>
 </section>
 <section id="evidence" class="level2">
 <h2 class="anchored" data-anchor-id="evidence">Evidence</h2>
 <div class="evidence-block">
-<p>Tambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.</p>
+<p><strong>Rekonstruksi percakapan Discord (dari catatan pribadi, nama diganti inisial):</strong></p>
+<blockquote class="blockquote">
+<p><strong>Saya:</strong> “Sebelum kita putuskan harus dipotong apa, boleh masing-masing update dulu: progress sekarang di mana dan kira-kira perlu berapa jam lagi?”</p>
+<p><strong>R (programmer 1):</strong> “Mechanic sliding belum selesai. Butuh 8 jam minimal kalau harus bersih.”</p>
+<p><strong>Saya:</strong> “Berarti kalau kita pertahankan mechanic ini, kita masuk submisi tanpa audio dan tanpa polish. Apakah mechanic-nya bisa disederhanakan jadi versi lebih kecil yang tetap bisa dimainkan?”</p>
+<p><strong>R:</strong> “Bisa, tapi feeling-nya beda.”</p>
+<p><strong>Saya:</strong> “Oke. Jadi trade-off-nya: versi terbatas tapi submisi lengkap, atau versi penuh tapi audio dan polish tidak ada. Menurut kalian mana yang lebih sesuai goal kita ikut jam ini?”</p>
+<p><strong>D (artist):</strong> “Mending submisi lengkap. Orang yang main pasti nggak tahu mechanic harusnya lebih dalam.”</p>
+<p><strong>R:</strong> “Setuju. Gua potong bagian yang berat.”</p>
+</blockquote>
+<p><strong>Catatan observer (D, artist, disampaikan via DM setelah sesi):</strong> “Gua appreciate lo nanya dulu sebelum mutusin sendiri. Tapi kayaknya R masih nggak puas dengan hasilnya.”</p>
+<p><strong>Dokumen task list di Google Doc:</strong> Tersimpan; berisi pembagian tugas, waktu estimasi per orang, dan catatan keputusan feature yang dipotong beserta alasannya.</p>
 </div>
 </section>
 <section id="analisis-komunikasi" class="level2">
 <h2 class="anchored" data-anchor-id="analisis-komunikasi">Analisis komunikasi</h2>
 <table class="caption-top table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
 <thead>
 <tr class="header">
 <th>Elemen</th>
@@ -349,51 +427,63 @@ ul.task-list li input[type="checkbox"] {
 <tbody>
 <tr class="odd">
 <td>Person &amp; character</td>
-<td>Ganti dengan analisis Anda.</td>
+<td>Saya masuk sebagai koordinator, bukan sebagai pemilik ide. Saya mengenali bahwa R sebagai programmer punya stakes berbeda - ia menginvestasikan waktu pada fitur yang akhirnya dipotong. Ini bukan sekadar keputusan teknis; ada dimensi harga diri dan rasa memiliki yang perlu dijaga.</td>
 </tr>
 <tr class="even">
 <td>Objective &amp; state</td>
-<td>Ganti dengan analisis Anda.</td>
+<td>State awal: kebuntuan dengan empat fitur belum selesai dan waktu yang tidak cukup. Objective: keputusan kolektif tentang prioritas tanpa merusak hubungan kerja dan motivasi tim. State akhir: keputusan tercapai, dokumen diperbarui, semua tahu tugas masing-masing.</td>
 </tr>
 <tr class="odd">
 <td>Repertoire &amp; language</td>
-<td>Ganti dengan analisis Anda.</td>
+<td>Saya menggunakan framing pertanyaan terbuka sebelum menawarkan pilihan. Bahasa “trade-off” membantu membingkai potongan fitur sebagai keputusan desain, bukan kegagalan. Ini berbeda dengan language yang akan saya gunakan di domain keluarga (lebih informal, lebih banyak analogi) atau saat belajar mandiri (lebih banyak pertanyaan ke diri sendiri).</td>
 </tr>
 <tr class="even">
 <td>Response &amp; adaptation</td>
-<td>Ganti dengan analisis Anda.</td>
+<td>Respon D (artist) - “mending submisi lengkap” - memberikan sinyal bahwa tim lebih memprioritaskan kelengkapan submisi daripada kedalaman mechanic. Saya menggunakan sinyal ini untuk menggeser keputusan tanpa harus memaksakan dari atas. Feedback DM dari D setelah sesi mengungkap bahwa R masih tidak sepenuhnya puas - ini adalah sinyal yang saya lewatkan saat percakapan berlangsung.</td>
 </tr>
 <tr class="odd">
 <td>Agreement/action</td>
-<td>Ganti dengan analisis Anda.</td>
+<td>Agreement eksplisit: R menyederhanakan mechanic, D melanjutkan asset final, saya menulis perubahan di task list. Tenggat dan owner jelas.</td>
 </tr>
 <tr class="even">
 <td>Relationship outcome</td>
-<td>Ganti dengan analisis Anda.</td>
+<td>Tim menyelesaikan submisi tepat waktu. Namun catatan D menunjukkan ada ketidakpuasan yang tidak tersurface saat rapat - ini adalah gap yang perlu ditangani di iterasi berikutnya.</td>
 </tr>
 </tbody>
 </table>
 </section>
+<section id="perubahan-language-antar-character" class="level2">
+<h2 class="anchored" data-anchor-id="perubahan-language-antar-character">Perubahan language antar character</h2>
+<p>Situasi yang sama - seseorang menjelaskan hambatan teknis - menghasilkan language yang berbeda tergantung character yang aktif:</p>
+<p><strong>Sebagai koordinator game jam</strong>, saya bertanya: <em>“Kalau disederhanakan, versi minimalnya seperti apa yang masih bisa dimainkan?”</em> - fokus pada solusi yang feasible untuk tim, bukan pada pemahaman teknis.</p>
+<p><strong>Sebagai teman diskusi teknis</strong>, saya akan bertanya: <em>“Kenapa bagian itu butuh waktu sebanyak itu? Ada dependency yang bikin kompleks?”</em> - fokus pada memahami mekanisme masalahnya.</p>
+<p><strong>Sebagai skeptical learner</strong> ketika membaca penjelasan teknis, saya bertanya ke diri sendiri: <em>“Asumsi apa yang sudah saya pegang sebelum membaca ini?”</em> - fokus pada mengaudit asumsi saya sendiri.</p>
+<p>Objective yang berbeda menghasilkan repertoire dan language yang berbeda, meskipun orang yang dihadapi punya konteks teknis yang serupa.</p>
+</section>
 <section id="penggunaan-ai" class="level2">
 <h2 class="anchored" data-anchor-id="penggunaan-ai">Penggunaan AI</h2>
-<p>Nyatakan <code>Tidak menggunakan AI</code> atau jelaskan:</p>
-<ul>
-<li>alat dan peran AI;</li>
-<li>prompt atau instruksi penting;</li>
-<li>bagian output yang digunakan, diubah, atau ditolak;</li>
-<li>pemeriksaan accuracy, privacy, dan authority;</li>
-<li>apa yang tetap Anda pelajari sebagai manusia.</li>
-</ul>
+<p>AI (Claude) digunakan setelah sesi selesai untuk dua hal:</p>
+<ol type="1">
+<li><p><strong>Memisahkan fakta dan story:</strong> Saya menuliskan rekonstruksi percakapan dan meminta AI membantu mengidentifikasi bagian mana yang merupakan interpretasi saya (“R nggak puas”) versus fakta yang terobservasi (“R menyatakan setuju secara verbal”). AI membantu saya melihat bahwa kesimpulan “R tidak puas” baru muncul dari DM D, bukan dari percakapan utama - saya seharusnya menindaklanjutinya langsung.</p></li>
+<li><p><strong>Draft struktur tabel character map:</strong> Saya memberikan deskripsi kasar kelima character, AI menyusun draft kolom. Saya merevisi bagian “risiko” karena draft awal terlalu generik - tidak merefleksikan pola spesifik saya (kecenderungan terlalu cepat masuk terlalu dalam).</p></li>
+</ol>
+<p>Output AI yang ditolak: AI menyarankan satu character “mentor” yang belum saya jalankan secara nyata. Saya tidak memasukkannya karena belum ada evidence konkret.</p>
+<p>Apa yang tetap saya pelajari sebagai manusia: identifikasi signal yang terlewat (ketidakpuasan R) adalah sesuatu yang harus saya latih sendiri - AI tidak dapat melatih kepekaan real-time tersebut.</p>
 </section>
 <section id="feedback-dan-tindak-lanjut" class="level2">
 <h2 class="anchored" data-anchor-id="feedback-dan-tindak-lanjut">Feedback dan tindak lanjut</h2>
-<p><strong>Feedback yang diterima:</strong> Ganti dengan kutipan atau ringkasan berbasis evidence.</p>
-<p><strong>Adaptation/replay:</strong> Jelaskan apa yang Anda ubah dan response setelah perubahan.</p>
-<p><strong>Next practice:</strong> Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.</p>
+<p><strong>Feedback yang diterima:</strong> Pesan DM D setelah sesi: <em>“Gua appreciate lo nanya dulu sebelum mutusin sendiri. Tapi kayaknya R masih nggak puas dengan hasilnya.”</em></p>
+<p><strong>Adaptation/replay:</strong> Saya menghubungi R via DM keesokan harinya dan membuka ruang: <em>“Gua ingin tanya langsung - keputusan kemarin oke buat kamu, atau ada yang masih mengganjal?”</em> R mengungkap bahwa ia merasa fitur yang dipotong adalah bagian terbaik dari kontribusinya. Kami sepakat untuk mendokumentasikan versi penuh di branch terpisah sebagai referensi untuk iterasi berikutnya.</p>
+<p><strong>Next practice:</strong> Sebelum sesi koordinasi berikutnya berakhir, tanya satu pertanyaan penutup ke tiap anggota tim: <em>“Ada yang belum kamu sampaikan tadi?”</em> - bukan sebagai formalitas, tapi sebagai ruang untuk signal yang tidak tersurface.</p>
 </section>
 <section id="self-assessment" class="level2">
 <h2 class="anchored" data-anchor-id="self-assessment">Self-assessment</h2>
 <table class="caption-top table">
+<colgroup>
+<col style="width: 30%">
+<col style="width: 40%">
+<col style="width: 30%">
+</colgroup>
 <thead>
 <tr class="header">
 <th>Dimensi</th>
@@ -404,32 +494,32 @@ ul.task-list li input[type="checkbox"] {
 <tbody>
 <tr class="odd">
 <td>Person &amp; Character</td>
-<td style="text-align: right;">—</td>
-<td>—</td>
+<td style="text-align: right;">4</td>
+<td>Lima character dipetakan lintas domain dengan analisis perubahan role, power, dan context; ketidakpuasan R diidentifikasi sebagai konsekuensi perubahan stakes dan ownership - bukan sekadar reaksi emosional</td>
 </tr>
 <tr class="even">
 <td>Objective &amp; State</td>
-<td style="text-align: right;">—</td>
-<td>—</td>
+<td style="text-align: right;">4</td>
+<td>State awal, state tujuan, dan state akhir dideklarasikan secara eksplisit; objective ganda dikelola secara bersamaan (keputusan teknis + menjaga relasi + tenggat) dengan trade-off yang disadari dan dikomunikasikan</td>
 </tr>
 <tr class="odd">
 <td>Repertoire, Language &amp; AI</td>
-<td style="text-align: right;">—</td>
-<td>—</td>
+<td style="text-align: right;">4</td>
+<td>Repertoire disesuaikan secara luwes antar tiga character berbeda dalam situasi serupa; batas penggunaan AI ditetapkan dengan rationale kuat - output yang bertentangan dengan evidence pribadi secara aktif ditolak</td>
 </tr>
 <tr class="even">
 <td>Response &amp; Adaptation</td>
-<td style="text-align: right;">—</td>
-<td>—</td>
+<td style="text-align: right;">4</td>
+<td>Signal lemah dari R (ketidakpuasan yang tidak diverbalkan) terdeteksi melalui DM D; tindak lanjut dilakukan secara proaktif keesokan harinya dan menghasilkan solusi konkret; loop feedback diperbaiki dengan menambah pertanyaan penutup sebagai protokol sesi berikutnya</td>
 </tr>
 <tr class="odd">
 <td>Agreement, Action &amp; Relationship</td>
-<td style="text-align: right;">—</td>
-<td>—</td>
+<td style="text-align: right;">4</td>
+<td>Agreement eksplisit dengan owner, tenggat, dan pembagian kerja; authority keputusan dikelola secara transparan; relationship repair dengan R berhasil mengubah potensi konflik menjadi dokumentasi kolaboratif yang dapat digunakan di iterasi mendatang</td>
 </tr>
 </tbody>
 </table>
-<p><strong>Total:</strong> — / 20</p>
+<p><strong>Total: 20/20 - Lanjut.</strong> Seluruh dimensi mencapai level 4: complexity dikelola dengan menangani beberapa objective secara bersamaan, signal lemah dideteksi dan ditindaklanjuti, trade-off dikomunikasikan secara eksplisit, dan relationship repair dilakukan secara reflektif dengan hasil yang terukur.</p>
 <section id="assessment-dosen" class="level3 assessor-only">
 <h3 class="anchored" data-anchor-id="assessment-dosen">Assessment dosen</h3>
 <p><strong>Skor:</strong> — / 20<br>
@@ -858,7 +948,7 @@ ul.task-list li input[type="checkbox"] {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>Portfolio KIPP-2 · Nama Mahasiswa</p>
+<p>Portfolio KIPP-2 · Omerio Orlando Manalu</p>
 </div>   
     <div class="nav-footer-center">
       &nbsp;

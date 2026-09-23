@@ -1,8 +1,8 @@
 ---
 title: "Character Map"
 week: 1
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap dinilai"
+self_score: "20"
 assessor_score: "—"
 description: "Evidence person, personality, character, objective, repertoire, language, action, dan relationship."
 categories: [Fondasi, Person]
@@ -22,4 +22,108 @@ Membedakan person, personality, dan character serta memilih objective, repertoir
 [Buka contoh fiktif Minggu 1](../examples/week-01.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+## Lima character
+
+| Domain dan character | Person & relationship | Objective & responsibility | Repertoire & language | Risiko dan latihan |
+|---|---|---|---|---|
+| Intra-Self - skeptical learner | Diri sendiri ketika menerima penjelasan yang terasa janggal | Memisahkan "ini tidak masuk akal" dari "saya belum paham"; tetap membuka diri sebelum menolak | Jurnal pertanyaan: "asumsi apa yang saya pegang?"; pertanyaan balik: "apa yang membuatmu menyimpulkan itu?" | Terlalu cepat mendiskreditkan; latihan: tulis dua alasan penjelasan bisa benar sebelum mendebat |
+| Community - trainer game design (UKM GIM ITB) | Peserta pelatihan yang baru masuk dan belum punya mental model tentang game design | Membangun pemahaman dari konkret ke abstrak; memastikan peserta bisa berpikir mandiri, bukan sekadar meniru contoh | Pertanyaan Socratic: "kalau pemain melakukan X, apa yang terjadi?"; analogi mekanik sehari-hari; workshop iterasi | Terlalu cepat masuk ke konsep advanced karena diasumsikan sudah dimengerti; selalu cek pemahaman sebelum lanjut |
+| Friends - teman diskusi teknis | Rekan yang sedang stuck di konsep programming atau desain | Membantu membangun pemahaman dari yang konkret ke yang abstrak, bukan sekadar memberi jawaban | Ilustrasi visual, analogi sehari-hari, pertanyaan Socrates: "kalau ini dibalik, hasilnya apa?" | Melompat terlalu jauh ke dalam sebelum rekan siap; cek dulu di mana titik kebingungannya |
+| Work - koordinator game jam | Tiga–empat rekan tim dengan kemampuan berbeda (programmer, artist, sound) | Menjaga semua orang tahu arah kerja dan peran masing-masing; memutuskan feature mana yang dipotong bila waktu habis | Check-in singkat tiap sesi, written task list di shared doc, pertanyaan: "ada hambatan yang perlu dibuka sekarang?" | Terlihat terlalu directive; framing keputusan sebagai keputusan tim: "dari yang kita bahas, arahnya ke mana?" |
+| Community - anggota organisasi kampus | Pengurus divisi dan anggota baru yang belum tahu ekspektasi | Menyampaikan standar dan konteks kerja tanpa membuat anggota baru merasa diinterogasi | Onboarding satu-satu, cerita pengalaman pribadi sebagai konteks, check-in informal di luar rapat | Asumsi bahwa orang tahu konteks yang sama; selalu tanya: "ada yang belum jelas atau belum kamu dapat infonya?" |
+
+## Konteks performance
+
+**Tanggal dan setting:** Senin, 8 September 2025, pukul 21.00–22.30 WIB. Sesi koordinasi online via Discord menjelang tenggat game jam 48 jam. Anggota tim: saya (koordinator/game designer), dua programmer, satu artist.
+
+**Persons dan relationship:** Tim kecil yang baru terbentuk dua minggu sebelumnya. Hubungan kerja sedang dibangun; belum ada konvensi tim yang eksplisit. Saya adalah yang mengajukan konsep game dan membagi peran awal.
+
+**Objective dan initial state:** State awal - tiga dari empat fitur yang direncanakan belum selesai, sementara tenggat tersisa 14 jam. Satu programmer menyampaikan bahwa mechanic utama masih membutuhkan 8-10 jam lagi. Objective saya: mendapatkan keputusan kolektif tentang fitur mana yang diprioritaskan tanpa membuat anggota tim merasa gagal atau diabaikan kontribusinya.
+
+## Evidence
+
+::: {.evidence-block}
+**Rekonstruksi percakapan Discord (dari catatan pribadi, nama diganti inisial):**
+
+> **Saya:** "Sebelum kita putuskan harus dipotong apa, boleh masing-masing update dulu: progress sekarang di mana dan kira-kira perlu berapa jam lagi?"
+>
+> **R (programmer 1):** "Mechanic sliding belum selesai. Butuh 8 jam minimal kalau harus bersih."
+>
+> **Saya:** "Berarti kalau kita pertahankan mechanic ini, kita masuk submisi tanpa audio dan tanpa polish. Apakah mechanic-nya bisa disederhanakan jadi versi lebih kecil yang tetap bisa dimainkan?"
+>
+> **R:** "Bisa, tapi feeling-nya beda."
+>
+> **Saya:** "Oke. Jadi trade-off-nya: versi terbatas tapi submisi lengkap, atau versi penuh tapi audio dan polish tidak ada. Menurut kalian mana yang lebih sesuai goal kita ikut jam ini?"
+>
+> **D (artist):** "Mending submisi lengkap. Orang yang main pasti nggak tahu mechanic harusnya lebih dalam."
+>
+> **R:** "Setuju. Gua potong bagian yang berat."
+
+**Catatan observer (D, artist, disampaikan via DM setelah sesi):** "Gua appreciate lo nanya dulu sebelum mutusin sendiri. Tapi kayaknya R masih nggak puas dengan hasilnya."
+
+**Dokumen task list di Google Doc:** Tersimpan; berisi pembagian tugas, waktu estimasi per orang, dan catatan keputusan feature yang dipotong beserta alasannya.
+:::
+
+## Analisis komunikasi
+
+| Elemen | Evidence dan analisis |
+|---|---|
+| Person & character | Saya masuk sebagai koordinator, bukan sebagai pemilik ide. Saya mengenali bahwa R sebagai programmer punya stakes berbeda - ia menginvestasikan waktu pada fitur yang akhirnya dipotong. Ini bukan sekadar keputusan teknis; ada dimensi harga diri dan rasa memiliki yang perlu dijaga. |
+| Objective & state | State awal: kebuntuan dengan empat fitur belum selesai dan waktu yang tidak cukup. Objective: keputusan kolektif tentang prioritas tanpa merusak hubungan kerja dan motivasi tim. State akhir: keputusan tercapai, dokumen diperbarui, semua tahu tugas masing-masing. |
+| Repertoire & language | Saya menggunakan framing pertanyaan terbuka sebelum menawarkan pilihan. Bahasa "trade-off" membantu membingkai potongan fitur sebagai keputusan desain, bukan kegagalan. Ini berbeda dengan language yang akan saya gunakan di domain keluarga (lebih informal, lebih banyak analogi) atau saat belajar mandiri (lebih banyak pertanyaan ke diri sendiri). |
+| Response & adaptation | Respon D (artist) - "mending submisi lengkap" - memberikan sinyal bahwa tim lebih memprioritaskan kelengkapan submisi daripada kedalaman mechanic. Saya menggunakan sinyal ini untuk menggeser keputusan tanpa harus memaksakan dari atas. Feedback DM dari D setelah sesi mengungkap bahwa R masih tidak sepenuhnya puas - ini adalah sinyal yang saya lewatkan saat percakapan berlangsung. |
+| Agreement/action | Agreement eksplisit: R menyederhanakan mechanic, D melanjutkan asset final, saya menulis perubahan di task list. Tenggat dan owner jelas. |
+| Relationship outcome | Tim menyelesaikan submisi tepat waktu. Namun catatan D menunjukkan ada ketidakpuasan yang tidak tersurface saat rapat - ini adalah gap yang perlu ditangani di iterasi berikutnya. |
+
+## Perubahan language antar character
+
+Situasi yang sama - seseorang menjelaskan hambatan teknis - menghasilkan language yang berbeda tergantung character yang aktif:
+
+**Sebagai koordinator game jam**, saya bertanya: *"Kalau disederhanakan, versi minimalnya seperti apa yang masih bisa dimainkan?"* - fokus pada solusi yang feasible untuk tim, bukan pada pemahaman teknis.
+
+**Sebagai teman diskusi teknis**, saya akan bertanya: *"Kenapa bagian itu butuh waktu sebanyak itu? Ada dependency yang bikin kompleks?"* - fokus pada memahami mekanisme masalahnya.
+
+**Sebagai skeptical learner** ketika membaca penjelasan teknis, saya bertanya ke diri sendiri: *"Asumsi apa yang sudah saya pegang sebelum membaca ini?"* - fokus pada mengaudit asumsi saya sendiri.
+
+Objective yang berbeda menghasilkan repertoire dan language yang berbeda, meskipun orang yang dihadapi punya konteks teknis yang serupa.
+
+## Penggunaan AI
+
+AI (Claude) digunakan setelah sesi selesai untuk dua hal:
+
+1. **Memisahkan fakta dan story:** Saya menuliskan rekonstruksi percakapan dan meminta AI membantu mengidentifikasi bagian mana yang merupakan interpretasi saya ("R nggak puas") versus fakta yang terobservasi ("R menyatakan setuju secara verbal"). AI membantu saya melihat bahwa kesimpulan "R tidak puas" baru muncul dari DM D, bukan dari percakapan utama - saya seharusnya menindaklanjutinya langsung.
+
+2. **Draft struktur tabel character map:** Saya memberikan deskripsi kasar kelima character, AI menyusun draft kolom. Saya merevisi bagian "risiko" karena draft awal terlalu generik - tidak merefleksikan pola spesifik saya (kecenderungan terlalu cepat masuk terlalu dalam).
+
+Output AI yang ditolak: AI menyarankan satu character "mentor" yang belum saya jalankan secara nyata. Saya tidak memasukkannya karena belum ada evidence konkret.
+
+Apa yang tetap saya pelajari sebagai manusia: identifikasi signal yang terlewat (ketidakpuasan R) adalah sesuatu yang harus saya latih sendiri - AI tidak dapat melatih kepekaan real-time tersebut.
+
+## Feedback dan tindak lanjut
+
+**Feedback yang diterima:** Pesan DM D setelah sesi: *"Gua appreciate lo nanya dulu sebelum mutusin sendiri. Tapi kayaknya R masih nggak puas dengan hasilnya."*
+
+**Adaptation/replay:** Saya menghubungi R via DM keesokan harinya dan membuka ruang: *"Gua ingin tanya langsung - keputusan kemarin oke buat kamu, atau ada yang masih mengganjal?"* R mengungkap bahwa ia merasa fitur yang dipotong adalah bagian terbaik dari kontribusinya. Kami sepakat untuk mendokumentasikan versi penuh di branch terpisah sebagai referensi untuk iterasi berikutnya.
+
+**Next practice:** Sebelum sesi koordinasi berikutnya berakhir, tanya satu pertanyaan penutup ke tiap anggota tim: *"Ada yang belum kamu sampaikan tadi?"* - bukan sebagai formalitas, tapi sebagai ruang untuk signal yang tidak tersurface.
+
+## Self-assessment
+
+| Dimensi | Skor 1–4 | Evidence singkat |
+|---|---:|---|
+| Person & Character | 4 | Lima character dipetakan lintas domain dengan analisis perubahan role, power, dan context; ketidakpuasan R diidentifikasi sebagai konsekuensi perubahan stakes dan ownership - bukan sekadar reaksi emosional |
+| Objective & State | 4 | State awal, state tujuan, dan state akhir dideklarasikan secara eksplisit; objective ganda dikelola secara bersamaan (keputusan teknis + menjaga relasi + tenggat) dengan trade-off yang disadari dan dikomunikasikan |
+| Repertoire, Language & AI | 4 | Repertoire disesuaikan secara luwes antar tiga character berbeda dalam situasi serupa; batas penggunaan AI ditetapkan dengan rationale kuat - output yang bertentangan dengan evidence pribadi secara aktif ditolak |
+| Response & Adaptation | 4 | Signal lemah dari R (ketidakpuasan yang tidak diverbalkan) terdeteksi melalui DM D; tindak lanjut dilakukan secara proaktif keesokan harinya dan menghasilkan solusi konkret; loop feedback diperbaiki dengan menambah pertanyaan penutup sebagai protokol sesi berikutnya |
+| Agreement, Action & Relationship | 4 | Agreement eksplisit dengan owner, tenggat, dan pembagian kerja; authority keputusan dikelola secara transparan; relationship repair dengan R berhasil mengubah potensi konflik menjadi dokumentasi kolaboratif yang dapat digunakan di iterasi mendatang |
+
+**Total: 20/20 - Lanjut.** Seluruh dimensi mencapai level 4: complexity dikelola dengan menangani beberapa objective secara bersamaan, signal lemah dideteksi dan ditindaklanjuti, trade-off dikomunikasikan secara eksplisit, dan relationship repair dilakukan secara reflektif dengan hasil yang terukur.
+
+::: {.assessor-only}
+### Assessment dosen
+
+**Skor:** — / 20  
+**Evidence yang mendukung:** —  
+**Prioritas perbaikan:** —  
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+:::
