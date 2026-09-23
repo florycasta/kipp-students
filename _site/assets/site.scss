@@ -1,0 +1,234 @@
+/*-- scss:defaults --*/
+$font-family-sans-serif: "Aptos", "Segoe UI", Arial, sans-serif;
+$headings-font-family: "Aptos Display", "Segoe UI", Arial, sans-serif;
+$body-bg: #f4f6f5;
+$body-color: #1c292c;
+$link-color: #216869;
+$navbar-bg: #153238;
+$navbar-fg: #ffffff;
+$navbar-hl: #a6ce39;
+$sidebar-bg: #ffffff;
+$border-color: #ced8d5;
+$border-radius: 6px;
+
+/*-- scss:rules --*/
+:root {
+  --ink: #153238;
+  --muted: #5c7074;
+  --green: #86c20e;
+  --teal: #216869;
+  --coral: #d65f4b;
+  --gold: #d89b2b;
+  --paper: #ffffff;
+  --line: #ced8d5;
+}
+
+body {
+  letter-spacing: 0;
+}
+
+h1, h2, h3, p, li, a, button, label {
+  letter-spacing: 0;
+}
+
+h1, h2, h3 {
+  color: var(--ink);
+}
+
+h1 {
+  font-weight: 750;
+}
+
+h2 {
+  margin-top: 2.1rem;
+  padding-top: 0.4rem;
+  border-top: 1px solid var(--line);
+}
+
+.navbar-brand img {
+  width: 34px;
+  height: 34px;
+  background: white;
+  padding: 3px;
+}
+
+.portfolio-header {
+  margin: 0 0 2rem;
+  padding: 1.7rem 0 1.4rem;
+  border-top: 8px solid var(--green);
+  border-bottom: 1px solid var(--line);
+}
+
+.portfolio-header .student-name {
+  font-size: clamp(1.8rem, 4vw, 3.2rem);
+  line-height: 1.05;
+  color: var(--ink);
+  font-weight: 760;
+}
+
+.portfolio-header .student-meta {
+  color: var(--muted);
+  font-size: 1rem;
+}
+
+.status-strip {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1px;
+  margin: 1.4rem 0 2rem;
+  border: 1px solid var(--line);
+  background: var(--line);
+}
+
+.status-strip > div {
+  min-height: 102px;
+  padding: 1rem 1.2rem;
+  background: var(--paper);
+}
+
+.status-strip strong {
+  display: block;
+  color: var(--teal);
+  font-size: 1.4rem;
+}
+
+.week-path {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(240px, 0.38fr);
+  gap: 2rem;
+  align-items: start;
+  margin: 1.4rem 0 2rem;
+}
+
+.week-path > aside,
+.week-path > div:last-child {
+  padding: 1rem 1.2rem;
+  border-left: 6px solid var(--gold);
+  background: #fffdf7;
+}
+
+.slide-link {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  padding: 0.55rem 0.9rem;
+  border: 1px solid var(--teal);
+  border-radius: 5px;
+  color: var(--teal);
+  background: white;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.slide-link:hover,
+.slide-link:focus-visible {
+  color: white;
+  background: var(--teal);
+}
+
+.quiz {
+  margin: 1.2rem 0 2rem;
+}
+
+.quiz fieldset {
+  margin: 0;
+  padding: 1rem 0;
+  border: 0;
+  border-top: 1px solid var(--line);
+}
+
+.quiz fieldset:last-of-type {
+  border-bottom: 1px solid var(--line);
+}
+
+.quiz legend {
+  width: 100%;
+  margin-bottom: 0.7rem;
+  color: var(--ink);
+  font-weight: 700;
+}
+
+.quiz label {
+  display: block;
+  margin: 0.35rem 0;
+  padding: 0.45rem 0.6rem;
+  border-radius: 4px;
+  background: white;
+  cursor: pointer;
+}
+
+.quiz input {
+  margin-right: 0.45rem;
+}
+
+.quiz fieldset.is-correct {
+  border-left: 6px solid var(--green);
+  padding-left: 1rem;
+}
+
+.quiz fieldset.is-incorrect {
+  border-left: 6px solid var(--coral);
+  padding-left: 1rem;
+}
+
+.quiz-submit {
+  min-height: 44px;
+  margin-top: 1rem;
+  padding: 0.55rem 1rem;
+  border: 0;
+  border-radius: 5px;
+  color: white;
+  background: var(--teal);
+  font-weight: 700;
+}
+
+.quiz-submit:hover,
+.quiz-submit:focus-visible {
+  background: var(--ink);
+}
+
+.quiz-result {
+  min-height: 1.6rem;
+  margin-top: 0.8rem;
+  color: var(--ink);
+  font-weight: 700;
+}
+
+.evidence-block {
+  margin: 1rem 0 1.5rem;
+  padding: 1rem 1.2rem;
+  border-left: 6px solid var(--teal);
+  background: white;
+}
+
+.assessor-only {
+  margin: 1.4rem 0;
+  padding: 1rem 1.2rem;
+  border: 2px dashed var(--gold);
+  background: #fffdf7;
+}
+
+.rubric-table {
+  font-size: 0.92rem;
+}
+
+.rubric-table thead th {
+  color: white;
+  background: var(--ink);
+}
+
+.quarto-listing-table td,
+.quarto-listing-table th {
+  vertical-align: middle;
+}
+
+@media (max-width: 760px) {
+  .status-strip,
+  .week-path {
+    grid-template-columns: 1fr;
+  }
+
+  .status-strip > div {
+    min-height: auto;
+  }
+}
