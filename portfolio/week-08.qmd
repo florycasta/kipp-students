@@ -1,7 +1,7 @@
 ---
 title: "UTS Performance Evidence Package"
 week: 8
-status: "Belum dimulai"
+status: "Siap dinilai"
 self_score: "—"
 assessor_score: "—"
 description: "Integrated performance Target–Attention–Interest."
@@ -12,14 +12,20 @@ categories: [Assessment, UTS]
 
 Mengintegrasikan person recognition, state recognition, repertoire, language, response, dan adaptation.
 
-## Evidence wajib
+## Berkas Evidence UTS
 
-- Performance card dan initial state.
-- Rekaman/transcript serta observer sheet.
-- Feedback, replay, evidence improvement, dan reflection.
+Seluruh 6 berkas laporan UTS telah diselesaikan dan tersimpan pada repositori di folder `portfolio/UTS/`:
+
+1. **Makalah Teoretis:** [Paper UTS — MBTI & Pola Komunikasi Interpersonal](UTS/paper.qmd)
+2. **Sesi 1:** [Laporan Sesi 1 — Dialog Diri & Tokoh Pembanding (K1-02 Budi)](UTS/hasil_1.qmd)
+3. **Sesi 2a:** [Laporan Sesi 2a — Persahabatan & Profesionalitas (K2-01 Ali)](UTS/hasil_2a.qmd)
+4. **Sesi 2b:** [Laporan Sesi 2b — Persahabatan & Profesionalitas (K2-02 Budi)](UTS/hasil_2b.qmd)
+5. **Sesi 3a:** [Laporan Sesi 3a — Solusi TI/AI (K3-05 Elsa)](UTS/hasil_3a.qmd)
+6. **Sesi 3b:** [Laporan Sesi 3b — Solusi TI/AI (K3-03 Cyntia)](UTS/hasil_3b.qmd)
 
 ::: {.callout-tip title="Lihat contoh pengisian"}
 [Buka contoh fiktif Minggu 8](../examples/week-08.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
 {{< include ../includes/evidence-template.md >}}
+

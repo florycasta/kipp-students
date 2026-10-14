@@ -1,0 +1,324 @@
+﻿---
+title: "Laporan UTS KIPP 2026 — Sesi 1"
+subtitle: "Kasus 1 — Memimpin Diri dan Terus Belajar"
+author: "Omerio Orlando Manalu (18225117)"
+date: "2026-10-14"
+lang: id
+format:
+  html:
+    toc: true
+execute:
+  eval: false
+categories: [UTS, Sesi-1]
+---
+
+<!-- Laporan Sesi 1 — hasil_1_18225117.qmd | Bank 2.0; Paket 2.0 -->
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Omerio Orlando Manalu |
+| NIM | 18225117 |
+| Kelas dan tanggal | KIPP-2; 14 Oktober 2026 |
+| Nomor/judul kasus | Sesi 1; Kasus 1 — Memimpin Diri dan Terus Belajar |
+| Nama dan ID target | Diri mahasiswa; pembanding Budi (K1-02) |
+| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; penugasan dalam PENUGASAN.md |
+| Modalitas | Teks (chatbox) |
+| Kasus nyata/fiktif | Kasus nyata dengan nama tokoh pembanding fiktif |
+| Kelengkapan transkrip | Lengkap |
+
+---
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+
+**Brief kasus:** "Pilih satu kemampuan yang ingin kamu kembangkan agar lebih berguna dalam kuliah, kerja, atau kehidupan. Kita akan memeriksa cara kamu memimpin diri ketika menghadapi hambatan belajar."
+
+**Kemampuan yang dipilih:** Komunikasi publik — khususnya kemampuan menyampaikan ide dengan percaya diri di depan kelompok atau audiens baru.
+
+**Konteks:** Saya sering merasa canggung dan tidak percaya diri saat diminta berbicara di depan umum, baik dalam presentasi kuliah maupun diskusi kelompok. Meskipun memiliki ide yang ingin disampaikan, hambatan internal sering membuat saya menarik diri atau menyampaikan dengan tidak efektif.
+
+**Tujuan:**
+- Mengidentifikasi hambatan spesifik yang saya alami dalam komunikasi publik
+- Memahami pola respons saya terhadap situasi yang membutuhkan berbicara di depan umum
+- Menetapkan langkah konkret untuk melatih kemampuan ini
+
+**Respons akhir yang diharapkan:** Mampu menyusun dan menjalankan rencana latihan komunikasi publik yang spesifik, dengan indikator keberhasilan yang terukur.
+
+**Indikator keberhasilan:** Dapat menyampaikan gagasan dalam presentasi 5-menit tanpa persiapan berlebihan; frekuensi kontribusi aktif dalam diskusi kelompok meningkat.
+
+## Profil awal komunikator (diri mahasiswa)
+
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
+|---|---|---|---|
+| SWOT subjektif | Peluang: mampu berpikir analitis; Ancaman: canggung di situasi publik; Kekuatan: pendengar yang baik; Kelemahan: kurang inisiatif berbicara | U001–U003 | Sementara |
+| Attitude | Ingin berkembang namun ada rasa takut dilihat sebagai tidak kompeten | U002 | Sementara |
+| Knowledge | Memahami pentingnya komunikasi publik; belum tahu teknik konkret untuk melatihnya | U003 | Sementara |
+| Skill | Mampu menyusun pikiran secara tertulis; kurang terlatih menyampaikan secara lisan spontan | U004 | Sementara |
+| Preferensi/MBTI jika dilaporkan | Belum pernah tes formal; menduga ada unsur I (introvert) berdasarkan kecenderungan mengolah pikiran internal | U001 | Laporan diri/hipotesis |
+| Karakter, peran, kultur/ko-kultur | Mahasiswa teknik; lingkungan yang menghargai kompetensi teknis lebih dari soft skill komunikasi | U002 | Sementara |
+
+## Dugaan awal profil target dan rencana
+
+Target utama adalah diri saya sendiri. Tokoh fiktif Budi (K1-02, ISTJ) digunakan sebagai cermin pembanding.
+
+| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
+|---|---|---|---|---|
+| Target | Meningkatkan kepercayaan diri komunikasi publik | Diagnosis: A — takut dinilai; K — kurang teknik; S — kurang latihan | Refleksi diri, tanya hambatan spesifik | Mahasiswa mampu menyebutkan satu hambatan konkret |
+| Attention | Sadar ada masalah | A: takut terlihat bodoh | Pertanyaan terbuka tentang pengalaman negatif | Mahasiswa mau bercerita |
+| Interest | Mulai mau eksplorasi solusi | K: belum tahu cara efektif | Tawarkan kerangka latihan sederhana | Mahasiswa bertanya balik |
+| Desire | Ingin berubah | S: belum punya rutinitas latihan | Bantu menetapkan langkah kecil | Komitmen satu langkah konkret |
+| Action | Menetapkan langkah pertama | S: perlu dukungan dan jadwal | Buat rencana latihan dengan indikator | Mahasiswa menetapkan jadwal konkret |
+
+---
+
+# C) Skrip Percakapan
+
+**Transkrip aktual sesi percakapan dengan AI chatbox.**
+
+---
+
+**[Tahap A — Identifikasi]**
+
+**U001 — Mahasiswa:**
+Nama saya Omerio Orlando Manalu, NIM 18225117, kelas KIPP-2. Tanggal hari ini 14 Oktober 2026. Saya ingin memulai sesi 1 kasus 1.
+
+**AI001 — Fasilitator:**
+Selamat datang, Omerio. Data identitas Anda tercatat: Omerio Orlando Manalu, NIM 18225117, kelas KIPP-2, 14 Oktober 2026, Sesi 1 Kasus 1. Ini sesi refleksi diri tentang memimpin diri dalam belajar.
+
+Brief kasus: *"Pilih satu kemampuan yang ingin Anda kembangkan agar lebih berguna dalam kuliah, kerja, atau kehidupan. Kita akan memeriksa cara Anda memimpin diri ketika menghadapi hambatan belajar."*
+
+Kemampuan apa yang ingin Anda fokuskan dalam sesi ini?
+
+---
+
+**[Tahap B — Kasus dan Tujuan]**
+
+**U002 — Mahasiswa:**
+Saya ingin mengembangkan kemampuan komunikasi publik. Saya sering merasa tidak percaya diri saat harus presentasi atau berbicara di depan banyak orang. Padahal saya tahu materinya, tapi begitu berdiri di depan audiens, saya jadi nervous dan tidak bisa menyampaikan dengan baik.
+
+**AI002 — Fasilitator:**
+Terima kasih sudah berbagi, Omerio. Komunikasi publik adalah pilihan yang sangat relevan. Sebelum kita eksplorasi lebih jauh — apa yang paling Anda rasakan sebagai hambatan utama saat itu terjadi? Apakah lebih ke pikiran tentang apa yang orang lain pikirkan, kekhawatiran tentang isi pesan, atau hal lain?
+
+**U003 — Mahasiswa:**
+Lebih ke pikiran tentang apa yang orang lain pikirkan. Saya takut dinilai tidak kompeten atau terlihat bodoh, terutama di depan teman-teman yang saya anggap lebih pintar. Kadang saya sudah menyiapkan materi tapi saat tampil, semua yang saya siapkan terasa hilang.
+
+**AI003 — Fasilitator:**
+Itu gambaran yang sangat jelas, Omerio. Perasaan "semua terasa hilang saat tampil" itu sangat umum dan ada nama psikologisnya — kadang disebut performance anxiety. Yang menarik adalah Anda sudah tahu materinya; artinya hambatannya lebih di A (kepercayaan/attitude) daripada K (pengetahuan).
+
+Sekarang, coba gambarkan: seperti apa situasi terbaik yang pernah Anda alami ketika bisa berbicara dengan cukup nyaman? Apa bedanya dengan situasi yang membuat nervous?
+
+**U004 — Mahasiswa:**
+Situasi terbaik biasanya ketika saya bicara dengan teman dekat atau dalam kelompok kecil yang sudah saya kenal. Dalam kondisi itu saya bisa mengalir. Bedanya mungkin karena saya tidak merasa sedang "dinilai" — lebih terasa seperti ngobrol biasa. Kalau di depan banyak orang apalagi yang tidak terlalu saya kenal, langsung ada tekanan berbeda.
+
+**AI004 — Fasilitator:**
+Observasi yang bagus. Ini menunjukkan skill dasarnya sudah ada — Anda mampu menyampaikan pikiran dengan baik dalam kondisi yang aman. Tantangannya adalah mentransfer itu ke konteks yang lebih formal atau publik.
+
+Apa tujuan konkret yang ingin Anda capai dari sesi ini? Misalnya: kondisi seperti apa yang ingin Anda bisa jalani lebih baik enam bulan dari sekarang?
+
+**U005 — Mahasiswa:**
+Tujuan saya adalah bisa menyampaikan presentasi 5-10 menit di depan kelas tanpa panik berlebihan. Saya ingin bisa tetap terstruktur meskipun nervous, dan mulai lebih aktif berkontribusi dalam diskusi kelompok — tidak hanya diam dan mendengarkan.
+
+**AI005 — Fasilitator:**
+Tujuan yang spesifik dan realistis. Saya catat: presentasi 5-10 menit tetap terstruktur meski nervous; lebih aktif di diskusi kelompok. 
+
+Sebelum kita lanjut ke simulasi, ada yang ingin Anda tambahkan tentang rencana awal Anda — apa yang sudah pernah Anda coba untuk mengatasi hambatan ini?
+
+---
+
+**[Tahap C — Simulasi Awal]**
+
+**U006 — Mahasiswa:**
+Saya pernah mencoba mempersiapkan catatan dan hafalan sebelum presentasi, tapi itu malah membuat saya lebih kaku karena terlalu tergantung pada catatan. Saya juga pernah mencoba berlatih di depan cermin, tapi terasa aneh berbicara sendirian. Belum pernah konsisten melakukan latihan apapun.
+
+**AI006 — Fasilitator:**
+Menarik — catatan yang terlalu detail membuat kaku, dan latihan sendiri terasa kurang nyata. Ini adalah masukan penting tentang apa yang tidak bekerja untuk Anda.
+
+Sekarang kita masuk ke segmen pembanding. Saya akan memerankan Budi — teman yang juga menghadapi hambatan dalam mengembangkan kemampuan baru, tapi dengan profil yang sedikit berbeda dari Anda.
+
+---
+
+**[Segmen Pembanding — Budi K1-02]**
+
+*Budi (K1-02): "Cara sekarang sudah jelas. Mengapa harus berubah?"*
+
+**U007 — Mahasiswa (berbicara kepada Budi):**
+Budi, saya mengerti kamu merasa cara yang sekarang sudah bekerja. Tapi pernahkah kamu merasa ada situasi di mana cara lama itu tidak cukup? Saya ingin tahu pengalaman kamu.
+
+**AI007 — Budi (K1-02):**
+*(Budi, sedikit defensif tapi tidak menutup diri)* Hmm... ada sih, kadang. Tapi selama ini saya bisa tangani. Mengapa harus belajar cara baru yang belum terbukti, kalau yang lama masih jalan?
+
+**U008 — Mahasiswa:**
+Budi, saya tidak bilang cara lama salah. Saya justru ingin memahami dulu — apa standar yang paling penting buat kamu? Kalau cara baru ternyata bisa memenuhi standar itu bahkan lebih baik, apakah kamu mau mempertimbangkannya?
+
+**AI008 — Budi (K1-02):**
+*(Budi sedikit lebih terbuka)* Standar saya adalah prosedur yang jelas dan hasilnya bisa diukur. Kalau ada cara baru yang bisa tunjukkan itu — dengan bukti nyata, bukan teori saja — mungkin saya mau dengar.
+
+**U009 — Mahasiswa:**
+Itu wajar sekali, Budi. Saya appreciate kamu mau mendengar dengan syarat seperti itu. Kamu sangat peduli pada kejelasan dan akuntabilitas — itu adalah kekuatan. Mau tidak kalau kita diskusikan satu contoh konkret bagaimana cara baru ini bisa diuji dulu dalam skala kecil, tanpa meninggalkan prosedur yang sudah ada?
+
+**AI009 — Budi (K1-02):**
+*(Budi mempertimbangkan)* Skala kecil... kalau hanya uji coba dengan indikator yang jelas, dan tidak langsung mengganti semua yang ada — bisa saya pertimbangkan. Tapi saya perlu lihat rencana yang detail dulu.
+
+---
+
+**[Kembali ke Tahap D — Evaluasi Sementara]**
+
+**AI010 — Fasilitator:**
+Baik, kita kembali ke refleksi Anda. Dalam segmen pembanding tadi, apa yang Anda amati tentang perbedaan antara hambatan Budi dan hambatan Anda sendiri?
+
+**U010 — Mahasiswa:**
+Budi sepertinya hambatan utamanya ada di K (belum melihat bukti yang cukup untuk cara baru) dan A (menjaga standar lama adalah identitasnya). Kalau saya, hambatan utamanya lebih ke A — kepercayaan diri — tapi bukan karena saya tidak tahu; lebih karena takut dinilai. Budi butuh bukti dan prosedur; saya butuh rasa aman untuk mencoba.
+
+**AI010 — Fasilitator:**
+Diagnosis yang sangat tajam, Omerio. Anda bisa membedakan dengan jelas: Budi — hambatan K dan identitas standar; Anda — hambatan A berupa fear of judgment, dengan skill yang sebenarnya sudah ada.
+
+Apa yang bisa Anda pelajari dari cara Anda mendekati Budi — khususnya strategi "validasi standar dulu sebelum tawarkan alternatif" — dan bagaimana itu bisa Anda terapkan pada diri sendiri?
+
+---
+
+**[Tahap E — Uji Ulang]**
+
+**U011 — Mahasiswa:**
+Dari cara saya mendekati Budi, saya belajar bahwa sebelum "memaksa" perubahan, saya perlu mengakui apa yang sudah ada dan bekerja. Untuk diri saya sendiri: saya perlu mengakui bahwa skill dasar saya dalam komunikasi sudah ada (terbukti saat dengan teman dekat), bukan memulai dari nol. Saya hanya perlu mentransfer itu ke konteks yang lebih luas, secara bertahap.
+
+**AI011 — Fasilitator:**
+Sangat baik. Sekarang uji ulang: bayangkan minggu depan Anda harus presentasi mendadak di kelas — tanpa persiapan matang. Hambatan yang sama muncul lagi. Tuliskan respons konkret yang akan Anda jalankan sekarang, bukan hanya niat.
+
+**U012 — Mahasiswa:**
+Respons konkret yang akan saya jalankan:
+1. Ambil napas dalam 3x sebelum memulai — menurunkan aktivasi fisik nervousness
+2. Remind diri: "Saya tahu ini, saya sudah pernah menjelaskan ini ke teman. Ini sama saja."
+3. Mulai dengan satu kalimat pembuka yang sudah disiapkan mental ("Yang ingin saya sampaikan adalah...")
+4. Izinkan diri berbicara tidak sempurna — audiens menghargai keaslian lebih dari kesempurnaan
+5. Setelah selesai, catat satu hal yang berhasil dan satu yang ingin diperbaiki
+
+**AI012 — Fasilitator:**
+Lima langkah yang konkret dan dapat dijalankan. Satu pertanyaan: bagaimana Anda akan tahu bahwa Anda sudah lebih baik dari sebelumnya — indikator evaluasi apa yang akan Anda pakai?
+
+**U013 — Mahasiswa:**
+Indikator evaluasi saya:
+- Dapat menyelesaikan presentasi tanpa membaca catatan selama lebih dari 80% waktu
+- Frekuensi kontribusi dalam diskusi kelompok: minimal satu kontribusi aktif per sesi
+- Self-rating nervous level sebelum dan sesudah presentasi (skala 1-10) — target penurunan gradual
+- Feedback dari satu orang teman yang dipercaya setelah setiap presentasi
+
+---
+
+**[Tahap F — Refleksi]**
+
+**AI013 — Fasilitator:**
+Sebelum kita tutup, beberapa pertanyaan refleksi:
+
+Apa perubahan terbesar dalam cara Anda melihat hambatan ini setelah sesi tadi?
+
+**U014 — Mahasiswa:**
+Perubahan terbesar: saya menyadari bahwa hambatan utama saya bukan kurangnya kemampuan, melainkan cara saya menafsirkan situasi publik sebagai "ujian identitas" — apakah saya cukup kompeten di mata orang lain. Dengan memindahkan framing dari "ujian" ke "latihan yang normal membutuhkan waktu", tekanannya berkurang.
+
+**AI014 — Fasilitator:**
+Framing shift yang sangat penting. Terakhir: stimulus apa yang paling membantu dalam sesi ini, dan apa yang kurang efektif?
+
+**U015 — Mahasiswa:**
+Yang paling membantu: pertanyaan tentang situasi terbaik yang pernah saya alami — itu membuka kesadaran bahwa skill dasarnya sudah ada. Yang kurang efektif untuk saya mungkin latihan di cermin yang pernah saya coba — karena tidak ada elemen sosial yang nyata. Saya belajar bahwa saya butuh latihan dengan elemen sosial, meski dalam skala kecil dulu (contoh: presentasi ke 2-3 teman dulu).
+
+**AI015 — Fasilitator:**
+Insight yang berharga. Anda siap untuk konfirmasi ringkasan?
+
+**U016 — Mahasiswa:**
+Ya, saya siap mengkonfirmasi. Ringkasannya sudah sesuai dengan apa yang saya alami dalam sesi ini.
+
+---
+
+**[Tahap G — Konfirmasi]**
+
+**AI016 — Fasilitator:**
+Konfirmasi diterima. Laporan sesi 1 akan dibuat berdasarkan percakapan ini. Terima kasih, Omerio.
+
+---
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+Tujuan tercapai secara proses: sesi berhasil mengidentifikasi hambatan spesifik, menetapkan langkah konkret, dan menghasilkan framing shift yang signifikan.
+
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
+|---|---|---|---|---|
+| Kesimpulan SWOT | Ancaman: takut dinilai; Peluang: skill dasar ada | Peluang lebih jelas; ancaman lebih terdefinisi dan dapat diatasi | U014 | Laporan diri; belum ada demonstrasi perubahan perilaku nyata |
+| Attitude | Takut dinilai tidak kompeten; ingin berubah tapi tidak tahu mulai dari mana | Lebih yakin bahwa skill dasar ada; hambatan lebih pada framing bukan kemampuan | U014 | Laporan diri; batas: perubahan attitude butuh waktu dan konsistensi |
+| Knowledge | Belum tahu teknik konkret | Memiliki pemahaman tentang: fear of judgment, transfer skill, bertahap | U010, U011 | Demonstrasi pemahaman dalam percakapan; batas: belum diuji di lapangan |
+| Skill | Belum punya rutinitas latihan | Memiliki 5 langkah respons konkret dan 4 indikator evaluasi | U012, U013 | Rencana tertulis; batas: belum ada demonstrasi nyata di luar sesi |
+
+## Evaluasi stimulus–respons dan diagnosis profil
+
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
+|---|---|---|---|---|---|
+| U002–AI002 | A: Sedang (mau berbagi, ada hambatan jelas) | Cerita hambatan komunikasi publik | Fasilitator menggali akar hambatan | A terbuka sedikit: mengidentifikasi "fear of judgment" | Fasilitator gali lebih dalam dengan pertanyaan terbuka |
+| U004–AI004 | K: Rendah-Sedang (insight tentang kondisi nyaman) | Cerita situasi terbaik | Fasilitator highlight insight | K meningkat: identifikasi faktor "rasa aman" | Hubungkan ke transfer skill |
+| U010–AI010 | Semua: Sedang (analisis banding Budi-diri) | Analisis perbedaan hambatan | Fasilitator apresiasi dan perluas | Persepsi meningkat: memahami ASK diri vs Budi | Terapkan ke strategi diri |
+| U012–AI012 | S: Sedang (rencana konkret terbentuk) | Lima langkah respons konkret | Fasilitator minta indikator | S meningkat: rencana + indikator evaluasi | Perkuat dengan tolok ukur |
+
+## Pengaruh pesan personal dan kualitas relasi
+
+| Episode/ID | Pesan personal/kepedulian | Respons yang teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+|---|---|---|---|---|
+| U007–AI007 | "Saya ingin tahu pengalaman kamu" (ke Budi) | Budi sedikit defensif, tapi membuka diri | Rasa aman Budi: Rendah → Sedang | Validasi pengalaman Budi sebelum tawarkan alternatif efektif |
+| U009–AI009 | Validasi standar Budi + tawaran uji coba kecil | Budi mau mempertimbangkan | Kepercayaan Budi: Sedang → Tinggi (dalam simulasi) | Strategi: akui dulu sebelum propose perubahan |
+
+## Uji ulang dan pembelajaran
+
+Uji ulang (U011–U013): Mahasiswa mampu menyusun lima langkah respons konkret dan empat indikator evaluasi yang terukur saat dihadapkan pada skenario presentasi mendadak. Ini menunjukkan peningkatan S (kemampuan merencanakan) dibanding awal sesi ketika mahasiswa belum punya rencana sama sekali. Transfer dari insight ke rencana terjadi dalam sesi ini; namun transfer ke perilaku nyata belum dapat diverifikasi dari teks.
+
+## Penilaian enam dimensi
+
+| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
+|---|---|---|---|
+| Tujuan dan konteks | 3 | U005: "bisa menyampaikan presentasi 5-10 menit tanpa panik berlebihan" | Tujuan spesifik dan relevan; konteks dijelaskan dengan jelas |
+| Persepsi dan validasi profil/status | 3 | U010: analisis perbedaan hambatan diri vs Budi | Mampu membedakan ASK diri dan tokoh; identifikasi "fear of judgment" akurat |
+| Pemilihan dan urutan repertoar | 3 | U007–U009: validasi standar dulu, baru tawarkan alternatif | Urutan efektif: akui pengalaman → gali standar → tawarkan uji coba kecil |
+| Eksekusi jelas, peduli dan konsisten | 3 | U008: "Saya tidak bilang cara lama salah" | Eksekusi empatik dan tidak memaksa; konsisten menghargai perspektif Budi |
+| Evaluasi dan adaptasi | 3 | U011: merefleksikan insight dari segmen Budi ke diri sendiri | Mampu mengambil pelajaran dari pembanding dan mengaplikasikan ke situasi diri |
+| Refleksi dan lesson learned | 3 | U014: "hambatan utama saya bukan kurangnya kemampuan, melainkan cara saya menafsirkan situasi" | Refleksi mendalam tentang framing shift; insight konkret dan dapat ditindaklanjuti |
+
+*Nilai usulan AI = 18/24 × 100 = 75. Memerlukan moderasi dosen. Hasil tujuan terpisah dari nilai proses.*
+
+## Refleksi dan lesson learned mahasiswa
+
+**Dugaan yang dikoreksi:** Awalnya saya menduga hambatan saya adalah kurangnya pengetahuan tentang teknik presentasi. Setelah sesi ini, saya menyadari hambatan utamanya adalah di A — cara saya menafsirkan situasi publik sebagai "ujian identitas" yang mengancam.
+
+**Stimulus efektif:** Pertanyaan tentang situasi terbaik yang pernah saya alami — membuka kesadaran bahwa skill dasarnya sudah ada. Validasi bahwa "kamu tidak memulai dari nol" sangat membantu menurunkan anxiety.
+
+**Stimulus kurang efektif:** Teknik hafalan dan latihan di cermin yang pernah saya coba sebelumnya — karena tidak ada elemen sosial nyata.
+
+**Perubahan ASK diri:** A meningkat (lebih yakin skill dasar ada); K meningkat (framing baru tentang hambatan); S dalam perencanaan meningkat (lima langkah + empat indikator).
+
+**Pengaruh preferensi/peran/budaya:** Sebagai mahasiswa teknik, saya terpapar budaya yang lebih menghargai kompetensi teknis. Ini mungkin memperkuat fear of judgment dalam konteks komunikasi soft skill.
+
+**Pelajaran untuk berikutnya:** Mulai latihan dengan skala kecil — presentasi ke 2-3 teman dulu sebelum ke audiens lebih besar. Konsistensi lebih penting dari kesempurnaan.
+
+## Tindak lanjut dan batas bukti
+
+**Langkah berikutnya:**
+1. Minggu ini: presentasi informal ke 2-3 teman tentang topik yang saya kuasai (15-20 menit)
+2. Dua minggu ke depan: kontribusi aktif minimal satu kali per sesi diskusi kelompok
+3. Satu bulan ke depan: evaluasi menggunakan indikator yang sudah ditetapkan
+
+**Dukungan yang dibutuhkan:** Satu teman yang bisa memberikan feedback jujur dan konstruktif.
+
+**Batas bukti:** Seluruh analisis ini berdasarkan laporan diri dalam percakapan teks. Perubahan skill dan attitude yang sesungguhnya hanya dapat diverifikasi melalui perilaku nyata di luar sesi. Simulasi chatbot bukan pengganti interaksi sosial nyata; performance Budi adalah simulasi, bukan perilaku manusia sungguhan.
+
+## Bobot dan nilai akhir UTS
+
+| Komponen | Bobot | Nilai komponen |
+|---|---:|---|
+| Makalah pra-UTS (`paper.qmd`) | 10% | Nilai dosen pada skala 0–100 |
+| Sesi 1 | 18% | 75 (usulan AI; perlu moderasi dosen) |
+| Sesi 2a | 18% | BT |
+| Sesi 2b | 18% | BT |
+| Sesi 3a | 18% | BT |
+| Sesi 3b | 18% | BT |
+| **Total** | **100%** | |
+
+**Nilai akhir UTS: Belum dihitung** (menunggu nilai makalah dan kelima sesi tersedia).

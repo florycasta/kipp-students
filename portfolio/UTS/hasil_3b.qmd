@@ -1,0 +1,282 @@
+﻿---
+title: "Laporan UTS KIPP 2026 — Sesi 3b"
+subtitle: "Kasus 3 — Menawarkan Solusi TI/AI (Target: Cyntia, K3-03)"
+author: "Omerio Orlando Manalu (18225117)"
+date: "2026-10-14"
+lang: id
+format:
+  html:
+    toc: true
+execute:
+  eval: false
+categories: [UTS, Sesi-3b]
+---
+
+<!-- Laporan Sesi 3b — hasil_3b_18225117.qmd | Bank 2.0; Paket 2.0 -->
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Omerio Orlando Manalu |
+| NIM | 18225117 |
+| Kelas dan tanggal | KIPP-2; 14 Oktober 2026 |
+| Nomor/judul kasus | Sesi 3b; Kasus 3 — Menawarkan Solusi TI dan AI |
+| Nama dan ID target | Cyntia (K3-03); pengelola usaha/customer |
+| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; penugasan dalam PENUGASAN.md |
+| Modalitas | Teks (chatbox) |
+| Kasus nyata/fiktif | Kasus fiktif dengan tokoh fiktif |
+| Kelengkapan transkrip | Lengkap |
+
+---
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+
+**Brief kasus:** Cyntia adalah pengelola usaha yang menangani pertanyaan pelanggan berulang dan pesanan tercecer. Tenaga terbatas. Ia belum yakin perlu AI — tapi berbeda dari Elsa, Cyntia lebih antusias dan terbuka pada ide baru, namun komitmennya mudah tersebar ke banyak prioritas.
+
+**Konteks:** Cyntia bersemangat terhadap inovasi tapi sering tidak menindaklanjuti secara konsisten karena terlalu banyak hal yang ingin dilakukan sekaligus. Tantangannya bukan skeptisisme seperti Elsa, melainkan membantu Cyntia memilih satu fokus dan membuat komitmen yang nyata.
+
+**Tujuan tindakan:**
+- Membantu Cyntia mengidentifikasi satu masalah utama yang ingin diselesaikan
+- Mengarahkan antusiasme Cyntia ke komitmen yang spesifik dan dapat dieksekusi
+- Mencapai kesepakatan pilot dengan lingkup, penanggung jawab, dan jadwal yang jelas
+
+**Indikator keberhasilan:** Cyntia menetapkan satu pilot dengan lingkup terbatas, penanggung jawab, dan tenggat yang spesifik.
+
+## Profil awal komunikator (diri mahasiswa)
+
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
+|---|---|---|---|
+| SWOT subjektif | Kekuatan: pengalaman dari 3a; Kelemahan: perlu cara berbeda untuk profil antusias | U001 | Sementara |
+| Attitude | Ingin membantu Cyntia fokus tanpa mematikan antusias | U001 | Sementara |
+| Knowledge | Tahu profil ENFP cenderung antusias tapi tidak konsisten; perlu pendekatan yang menghargai energi tapi arahkan | U002 | Sementara |
+| Skill | Lebih terlatih dari sesi sebelumnya | U002 | Sementara |
+
+## Dugaan awal profil Cyntia dan rencana
+
+Saya menduga Cyntia (ENFP fiktif): A — antusias tapi komitmen mudah tersebar; K — gambaran besar ada, detail belum lengkap; S — kreatif, tindak lanjut belum konsisten.
+
+| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
+|---|---|---|---|---|
+| Target | Cyntia menetapkan pilot konkret | A: Antusias tapi tersebar; K: Belum pilih masalah utama; S: Perlu lingkup dan PJ | Hubungkan ke tujuan besar; bantu pilih prioritas | Cyntia memilih satu masalah utama |
+| Attention | Cyntia fokus ke satu masalah | A: Energi tersebar | Tanya "masalah mana yang paling mengganggu?" | Cyntia menyebut satu masalah konkret |
+| Interest | Cyntia melihat solusi konkret | K: Belum lihat detail | Tawarkan satu solusi yang terhubung ke visi besar | Cyntia bertanya detail |
+| Desire | Cyntia mau commit ke satu pilot | A: Banyak ide sekaligus | Bantu pilih satu, tunda yang lain dengan alasan positif | Cyntia setuju satu pilot |
+| Action | Cyntia tetapkan lingkup + PJ + tenggat | S: Perlu struktur | Buat milestone singkat yang konkret | Cyntia menyebutkan detail komitmen |
+
+---
+
+# C) Skrip Percakapan
+
+**Transkrip aktual sesi percakapan dengan AI chatbox.**
+
+---
+
+**[Tahap A — Identifikasi]**
+
+**U001 — Mahasiswa:**
+Nama saya Omerio Orlando Manalu, NIM 18225117, kelas KIPP-2. Tanggal 14 Oktober 2026. Saya ingin memulai sesi 3b, kasus 3, dengan target Cyntia K3-03.
+
+**AI001 — Fasilitator:**
+Identitas tercatat. Brief kasus sama dengan 3a. Target kali ini: Cyntia (K3-03). Apa tujuan dan rencana Anda?
+
+---
+
+**[Tahap B — Tujuan dan Rencana]**
+
+**U002 — Mahasiswa:**
+Tujuan: bantu Cyntia fokus ke satu masalah dan capai komitmen pilot yang konkret. Rencana berbeda dari sesi 3a: Cyntia kemungkinan antusias dari awal, jadi tantangannya bukan meyakinkan bahwa teknologi berguna — melainkan membantu dia memilih satu fokus dan tidak teralihkan ke banyak ide sekaligus. Saya akan hargai antusias Cyntia, tapi terus mengarahkan ke satu prioritas konkret. Saya juga akan pastikan ada penanggung jawab yang jelas untuk pilot.
+
+**AI002 — Fasilitator:**
+Perencanaan yang baik. Silakan mulai.
+
+---
+
+**[Tahap C — Simulasi]**
+
+*Cyntia (K3-03): "Menarik! Tapi minggu ini banyak hal yang harus saya kerjakan."*
+
+**U003 — Mahasiswa (kepada Cyntia):**
+Halo Cyntia! Saya senang mendengar Anda tertarik. Sebelum kita bicara tentang solusi, saya ingin memahami dulu — dari semua tantangan yang Anda hadapi sekarang, mana satu yang paling mengganggu operasional dan paling ingin Anda selesaikan?
+
+**AI003 — Cyntia (K3-05):**
+*(Cyntia antusias langsung)* Oh, banyak sekali! Ada pertanyaan pelanggan yang sama terus-terusan, pesanan yang tercecer, terus saya juga ingin mulai program loyalitas untuk pelanggan setia, dan mungkin juga website baru — ini sudah lama saya inginkan!
+
+**U004 — Mahasiswa:**
+Wah, Anda punya banyak ide bagus! Dan semuanya relevan untuk pertumbuhan usaha. Boleh saya bantu memprioritaskan sebentar? Dari empat yang Anda sebut, mana yang kalau diselesaikan akan langsung mengurangi beban operasional harian — bukan setahun lagi, tapi dalam dua minggu ke depan?
+
+**AI004 — Cyntia (K3-03):**
+*(Cyntia berpikir sebentar)* Hmm... kalau dipikir-pikir, pesanan yang tercecer itu yang paling bikin stres. Pelanggan sampai komplain karena pesanannya tidak sampai. Itu yang langsung berdampak ke reputasi.
+
+**U005 — Mahasiswa:**
+Tepat sekali. Pesanan tercecer = pelanggan kecewa = reputasi turun. Itu masalah yang konkret dan mendesak. Ide website dan program loyalitas juga sangat bagus — tapi kalau pesanan sudah tercecer, program loyalitas pun tidak akan maksimal, kan?
+
+Jadi mari kita fokus ke satu dulu: pesanan tercecer. Boleh saya tanya — pesanan Anda masuk dari platform mana saja sekarang?
+
+**AI005 — Cyntia (K3-03):**
+*(Cyntia mulai fokus)* WhatsApp, Instagram DM, dan kadang Tokopedia. Semuanya masuk ke saya sendiri atau satu staf. Memang berantakan kalau sedang ramai.
+
+**U006 — Mahasiswa:**
+Itu tantangan yang sangat umum ketika usaha berkembang — multi-platform tanpa sistem terpusat. Ada solusi sederhana untuk ini: sistem agregasi pesanan yang menyatukan semua platform ke satu dashboard. Anda tidak perlu berpindah-pindah aplikasi; semua pesanan tampil di satu tempat.
+
+Ini bukan AI yang rumit. Lebih seperti inbox terpusat untuk pesanan. Cyntia, siapa di tim Anda yang kira-kira bisa menjadi penanggung jawab untuk implementasi awal ini?
+
+**AI006 — Cyntia (K3-03):**
+*(Cyntia bersemangat)* Oh, itu kedengarannya bagus! Staf saya, Doni, dia yang paling tech-savvy. Dia bisa jadi yang pertama belajar ini. Tapi... apakah ini bisa juga diintegrasikan dengan program loyalitas yang saya rencanakan?
+
+**U007 — Mahasiswa:**
+Bisa, Cyntia — tapi satu langkah dulu. Kalau kita mulai dengan pesanan terpusat dulu, dan itu sudah berjalan stabil, integrasi dengan program loyalitas akan jauh lebih mudah karena datanya sudah rapi. Terbalik justru akan lebih rumit.
+
+Jadi: Doni sebagai penanggung jawab, kita mulai dengan WhatsApp dan Instagram dulu selama dua minggu. Setelah dua minggu, kita evaluasi — apakah pesanan berkurang tercecer? Kalau ya, kita lanjut ke Tokopedia dan baru bisa diskusikan program loyalitas. Setuju?
+
+**AI007 — Cyntia (K3-03):**
+*(Cyntia, setelah jeda sebentar)* Oke, masuk akal. Dua minggu, dua platform dulu, Doni sebagai PJ. Saya setuju. Tapi saya minta update progress setiap minggu ya — saya ingin tahu apakah ini berhasil!
+
+**U008 — Mahasiswa:**
+Tentu. Update mingguan — kita bisa via chat atau meeting singkat 15 menit. Dan satu hal lagi: tolong minta Doni untuk tidak mengubah cara lain sebelum dua minggu ini selesai, supaya kita bisa evaluasi dengan jelas. Kalau banyak berubah sekaligus, susah tahu mana yang efektif.
+
+**AI008 — Cyntia (K3-03):**
+*(Cyntia tertawa kecil)* Benar juga. Saya memang sering mengubah banyak hal sekaligus. Oke, dua minggu ini fokus ke satu dulu. Saya akan bilang Doni.
+
+---
+
+**[Uji Ulang]**
+
+**AI009 — Fasilitator (uji ulang):**
+Seminggu kemudian Cyntia menghubungi: "Omerio! Doni sudah mulai, tapi saya baru ingat bahwa minggu depan ada bazaar dan saya ingin sekalian buat fitur pembayaran digital. Bisa kita tambahkan ke sistem sekarang?"
+
+**U009 — Mahasiswa:**
+Cyntia, ide fitur pembayaran digital sangat bagus dan relevan untuk bazaar — itu bisa kita rencanakan. Tapi kalau kita tambahkan ke sistem yang sedang dalam masa uji coba, Doni akan kewalahan dan kita tidak bisa tahu apakah masalah pesanan tercecer sudah teratasi atau belum.
+
+Saran saya: minggu ini Doni fokus ke pilot pesanan dulu seperti yang disepakati. Setelah bazaar selesai, kita duduk bersama dan saya bantu rancang integrasi pembayaran digital untuk sistem yang sudah stabil. Deal?
+
+**AI009 — Cyntia (K3-03):**
+*(Cyntia mempertimbangkan)* Iya, benar juga. Kasihan Doni kalau tiba-tiba berubah. Oke, kita tunggu dua minggu selesai dulu. Setelah bazaar kita duduk bersama.
+
+---
+
+**[Tahap F — Evaluasi]**
+
+**AI010 — Fasilitator:**
+Evaluasi: diagnosis hambatan Cyntia dan stimulus efektif?
+
+**U010 — Mahasiswa:**
+Hambatan Cyntia: A — antusias dan punya banyak ide, tapi komitmen mudah tersebar ke hal-hal baru; K — mengerti gambaran besar tapi belum memprioritaskan; S — kreatif dan punya staf tech-savvy (Doni), tapi butuh lingkup pilot dan penanggung jawab yang jelas agar eksekusi konsisten.
+
+Stimulus paling efektif: pertanyaan "mana satu yang paling mendesak dalam dua minggu?" — ini membantu Cyntia sendiri yang memilih prioritas, bukan saya yang memilihkan. Kedua, saat Cyntia ingin tambah fitur di sesi uji ulang, pendekatan "hargai ide + tunda dengan alasan positif yang konkret" berhasil mempertahankan komitmen awal.
+
+Perbandingan 3a vs 3b: Elsa butuh ditenangkan dulu (A kekhawatiran); Cyntia butuh diarahkan untuk fokus (A tersebar). Keduanya menggunakan pendekatan yang menghargai perspektif mereka, tapi kontennya berbeda.
+
+**AI010 — Fasilitator:**
+Diagnosis akurat. Profil Cyntia (K3-03): A — Antusias tapi komitmen mudah tersebar; K — Gambaran besar ada, detail belum lengkap; S — Kreatif, tindak lanjut belum konsisten. Pendekatan Anda tepat sasaran.
+
+---
+
+**[Tahap G — Konfirmasi]**
+
+**AI011 — Fasilitator:**
+Ringkasan dikonfirmasi. Laporan sesi 3b akan dibuat.
+
+---
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+Tujuan tercapai: Cyntia menetapkan pilot dengan lingkup jelas (dua platform), penanggung jawab (Doni), durasi (dua minggu), dan mekanisme update mingguan. Saat ada gangguan baru (fitur bazaar), komitmen berhasil dipertahankan.
+
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
+|---|---|---|---|---|
+| SWOT (Cyntia) | Peluang besar; prioritas tersebar | Peluang lebih fokus: pilot terdefinisi | AI007, AI008 | Simulasi |
+| Attitude (Cyntia) | Antusias, banyak ide sekaligus | Lebih fokus; sadar bahwa fokus memperkuat dampak | AI008, AI009 | Simulasi |
+| Knowledge (Cyntia) | Gambaran besar ada; belum prioritas | Memilih satu masalah utama; memahami alasan urutan | U005, U007 | Simulasi |
+| Skill (Cyntia) | Tindak lanjut belum konsisten | Menetapkan PJ, lingkup, dan tenggat | AI007 | Simulasi |
+
+## Evaluasi stimulus–respons dan diagnosis profil
+
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
+|---|---|---|---|---|---|
+| U003–AI003 | A: Tinggi tapi tersebar | "Mana satu yang paling mengganggu?" | Cyntia menyebut empat hal sekaligus | A masih tersebar | Bantu prioritaskan |
+| U004–AI004 | A: Sedang, mulai fokus | "Mana yang mendesak dalam dua minggu?" | Cyntia memilih pesanan tercecer | A mulai fokus: K terbuka | Gali detail platform |
+| U006–AI006 | K: Meningkat | Tawarkan agregasi + tanya PJ | Cyntia tunjuk Doni; langsung tanya tentang program loyalitas | K meningkat; A sempat tersebar lagi | Arahkan: satu langkah dulu |
+| U007–AI007 | ASK: Sedang | "Dua platform dulu, Doni PJ, dua minggu, lalu evaluasi" | Cyntia setuju dengan catatan update mingguan | ASK: dari tersebar ke terfokus | Konfirmasi komitmen |
+| U009–AI009 | A: Sempat tersebar (ingin tambah fitur bazaar) | "Hargai ide + tunda dengan alasan konkret" | Cyntia kembali ke komitmen awal | A stabil kembali | Pertahankan pilot |
+
+## Pengaruh pesan personal dan kualitas relasi
+
+| Episode/ID | Pesan personal | Respons | Rasa aman | Dampak ASK |
+|---|---|---|---|---|
+| U004 | "Ide website dan program loyalitas juga sangat bagus" | Cyntia tidak merasa ditolak; mau memilih prioritas | Rasa aman tinggi sejak awal | A lebih terfokus |
+| U007 | "Terbalik justru lebih rumit" + logika urutan jelas | Cyntia setuju dengan pemahaman sendiri | Kepercayaan terjaga | K meningkat |
+| U009 | "Ide fitur pembayaran bagus; kita rencanakan setelah pilot selesai" | Cyntia sadar dan kembali fokus | Tetap positif meski diarahkan | A stabil |
+
+## Uji ulang dan pembelajaran
+
+Saat Cyntia ingin menambah fitur di tengah pilot, mahasiswa menggunakan pendekatan "hargai + tunda dengan alasan positif" — bukan menolak ide, melainkan menjadwalkan di waktu yang tepat. Ini berhasil mempertahankan komitmen tanpa mematikan antusiasme.
+
+**Perbandingan 3a vs 3b:**
+- Elsa (ISFJ): hambatan utama di A (kekhawatiran kehilangan sentuhan personal) → pendekatan validasi kekhawatiran + jaminan dukungan
+- Cyntia (ENFP): hambatan utama di A (antusias tersebar) → pendekatan arahkan fokus + hargai ide + tunda dengan logika positif
+
+Keduanya berhasil, tapi dengan pendekatan A yang berbeda: menenangkan vs mengarahkan.
+
+## Penilaian enam dimensi
+
+| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
+|---|---|---|---|
+| Tujuan dan konteks | 3 | U002: rencana adaptasi dari 3a ke 3b | Tujuan jelas; konteks dipahami termasuk perbedaan profil ISFJ vs ENFP |
+| Persepsi dan validasi profil/status | 4 | U010: diagnosis A/K/S Cyntia akurat | Identifikasi "komitmen mudah tersebar" sebagai hambatan utama; bukan skeptisisme |
+| Pemilihan dan urutan repertoar | 4 | U003→U004→U005→U006→U007: gali→prioritaskan→validasi→tawari solusi→fokus | Urutan efektif; pertanyaan "mana satu yang paling mendesak?" adalah stimulus kunci |
+| Eksekusi jelas, peduli dan konsisten | 3 | U004, U007, U009: konsisten menghargai ide sambil mengarahkan fokus | Eksekusi menghargai energi Cyntia tanpa memaksakan keputusan |
+| Evaluasi dan adaptasi | 4 | U009 dan U010: respons uji ulang + analisis komparatif 3a-3b | Adaptasi sangat baik; mampu mempertahankan komitmen Cyntia saat ada gangguan |
+| Refleksi dan lesson learned | 3 | U010: perbandingan 3a vs 3b konkret dan insight | Refleksi komparatif dan dapat ditindaklanjuti |
+
+*Nilai usulan AI = 21/24 × 100 = 87,5. Memerlukan moderasi dosen.*
+
+## Refleksi dan lesson learned mahasiswa
+
+**Dugaan yang dikoreksi:** Saya menduga Cyntia akan skeptis seperti Elsa. Ternyata hambatannya berlawanan — bukan terlalu hati-hati, melainkan terlalu antusias. Pendekatan yang tepat pun berbeda: bukan meyakinkan, melainkan membantu memilih dan mempertahankan fokus.
+
+**Stimulus efektif:** Pertanyaan "mana satu yang paling mendesak dalam dua minggu?" — membuat Cyntia sendiri yang memilih prioritas; taktik "hargai ide + tunda dengan alasan positif" saat ada gangguan; menetapkan PJ (Doni) membuat komitmen lebih konkret.
+
+**Stimulus kurang efektif:** Langsung menolak ide tambahan tanpa memberikan "jalan keluar" positif — ini tidak saya lakukan, tapi penting untuk dicatat bahwa penolakan tanpa alternatif akan memunculkan respons defensif pada profil ENFP.
+
+**Perubahan ASK diri:** K tentang menangani profil antusias tapi tersebar meningkat. Pelajaran besar: berbeda profil → berbeda hambatan A → berbeda pendekatan, meski situasinya sama.
+
+**Pelajaran yang diterapkan berikutnya:** Saat menghadapi orang yang antusias tapi komitmennya tersebar, bantu mereka memilih — jangan pilihkan untuk mereka. Otonomi dalam memilih prioritas membuat komitmen lebih kuat.
+
+## Tindak lanjut dan batas bukti
+
+**Langkah lanjutan:** Pastikan Doni memulai implementasi agregasi di WhatsApp + Instagram; jadwalkan update mingguan dengan Cyntia; setelah pilot selesai, rancang integrasi pembayaran digital.
+
+**Batas bukti:** Semua berdasarkan simulasi. Cyntia adalah tokoh fiktif. Kemampuan adaptasi lintas profil (Elsa vs Cyntia) yang teramati adalah kemampuan dalam konteks simulasi; belum tentu identik dengan adaptasi dalam interaksi nyata.
+
+## Ringkasan Komparatif Kasus 3
+
+| Dimensi | Elsa (3a, ISFJ) | Cyntia (3b, ENFP) |
+|---|---|---|
+| Hambatan utama A | Khawatir sentuhan personal hilang | Antusias tersebar ke banyak hal |
+| Hambatan K | Belum paham sistem baru | Gambaran besar ada, detail belum |
+| Hambatan S | Perlu pelatihan + jalur manusia | Perlu lingkup pilot + PJ |
+| Stimulus efektif A | Validasi kekhawatiran + jaminan dukungan | Arahkan fokus + hargai ide |
+| Stimulus efektif K | Pisahkan dua masalah + contoh konkret | Pertanyaan prioritas → Cyntia pilih sendiri |
+| Stimulus efektif S | Pilot terbatas + champion | PJ jelas (Doni) + milestone singkat |
+| Uji ulang | Staf khawatir belajar dari nol → solusi champion | Cyntia ingin tambah fitur → tunda dengan logika positif |
+
+## Bobot dan nilai akhir UTS
+
+| Komponen | Bobot | Nilai komponen |
+|---|---:|---|
+| Makalah pra-UTS (`paper.qmd`) | 10% | Nilai dosen pada skala 0–100 |
+| Sesi 1 | 18% | 75 (usulan AI; perlu moderasi dosen) |
+| Sesi 2a | 18% | 79 (usulan AI; perlu moderasi dosen) |
+| Sesi 2b | 18% | 83 (usulan AI; perlu moderasi dosen) |
+| Sesi 3a | 18% | 83 (usulan AI; perlu moderasi dosen) |
+| Sesi 3b | 18% | 87,5 (usulan AI; perlu moderasi dosen) |
+| **Total** | **100%** | |
+
+**Nilai akhir UTS: Belum dihitung** — menunggu nilai makalah dari dosen dan moderasi semua nilai sesi.
+
+*Rata-rata Kasus 2 (usulan AI): (79 + 83) / 2 = 81. Rata-rata Kasus 3 (usulan AI): (83 + 87,5) / 2 = 85,25. Semua usulan skor AI memerlukan moderasi dosen.*

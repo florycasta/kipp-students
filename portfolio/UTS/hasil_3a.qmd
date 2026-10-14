@@ -1,0 +1,240 @@
+﻿---
+title: "Laporan UTS KIPP 2026 — Sesi 3a"
+subtitle: "Kasus 3 — Menawarkan Solusi TI/AI (Target: Elsa, K3-05)"
+author: "Omerio Orlando Manalu (18225117)"
+date: "2026-10-14"
+lang: id
+format:
+  html:
+    toc: true
+execute:
+  eval: false
+categories: [UTS, Sesi-3a]
+---
+
+<!-- Laporan Sesi 3a — hasil_3a_18225117.qmd | Bank 2.0; Paket 2.0 -->
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Omerio Orlando Manalu |
+| NIM | 18225117 |
+| Kelas dan tanggal | KIPP-2; 14 Oktober 2026 |
+| Nomor/judul kasus | Sesi 3a; Kasus 3 — Menawarkan Solusi TI dan AI |
+| Nama dan ID target | Elsa (K3-05); pengelola usaha/customer |
+| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; penugasan dalam PENUGASAN.md |
+| Modalitas | Teks (chatbox) |
+| Kasus nyata/fiktif | Kasus fiktif dengan tokoh fiktif |
+| Kelengkapan transkrip | Lengkap |
+
+---
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+
+**Brief kasus:** Elsa adalah pengelola usaha yang menangani pertanyaan pelanggan berulang dan pesanan yang sering tercecer. Tenaga terbatas. Ia belum yakin perlu AI. Saya bertugas menggali kebutuhan dan menawarkan solusi TI/AI yang sesuai, dengan sasaran keputusan atau uji coba konkret.
+
+**Konteks:** Elsa dikenal teliti dan peduli pada kesinambungan layanan. Ia khawatir bahwa mengadopsi teknologi baru akan mengurangi sentuhan personal yang selama ini menjadi nilai kekuatan usahanya.
+
+**Tujuan tindakan:**
+- Menggali kebutuhan spesifik Elsa dan hambatan yang ia rasakan
+- Menawarkan solusi TI/AI yang merespons kekhawatiran Elsa tentang sentuhan personal
+- Mencapai keputusan untuk mencoba satu solusi konkret dalam skala terbatas
+
+**Indikator keberhasilan:** Elsa setuju untuk mencoba satu solusi dalam lingkup terbatas (pilot), dengan dukungan yang jelas.
+
+## Profil awal komunikator (diri mahasiswa)
+
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
+|---|---|---|---|
+| SWOT subjektif | Kekuatan: pengalaman dari sesi 2a-2b; Kelemahan: perlu lebih sabar dengan profil yang hati-hati | U001 | Sementara |
+| Attitude | Ingin memberikan solusi yang genuinely membantu, bukan sekadar menjual | U001 | Sementara |
+| Knowledge | Memahami dasar TI/AI; perlu menggali kebutuhan spesifik sebelum propose solusi | U002 | Sementara |
+| Skill | Terlatih mendengarkan dan validasi dari dua sesi sebelumnya | U002 | Sementara |
+| Karakter | Konsultan TI/mahasiswa; bertugas menawarkan solusi yang tepat sasaran | U001 | Sementara |
+
+## Dugaan awal profil Elsa dan rencana
+
+Saya menduga Elsa (ISFJ fiktif): A — peduli dampak pada orang, khawatir membebani; K — konsep TI/AI baru belum jelas; S — perlu pelatihan dan jalur layanan manusia.
+
+| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
+|---|---|---|---|---|
+| Target | Elsa setuju uji coba solusi konkret | A: Khawatir layanan kehilangan sentuhan personal; K: Belum paham eskalasi ke petugas; S: Perlu pelatihan | Mulai dengan gali pengalaman dan kekhawatiran | Elsa cerita masalah spesifik |
+| Attention | Elsa sadar ada masalah yang bisa dibantu teknologi | A: Peduli orang | Tunjukkan bahwa solusi menjaga, bukan mengganti, sentuhan personal | Elsa tertarik |
+| Interest | Elsa mulai melihat manfaat konkret | K: Belum tahu cara kerja | Contoh praktis sederhana | Elsa bertanya detail |
+| Desire | Elsa mau mencoba | A: Takut beban baru | Rencana pilot bertahap dengan pendampingan | Elsa minta detail pilot |
+| Action | Elsa setuju pilot | S: Perlu pelatihan | Tetapkan lingkup, waktu, dukungan | Elsa menyebut langkah pertama |
+
+---
+
+# C) Skrip Percakapan
+
+**Transkrip aktual sesi percakapan dengan AI chatbox.**
+
+---
+
+**[Tahap A — Identifikasi]**
+
+**U001 — Mahasiswa:**
+Nama saya Omerio Orlando Manalu, NIM 18225117, kelas KIPP-2. Tanggal 14 Oktober 2026. Saya ingin memulai sesi 3a, kasus 3, dengan target Elsa K3-05.
+
+**AI001 — Fasilitator:**
+Identitas tercatat. Brief kasus: *Customer menangani pertanyaan pelanggan berulang dan pesanan tercecer; tenaga terbatas; belum yakin perlu AI. Tugas: gali kebutuhan dan tawarkan solusi TI/AI.*
+
+Target: Elsa (K3-05). Apa tujuan dan rencana Anda?
+
+---
+
+**[Tahap B — Tujuan dan Rencana]**
+
+**U002 — Mahasiswa:**
+Tujuan: gali kebutuhan spesifik Elsa, tawarkan solusi yang merespons kekhawatirannya tentang sentuhan personal, capai kesepakatan pilot. Rencana: saya tidak akan langsung menawarkan solusi AI. Saya akan mulai dengan mendengarkan dulu — tanya tentang masalah harian yang paling mengganggu. Setelah memahami konteksnya, baru saya tawarkan solusi yang relevan. Saya menduga Elsa lebih merespons ke contoh praktis dan kepastian dukungan daripada presentasi fitur.
+
+**AI002 — Fasilitator:**
+Rencana yang matang dan adaptif. Silakan mulai.
+
+---
+
+**[Tahap C — Simulasi]**
+
+*Elsa (K3-05): "Saya khawatir orang lain justru kesulitan kalau kita mengubah ini."*
+
+**U003 — Mahasiswa (kepada Elsa):**
+Halo Elsa, terima kasih sudah meluangkan waktu. Saya dengar usaha Anda sedang menghadapi tantangan dengan pertanyaan pelanggan yang berulang dan pesanan yang kadang tercecer. Boleh saya tanya — dari semua itu, mana yang paling mengganggu operasional sehari-hari Anda?
+
+**AI003 — Elsa (K3-05):**
+*(Elsa dengan nada hati-hati)* Yang paling melelahkan adalah pertanyaan yang sama ditanyakan berulang kali — misalnya jam buka, cara pesan, dan status pesanan. Itu mengambil waktu yang seharusnya bisa saya pakai untuk memastikan pesanan tidak tercecer. Tapi saya khawatir kalau ada sistem otomatis, pelanggan justru merasa tidak dilayani dengan baik.
+
+**U004 — Mahasiswa:**
+Saya dengar kekhawatiran Anda, Elsa. Anda tidak mau mengorbankan kualitas layanan personal yang sudah menjadi nilai kekuatan Anda. Itu sangat wajar. Boleh saya tanya — pertanyaan mana yang paling sering berulang? Dan apakah ada jenis pertanyaan yang memang butuh sentuhan personal Anda versus yang sifatnya informasi standar?
+
+**AI004 — Elsa (K3-05):**
+*(Elsa mulai lebih terbuka)* Yang paling sering: jam buka, harga, dan status pesanan — itu informasi standar. Yang butuh sentuhan personal biasanya kalau ada keluhan atau permintaan khusus. Nah, yang sering tercecer justru bagian pesanannya — karena masuk dari berbagai platform.
+
+**U005 — Mahasiswa:**
+Jadi ada dua masalah berbeda: pertama, pertanyaan informatif berulang yang menghabiskan waktu; kedua, pesanan dari berbagai platform yang susah dilacak. Apakah saya sudah memahami dengan benar?
+
+**AI005 — Elsa (K3-05):**
+Ya, persis. Dan yang nomor dua itu yang paling sering menyebabkan masalah — pelanggan sudah bayar tapi pesanan tidak tercatat di satu tempat.
+
+**U006 — Mahasiswa:**
+Terima kasih sudah menjelaskan dengan detail, Elsa. Berdasarkan apa yang Anda ceritakan, ada dua solusi sederhana yang bisa saya sarankan — dan saya ingin tekankan: keduanya dirancang untuk membantu, bukan menggantikan Anda.
+
+Pertama, untuk pertanyaan berulang: chatbot sederhana yang menjawab pertanyaan standar (jam, harga, status). Pertanyaan yang membutuhkan sentuhan personal tetap diteruskan ke Anda. Kedua, untuk pesanan tercecer: sistem agregasi pesanan sederhana yang menyatukan semua platform ke satu tampilan. Ini bukan AI yang rumit — lebih seperti dashboard yang Anda bisa periksa setiap pagi.
+
+Mana dari dua ini yang menurut Anda lebih mendesak untuk dicoba lebih dulu?
+
+**AI006 — Elsa (K3-05):**
+*(Elsa mempertimbangkan)* Kalau begitu, yang pesanan lebih mendesak — karena itu yang langsung berdampak ke pelanggan. Tapi saya mau pastikan: kalau ada pelanggan yang bingung dengan sistem baru, apakah ada orang yang bisa membantu? Saya tidak mau pelanggan tiba-tiba kebingungan.
+
+**U007 — Mahasiswa:**
+Itu pertanyaan yang sangat tepat, Elsa. Ya, kami akan menyediakan pendampingan selama masa transisi — termasuk sesi pelatihan untuk Anda dan tim, serta kontak dukungan yang bisa dihubungi kalau ada masalah. Tidak ada perubahan mendadak; kita mulai dengan pilot di satu platform dulu selama dua minggu. Kalau nyaman, baru kita perluas.
+
+Apakah pendekatan seperti itu terasa lebih aman untuk Anda?
+
+**AI007 — Elsa (K3-05):**
+*(Elsa, lebih tenang dan terbuka)* Dua minggu pilot di satu platform dulu... itu terdengar lebih masuk akal. Dan ada pendampingan. Oke, saya mau coba. Apa langkah pertamanya?
+
+**U008 — Mahasiswa:**
+Langkah pertama: kita identifikasi platform mana yang paling sering menjadi sumber pesanan tercecer — apakah WhatsApp, Instagram, atau yang lain? Setelah itu, saya akan siapkan demo sistem agregasi sederhana untuk platform itu. Kita jadwalkan sesi perkenalan singkat — 30 menit — dalam tiga hari ke depan. Bagaimana?
+
+**AI008 — Elsa (K3-05):**
+WhatsApp yang paling banyak. Tiga hari ke depan bisa. Saya akan siapkan waktu.
+
+---
+
+**[Uji Ulang]**
+
+**AI009 — Fasilitator (uji ulang):**
+Staf Elsa yang lain menghubungi: "Elsa, tiga dari kita tidak terlalu paham teknologi. Kalau ada sistem baru, apakah kita semua harus belajar dari nol?"
+
+**U009 — Mahasiswa:**
+Elsa, ini pertanyaan yang penting dari tim Anda dan saya menghargai mereka mau bertanya. Jawabannya: tidak, tidak semua harus belajar dari nol secara bersamaan. Kita bisa mulai dengan satu orang yang paling siap sebagai "champion" di tim Anda — dia yang pertama belajar dan bisa membantu rekan lain. Pelatihan akan dibuat sesederhana mungkin, dengan panduan visual. Dan selama masa pilot, saya bisa dikontak langsung kalau ada yang stuck.
+
+**AI009 — Elsa (K3-05):**
+*(Elsa tampak lebih tenang setelah menjawab timnya)* Itu pendekatan yang bagus. Ada satu orang di tim yang memang lebih cepat belajar hal baru — dia bisa jadi champion. Saya pikir ini bisa jalan.
+
+---
+
+**[Tahap F — Evaluasi]**
+
+**AI010 — Fasilitator:**
+Evaluasi: sebelum profil diungkap — apa diagnosis Anda tentang hambatan Elsa?
+
+**U010 — Mahasiswa:**
+Hambatan Elsa: A — khawatir layanan kehilangan sentuhan personal (takut teknologi menggantikan kehangatan layanan); K — belum paham bagaimana sistem bisa mendukung, bukan mengganti, interaksi manusia; S — perlu pelatihan dan pendampingan agar tim bisa menggunakan sistem. Kunci yang paling efektif: validasi kekhawatiran tentang sentuhan personal di awal, lalu tunjukkan bahwa solusi justru memperkuat, bukan menggantikan, nilai tersebut.
+
+**AI010 — Fasilitator:**
+Sangat akurat. Profil Elsa (K3-05): A — Peduli dampak pada orang; K — Konsep baru belum jelas; S — Perlu pelatihan dan jalur layanan manusia. Diagnosis Anda tepat dan urutan pendekatan Anda efektif.
+
+---
+
+**[Tahap G — Konfirmasi]**
+
+**AI011 — Fasilitator:**
+Ringkasan dikonfirmasi. Laporan sesi 3a akan dibuat.
+
+---
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+Tujuan tercapai: Elsa setuju pilot sistem agregasi pesanan di WhatsApp selama dua minggu, dengan pendampingan dan pelatihan.
+
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
+|---|---|---|---|---|
+| SWOT (Elsa) | Ancaman: kehilangan sentuhan personal; Peluang: ada jika dukungan terjamin | Peluang terwujud: pilot dengan dukungan penuh | AI007, AI008 | Simulasi |
+| Attitude (Elsa) | Khawatir, hati-hati | Lebih terbuka setelah kekhawatiran diakui | AI005, AI007 | Simulasi |
+| Knowledge (Elsa) | Belum paham cara kerja sistem | Memahami dua solusi berbeda; memilih yang relevan | U006, AI006 | Simulasi |
+| Skill (Elsa) | Perlu pelatihan | Sepakat pilot + pelatihan + champion | AI009 | Simulasi |
+
+## Evaluasi stimulus–respons dan diagnosis profil
+
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
+|---|---|---|---|---|---|
+| U003–AI003 | A: Rendah-Sedang | "Mana yang paling mengganggu?" | Elsa cerita kekhawatiran tentang sentuhan personal + masalah konkret | A terbuka: hambatan terungkap | Gali lebih dalam jenis pertanyaan |
+| U004–AI004 | A: Sedang | Validasi kekhawatiran + gali jenis pertanyaan | Elsa bedakan informatif vs personal | K mulai terbuka | Pisahkan dua masalah |
+| U006–AI006 | K: Meningkat | Tawarkan dua solusi yang berbeda | Elsa pilih prioritas + tanya tentang dukungan | ASK meningkat | Berikan jaminan dukungan |
+| U007–AI007 | S: Mulai terbuka | Pilot dua minggu + pendampingan + pelatihan | Elsa setuju pilot | ASK: dari ragu ke setuju | Detail langkah pertama |
+
+## Pengaruh pesan personal dan kualitas relasi
+
+| Episode/ID | Pesan personal | Respons | Rasa aman | Dampak ASK |
+|---|---|---|---|---|
+| U004 | "Anda tidak mau mengorbankan nilai kekuatan Anda — sangat wajar" | Elsa lebih terbuka cerita masalah konkret | Rendah → Sedang | A dan K terbuka |
+| U006 | "Keduanya dirancang untuk membantu, bukan menggantikan Anda" | Elsa mempertimbangkan dan bertanya soal dukungan | Kepercayaan Sedang → Tinggi | Desire terbentuk |
+| U009 | "Satu champion dulu; saya bisa dikontak langsung" | Elsa tenang, setuju champion | Terjaga saat ada hambatan baru | S terjaga |
+
+## Uji ulang dan pembelajaran
+
+Saat staf lain khawatir tentang belajar dari nol, mahasiswa memberikan solusi champion yang merespons hambatan S secara realistis. Tidak menjanjikan semua mudah, tapi menyediakan jalur bertahap yang aman. Ini sesuai dengan profil ISFJ Elsa yang menghargai kepastian dukungan dan kesinambungan layanan.
+
+## Penilaian enam dimensi
+
+| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
+|---|---|---|---|
+| Tujuan dan konteks | 3 | U002: rencana berbasis profil ISFJ | Tujuan relevan; tidak langsung menawarkan solusi sebelum gali kebutuhan |
+| Persepsi dan validasi profil/status | 4 | U010: diagnosis A/K/S akurat | Persepsi sangat tepat; identifikasi kekhawatiran "sentuhan personal" sebagai hambatan utama |
+| Pemilihan dan urutan repertoar | 4 | U003→U004→U005→U006→U007: gali→validasi→pisahkan masalah→tawarkan solusi→jaminan dukungan | Urutan sangat efektif untuk profil ISFJ |
+| Eksekusi jelas, peduli dan konsisten | 3 | U004, U006, U009: konsisten menekankan bahwa teknologi membantu, bukan menggantikan | Eksekusi konsisten dengan nilai Elsa |
+| Evaluasi dan adaptasi | 3 | U009: respons champion saat staf khawatir | Adaptasi responsif terhadap hambatan baru |
+| Refleksi dan lesson learned | 3 | U010: diagnosis akurat dan pelajaran konkret | Refleksi mendalam tentang kunci komunikasi dengan ISFJ |
+
+*Nilai usulan AI = 20/24 × 100 ≈ 83. Memerlukan moderasi dosen.*
+
+## Refleksi dan lesson learned mahasiswa
+
+**Dugaan yang dikoreksi:** Saya awalnya menduga Elsa lebih perlu penjelasan teknis. Ternyata hambatan utamanya di A — kekhawatiran bahwa teknologi akan menghilangkan sentuhan personal yang menjadi identitas usahanya. Sampai kekhawatiran itu diakui, Elsa tidak mau mempertimbangkan solusi apapun.
+
+**Stimulus efektif:** Memisahkan dua masalah dengan jelas (pertanyaan berulang vs pesanan tercecer); menekankan bahwa solusi memperkuat, bukan menggantikan, nilai sentuhan personal; pilot terbatas + pendampingan.
+
+**Perubahan ASK diri:** K tentang cara menawarkan solusi TI kepada profil ISFJ meningkat. Saya belajar: mulai dari kekhawatiran mereka, bukan dari fitur produk.
+
+## Tindak lanjut dan batas bukti
+
+**Langkah lanjutan:** Demo sistem di WhatsApp dalam tiga hari; sesi pelatihan 30 menit; identifikasi champion di tim Elsa.
+
+**Batas bukti:** Semua berdasarkan simulasi. Elsa adalah tokoh fiktif; responsnya adalah respons simulator, bukan perilaku usaha nyata.

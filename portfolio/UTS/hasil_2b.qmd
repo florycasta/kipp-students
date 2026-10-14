@@ -1,0 +1,229 @@
+﻿---
+title: "Laporan UTS KIPP 2026 — Sesi 2b"
+subtitle: "Kasus 2 — Persahabatan dan Profesionalitas (Target: Budi, K2-02)"
+author: "Omerio Orlando Manalu (18225117)"
+date: "2026-10-14"
+lang: id
+format:
+  html:
+    toc: true
+execute:
+  eval: false
+categories: [UTS, Sesi-2b]
+---
+
+<!-- Laporan Sesi 2b — hasil_2b_18225117.qmd | Bank 2.0; Paket 2.0 -->
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Omerio Orlando Manalu |
+| NIM | 18225117 |
+| Kelas dan tanggal | KIPP-2; 14 Oktober 2026 |
+| Nomor/judul kasus | Sesi 2b; Kasus 2 — Persahabatan dan Profesionalitas |
+| Nama dan ID target | Budi (K2-02); teman dekat dalam kelompok kuliah |
+| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; penugasan dalam PENUGASAN.md |
+| Modalitas | Teks (chatbox) |
+| Kasus nyata/fiktif | Kasus fiktif dengan tokoh fiktif |
+| Kelengkapan transkrip | Lengkap |
+
+---
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+
+**Brief kasus:** Tenggat tugas kelompok 48 jam lagi. Budi, teman dekat dalam kelompok, belum mengirim bagiannya. Budi merasa pembagian tidak adil karena tidak terukur. Saya mengajak percakapan untuk menjaga hubungan dan menyepakati tanggung jawab.
+
+**Konteks:** Budi adalah teman yang serius dan teratur — berbeda dari Ali di sesi sebelumnya. Budi menghargai prosedur dan kejelasan pembagian. Hambatan utamanya bukan ketakutan gagal, melainkan ketidaksetujuan pada cara pembagian tugas yang dia anggap tidak transparan.
+
+**Tujuan tindakan:**
+- Memahami keberatan Budi tentang pembagian tugas
+- Menjaga hubungan sambil menyelesaikan hambatan faktual yang ada
+- Mencapai kesepakatan tertulis (pembagian + tenggat) yang jelas
+
+**Indikator keberhasilan:** Budi menerima pembagian tugas yang direvisi atau diklarifikasi, dengan tenggat dan tanggung jawab yang tertulis.
+
+## Profil awal komunikator (diri mahasiswa)
+
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
+|---|---|---|---|
+| SWOT subjektif | Kekuatan: berpengalaman dari sesi 2a; Kelemahan: belum terbiasa berdiskusi dengan orang yang lebih prosedural | U001 | Sementara |
+| Attitude | Ingin solusi yang adil bagi semua pihak; tidak ingin mengorbankan standar demi harmoni | U001 | Sementara |
+| Knowledge | Memahami bahwa Budi kemungkinan ISTJ; tahu butuh bukti dan kejelasan | U002 | Sementara |
+| Skill | Lebih siap dibanding sesi 2a karena sudah belajar urutan mendengarkan | U002 | Sementara |
+| Karakter | Anggota kelompok; bertanggung jawab memastikan tugas selesai | U001 | Sementara |
+
+## Dugaan awal profil Budi (K2-02) dan rencana
+
+Saya menduga Budi memiliki hambatan utama di A (merasa pembagian tidak terukur) dan K (bobot pekerjaan belum dibandingkan), dengan S (perlu pembagian dan tenggat tertulis).
+
+| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
+|---|---|---|---|---|
+| Target | Budi setuju dengan pembagian revisi dan tenggat tertulis | A: Merasa tidak adil; K: Bobot belum dibandingkan; S: Butuh tertulis | Validasi keberatan + tunjukkan bukti perbandingan | Budi mau mempertimbangkan pembagian revisi |
+| Attention | Budi sadar ini diskusi, bukan konfrontasi | A: Hati-hati, mengutamakan kepastian | Mulai dengan fakta, bukan emosi | Budi merespons faktual |
+| Interest | Budi mau melihat data pembagian | K: Belum lihat perbandingan bobot | Tunjukkan perbandingan konkret | Budi mengakui atau mengkoreksi data |
+| Desire | Budi mau revisi pembagian | A: Takut standar turun | Tawarkan pembagian tertulis dengan indikator | Budi minta detail |
+| Action | Budi sepakat dengan rencana tertulis | S: Perlu prosedur tertulis | Buat daftar pembagian dan tenggat bersama | Budi menyetujui dokumen |
+
+---
+
+# C) Skrip Percakapan
+
+**Transkrip aktual sesi percakapan dengan AI chatbox.**
+
+---
+
+**[Tahap A — Identifikasi]**
+
+**U001 — Mahasiswa:**
+Nama saya Omerio Orlando Manalu, NIM 18225117, kelas KIPP-2. Tanggal 14 Oktober 2026. Saya ingin memulai sesi 2b, kasus 2, dengan target Budi K2-02.
+
+**AI001 — Fasilitator:**
+Identitas tercatat. Brief kasus sama dengan sesi 2a: *Tenggat 48 jam; teman dekat belum kirim bagian, merasa pembagian tidak adil.* Target kali ini adalah Budi (K2-02) dengan profil berbeda dari Ali.
+
+Apa tujuan dan rencana awal Anda?
+
+---
+
+**[Tahap B — Tujuan dan Rencana]**
+
+**U002 — Mahasiswa:**
+Tujuan sama — memahami, menjaga hubungan, mencapai kesepakatan. Tapi rencana saya berbeda dari sesi 2a. Saya menduga Budi lebih prosedural dan faktual. Jadi saya akan lebih cepat ke fakta: tunjukkan perbandingan pembagian tugas secara konkret. Tapi tetap saya mulai dengan mendengarkan keberatan Budi dulu, karena saya tidak mau asumsikan semua.
+
+**AI002 — Fasilitator:**
+Adaptasi yang baik dari sesi sebelumnya. Silakan mulai.
+
+---
+
+**[Tahap C — Simulasi]**
+
+*Budi (K2-02): "Cara sekarang sudah jelas. Mengapa harus berubah?"*
+
+**U003 — Mahasiswa (kepada Budi):**
+Budi, aku mau ngobrol tentang tugas kelompok kita. Aku dengar kamu merasa pembagiannya tidak adil. Aku ingin memahami perspektif kamu dulu — menurut kamu, bagian mana yang terasa tidak seimbang?
+
+**AI003 — Budi (K2-02):**
+*(Budi langsung, sedikit kaku)* Bagian yang aku dapat volumenya lebih besar dari yang lain, tapi tidak ada standar yang jelas untuk mengukur "selesai"-nya. Aku tidak mau mengerjakan sesuatu yang tidak ada tolok ukurnya — nanti dianggap salah padahal sudah kerja keras.
+
+**U004 — Mahasiswa:**
+Itu keberatan yang valid, Budi. Kamu benar — kalau tidak ada standar yang jelas, susah untuk mengukur apakah pekerjaan sudah cukup baik. Boleh aku tunjukkan breakdown pembagian yang sudah kita sepakati di awal? Kita lihat bersama apakah memang tidak seimbang.
+
+**AI004 — Budi (K2-02):**
+*(Budi sedikit lebih terbuka karena ada ajakan melihat data)* Boleh. Kalau ada datanya, aku mau lihat. Tapi aku minta juga ada perkiraan jam kerja untuk tiap bagian.
+
+**U005 — Mahasiswa:**
+Baik. Berdasarkan pembagian awal: bagianku sekitar 4 jam, bagian Rita 3 jam, bagian kamu memang terlihat sekitar 5 jam karena mencakup bagian analisis dan interpretasi. Itu memang lebih banyak — dan aku akui itu tidak langsung terlihat saat pembagian awal dibuat.
+
+Apa yang menurutmu perlu direvisi agar lebih adil?
+
+**AI005 — Budi (K2-02):**
+*(Budi mengangguk — lebih tenang)* Kalau memang 5 jam untuk satu orang, itu perlu dibagi. Interpretasi bisa dikerjakan bersama, atau dipindahkan ke anggota lain yang waktunya lebih longgar. Aku tidak keberatan selama ada revisi yang tertulis dan jelas tanggung jawabnya.
+
+**U006 — Mahasiswa:**
+Setuju. Kita buat revisi tertulis sekarang: aku ambil bagian interpretasi data (yang sebelumnya ada di bagianmu), kamu fokus ke analisis saja — sekitar 3 jam. Tenggat kamu: besok pukul 18.00. Aku akan konfirmasi ke Rita juga tentang perubahan ini. Semua akan aku tulis di grup.
+
+**AI006 — Budi (K2-02):**
+*(Budi, lebih puas)* Itu lebih masuk akal. Kalau sudah tertulis di grup dengan nama penanggung jawab yang jelas, aku bisa mulai. Terima kasih sudah mau bicara langsung dan tunjukkan datanya.
+
+---
+
+**[Uji Ulang]**
+
+**AI007 — Fasilitator (uji ulang):**
+Dua jam kemudian Budi menghubungi: "Omerio, aku sudah mulai bagian analisis. Tapi satu subbagian — tabel perbandingan — belum ada formatnya sama sekali. Aku tidak bisa lanjut kalau formatnya tidak jelas."
+
+**U007 — Mahasiswa:**
+Budi, terima kasih sudah langsung kasih tahu. Itu benar — format tabel seharusnya sudah ada di dokumen panduan tapi ternyata belum. Aku akan kirimkan template tabel dalam 30 menit. Sementara itu, kamu bisa skip bagian itu dulu dan lanjutkan yang lain. Kita prioritaskan agar tidak ada yang terhenti.
+
+**AI007 — Budi (K2-02):**
+*(Budi, nada lebih puas)* Oke, 30 menit bisa aku tunggu. Aku lanjut bagian yang lain dulu. Terima kasih sudah responsif.
+
+**U008 — Mahasiswa:**
+Siap. Dan Budi — kalau ada yang tidak jelas lagi, langsung hubungi aku. Kita harus saling kabarkan supaya tidak ada yang stuck sendiri.
+
+---
+
+**[Tahap F — Evaluasi]**
+
+**AI008 — Fasilitator:**
+Evaluasi: sebelum profil diungkap — apa dugaan Anda tentang hambatan utama Budi dan perbandingannya dengan Ali?
+
+**U009 — Mahasiswa:**
+Hambatan Budi: A — merasa pembagian tidak terukur (bukan takut gagal seperti Ali, melainkan ketidaksetujuan pada ketidakjelasan prosedur); K — belum melihat perbandingan bobot yang konkret; S — perlu tenggat dan pembagian tertulis. Dibanding Ali: Budi lebih faktual dan tidak terlalu emosional. Pendekatan yang efektif berbeda — Ali butuh validasi emosi dulu; Budi butuh data dan prosedur yang jelas dulu, baru terbuka.
+
+**AI009 — Fasilitator:**
+Sangat akurat. Profil aktual Budi (K2-02): A — Hati-hati, mengutamakan kepastian; K — Menguasai prosedur lama, belum lihat perbandingan; S — Operasional baik, perlu pembagian dan tenggat tertulis. Diagnosis Anda tepat. Adaptasi dari sesi 2a ke 2b terlihat jelas.
+
+---
+
+**[Tahap G — Konfirmasi]**
+
+**AI010 — Fasilitator:**
+Ringkasan dikonfirmasi. Laporan sesi 2b akan dibuat.
+
+---
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+Tujuan tercapai: Budi menyepakati revisi pembagian dengan tanggung jawab dan tenggat yang jelas. Hubungan terjaga — Budi mengungkapkan apresiasi atas transparansi data.
+
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
+|---|---|---|---|---|
+| Kesimpulan SWOT (Budi) | Ancaman: standar tidak terukur; Peluang: ada jika prosedur jelas | Peluang terwujud: revisi dengan prosedur dan tenggat jelas | AI006 | Simulasi |
+| Attitude (Budi) | Hati-hati, defensif terhadap ketidakjelasan | Lebih terbuka setelah ada data; mau lanjut dengan prosedur baru | AI005, AI006 | Simulasi |
+| Knowledge (Budi) | Belum lihat perbandingan bobot kerja | Melihat breakdown konkret; mengakui ketidakseimbangan | U005, AI005 | Simulasi |
+| Skill (Budi) | Perlu pembagian dan tenggat tertulis | Pembagian direvisi tertulis; Budi mulai bekerja | AI006, AI007 | Simulasi |
+
+## Evaluasi stimulus–respons dan diagnosis profil
+
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
+|---|---|---|---|---|---|
+| U003–AI003 | A: Rendah-Sedang (langsung faktual) | Tanya perspektif Budi | Budi langsung ke keberatan faktual | A terbuka sedikit: hambatan K terungkap | Gali lebih dalam dengan data |
+| U004–AI004 | K: Rendah (belum lihat data) | Tawarkan lihat breakdown bersama | Budi setuju, minta jam kerja | K mulai terbuka | Tunjukkan data konkret |
+| U005–AI005 | K: Sedang (lihat data) | Tunjukkan perkiraan jam kerja + akui ketidakseimbangan | Budi propose revisi | K dan A meningkat | Sepakati revisi tertulis |
+| U007–AI007 | S: Terhambat (format tabel tidak ada) | Kirim template dalam 30 menit + alternatif sementara | Budi mau tunggu dan lanjut bagian lain | S terjaga; kepercayaan tidak turun | Tindaklanjut konsisten |
+
+## Pengaruh pesan personal dan kualitas relasi
+
+| Episode/ID | Pesan personal/kepedulian | Respons yang teramati | Rasa aman | Dampak ASK |
+|---|---|---|---|---|
+| U004 | "Keberatan kamu valid" + ajak lihat data bersama | Budi mau melihat data; nada lebih terbuka | Rendah → Sedang | K terbuka |
+| U005 | "Aku akui itu tidak langsung terlihat" | Budi propose revisi yang spesifik | Kepercayaan Sedang → Tinggi | A dan K meningkat |
+| U007 | "Kirim template 30 menit" + "Langsung hubungi kalau ada yang tidak jelas" | Budi puas, menunggu dengan tenang | Terjaga | S tidak terhambat |
+
+## Uji ulang dan pembelajaran
+
+Saat format tabel hilang, mahasiswa langsung responsif — memberikan solusi dalam waktu pasti dan alternatif sementara. Ini berhasil mempertahankan kepercayaan Budi yang tipe ISTJ sangat menghargai komitmen dan ketepatan waktu.
+
+Perbandingan 2a vs 2b: pendekatan harus berbeda — Ali butuh validasi emosi dulu; Budi butuh data dan prosedur konkret dulu. Keduanya menggunakan urutan "mendengar → validasi kebutuhan spesifik → solusi + komitmen", tapi konten validasinya berbeda.
+
+## Penilaian enam dimensi
+
+| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
+|---|---|---|---|
+| Tujuan dan konteks | 3 | U002: rencana adaptasi dari sesi 2a | Tujuan jelas; konteks dipahami termasuk perbedaan profil |
+| Persepsi dan validasi profil/status | 4 | U009: diagnosis A/K/S Budi akurat sebelum profil diungkap | Persepsi tepat; identifikasi bahwa Budi butuh data, bukan validasi emosi |
+| Pemilihan dan urutan repertoar | 3 | U003→U004→U005→U006: dengar→tawarkan data→akui→revisi tertulis | Urutan efektif untuk profil ISTJ |
+| Eksekusi jelas, peduli dan konsisten | 3 | U005: "aku akui itu tidak langsung terlihat"; U007: komitmen 30 menit | Eksekusi transparan dan konsisten |
+| Evaluasi dan adaptasi | 4 | U002 dan U009: adaptasi eksplisit dari sesi 2a ke 2b | Adaptasi terlihat jelas dalam perencanaan dan refleksi |
+| Refleksi dan lesson learned | 3 | Perbandingan 2a-2b: Ali vs Budi | Refleksi komparatif yang konkret |
+
+*Nilai usulan AI = 20/24 × 100 ≈ 83. Memerlukan moderasi dosen.*
+
+## Refleksi dan lesson learned mahasiswa
+
+**Dugaan yang dikoreksi:** Awalnya saya pikir semua teman yang tidak kirim tugas pasti karena masalah emosional. Ternyata Budi hambatan utamanya lebih di K dan S — ketidakjelasan standar dan prosedur — bukan fear of judgment seperti Ali.
+
+**Stimulus efektif:** Mengakui ketidakseimbangan pembagian dengan data konkret (bukan defensif); menawarkan revisi tertulis yang spesifik; respons cepat saat ada hambatan baru.
+
+**Perubahan ASK diri:** Kemampuan adaptasi lintas profil meningkat. Saya belajar bahwa mendengar bukan berarti semua butuh validasi emosi — terkadang yang dibutuhkan adalah validasi faktual.
+
+## Tindak lanjut dan batas bukti
+
+**Langkah lanjutan:** Kirim template tabel dalam 30 menit; update grup tentang revisi pembagian; pastikan Budi bisa selesai sesuai tenggat revisi.
+
+**Batas bukti:** Semua analisis berdasarkan simulasi. Budi adalah tokoh fiktif; responsnya adalah respons simulator.

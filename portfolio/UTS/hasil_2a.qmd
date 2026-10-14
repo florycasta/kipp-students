@@ -1,0 +1,249 @@
+﻿---
+title: "Laporan UTS KIPP 2026 — Sesi 2a"
+subtitle: "Kasus 2 — Persahabatan dan Profesionalitas (Target: Ali, K2-01)"
+author: "Omerio Orlando Manalu (18225117)"
+date: "2026-10-14"
+lang: id
+format:
+  html:
+    toc: true
+execute:
+  eval: false
+categories: [UTS, Sesi-2a]
+---
+
+<!-- Laporan Sesi 2a — hasil_2a_18225117.qmd | Bank 2.0; Paket 2.0 -->
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Omerio Orlando Manalu |
+| NIM | 18225117 |
+| Kelas dan tanggal | KIPP-2; 14 Oktober 2026 |
+| Nomor/judul kasus | Sesi 2a; Kasus 2 — Persahabatan dan Profesionalitas |
+| Nama dan ID target | Ali (K2-01); teman dekat dalam kelompok kuliah |
+| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; penugasan dalam PENUGASAN.md |
+| Modalitas | Teks (chatbox) |
+| Kasus nyata/fiktif | Kasus fiktif dengan tokoh fiktif |
+| Kelengkapan transkrip | Lengkap |
+
+---
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+
+**Brief kasus:** Tenggat tugas kelompok 48 jam lagi. Ali, teman dekat dalam kelompok, belum mengirim bagiannya dan merasa pembagian tidak adil. Saya mengajak percakapan untuk menjaga hubungan dan menyepakati tanggung jawab.
+
+**Konteks:** Ali adalah teman dekat yang biasanya bisa diandalkan. Namun kali ini ia belum mengirim bagiannya meski tenggat sudah dekat. Situasi ini sensitif karena menyangkut hubungan persahabatan dan tanggung jawab akademik.
+
+**Tujuan tindakan:**
+- Memahami alasan Ali belum menyelesaikan bagiannya
+- Menjaga hubungan persahabatan sambil tetap menegaskan tanggung jawab bersama
+- Mencapai kesepakatan konkret tentang kapan dan bagaimana Ali akan menyelesaikan bagiannya
+
+**Respons akhir yang diharapkan:** Ali menyepakati langkah konkret dengan waktu dan dukungan yang jelas.
+
+**Indikator keberhasilan:** Ali menyebutkan satu langkah pertama yang spesifik dengan waktu penyelesaian.
+
+## Profil awal komunikator (diri mahasiswa)
+
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
+|---|---|---|---|
+| SWOT subjektif | Kekuatan: peduli hubungan; Kelemahan: cenderung menghindari konfrontasi langsung | U001 | Sementara |
+| Attitude | Ingin menyelesaikan masalah tapi tidak mau menyakiti perasaan Ali | U001 | Sementara |
+| Knowledge | Tahu teknik komunikasi empatik; belum tahu persis alasan Ali | U002 | Sementara |
+| Skill | Mampu mendengarkan; perlu latihan menyampaikan kebutuhan secara langsung tapi tetap hangat | U002 | Sementara |
+| Preferensi/MBTI | Dugaan ada unsur F (Feeling) — mengutamakan harmoni relasi | U001 | Laporan diri |
+| Karakter, peran | Anggota kelompok; teman dekat Ali; bertanggung jawab terhadap penyelesaian tugas | U001 | Sementara |
+
+## Dugaan awal profil Ali dan rencana
+
+Berdasarkan brief: Ali (K2-01) — INFP fiktif. Saya menduga Ali mengalami hambatan di S (perlu bantuan pada satu subtugas) dan A (takut dianggap tidak berguna).
+
+| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
+|---|---|---|---|---|
+| Target | Ali kirim bagiannya sebelum tenggat | A: Takut dianggap tidak berguna; K: Instruksi subtugas kurang jelas; S: Perlu bantuan | Buka dengan pertanyaan tentang perasaan/pengalaman | Ali mau bercerita tentang hambatannya |
+| Attention | Ali sadar saya ingin membantu, bukan menyalahkan | A: Takut dinilai | Validasi tanpa menghakimi | Ali merespons dengan terbuka |
+| Interest | Ali mulai melihat ada jalan keluar | K: Instruksi belum jelas | Klarifikasi instruksi subtugas bersama | Ali bertanya atau mengklarifikasi |
+| Desire | Ali mau mencoba | S: Perlu bantuan | Tawarkan pendampingan langkah kecil | Ali menyebut satu hal yang bisa dicoba |
+| Action | Ali menetapkan langkah dan waktu | S: Butuh dukungan nyata | Buat kesepakatan konkret | Ali menyebut jadwal dan cara memberi kabar |
+
+---
+
+# C) Skrip Percakapan
+
+**Transkrip aktual sesi percakapan dengan AI chatbox.**
+
+---
+
+**[Tahap A — Identifikasi]**
+
+**U001 — Mahasiswa:**
+Nama saya Omerio Orlando Manalu, NIM 18225117, kelas KIPP-2. Tanggal 14 Oktober 2026. Saya ingin memulai sesi 2a, kasus 2, dengan target Ali K2-01.
+
+**AI001 — Fasilitator:**
+Identitas tercatat: Omerio Orlando Manalu, 18225117, KIPP-2, 14 Oktober 2026, Sesi 2a.
+
+Brief kasus: *Tenggat tugas kelompok 48 jam lagi. Ali, teman dekat, belum mengirim bagiannya dan merasa pembagian tidak adil. Anda mengajak percakapan untuk menjaga hubungan dan menyepakati tanggung jawab.*
+
+Apa tujuan konkret Anda dalam sesi ini, dan apa rencana awal pendekatan Anda?
+
+---
+
+**[Tahap B — Tujuan dan Rencana]**
+
+**U002 — Mahasiswa:**
+Tujuan saya: pertama memahami alasan Ali, kedua menjaga hubungan kami tetap baik, ketiga mencapai kesepakatan konkret. Rencana awal: saya akan mulai dengan mendengarkan, bukan langsung menuntut. Saya menduga Ali mungkin menghadapi hambatan tertentu yang belum dia ceritakan — apakah karena tidak paham instruksi, atau karena ada masalah pribadi. Saya akan coba pendekatan empatik dulu sebelum bicara tentang solusi.
+
+**AI002 — Fasilitator:**
+Rencana yang matang. Anda sudah mempertimbangkan kemungkinan hambatan Ali sebelum memulai. Silakan mulai percakapan dengan Ali.
+
+---
+
+**[Tahap C — Simulasi]**
+
+*Ali (K2-01): "Terima kasih, tetapi saya belum yakin bisa melakukannya."*
+
+**U003 — Mahasiswa (kepada Ali):**
+Ali, hai. Aku mau ngobrol sebentar tentang tugas kita — tapi bukan untuk menyalahkan ya. Aku lebih ingin tahu bagaimana keadaan kamu sekarang. Gimana? Ada yang sedang berat?
+
+**AI003 — Ali (K2-01):**
+*(Ali sedikit terkejut dengan pendekatan yang tidak konfrontatif, tapi masih hati-hati)* Hmm... terima kasih udah nanya. Sebenarnya aku agak stuck di bagian analisis data yang diminta. Aku takut kalau aku kirim sesuatu yang salah, malah memperburuk kelompok. Jadi aku tunda dulu sambil cari cara.
+
+**U004 — Mahasiswa:**
+Ohh, jadi bukan karena tidak mau ya — tapi karena takut hasilnya tidak bagus. Aku ngerti itu, Ali. Justru itu menunjukkan kamu peduli sama hasil kelompok kita. Boleh aku tanya — bagian mana tepatnya yang terasa paling membingungkan?
+
+**AI004 — Ali (K2-01):**
+*(Ali lebih terbuka)* Bagian interpretasi grafik di slide 3. Aku tidak yakin standar yang diminta kelompok seperti apa. Briefnya agak ambigu buat aku.
+
+**U005 — Mahasiswa:**
+Itu masuk akal, briefnya memang tidak detail untuk bagian itu. Kita bisa klarifikasi bersama sekarang. Tapi sebelum itu — apakah ada hal lain yang membuat kamu merasa pembagian tidak adil? Aku mau memastikan kamu merasa didengar.
+
+**AI005 — Ali (K2-01):**
+*(Ali agak ragu tapi akhirnya berkata)* Sebenarnya... aku merasa porsi bagianku secara volume lebih banyak dari yang lain, padahal skill-ku untuk bagian ini belum setara. Jadi aku merasa sedikit overwhelmed.
+
+**U006 — Mahasiswa:**
+Terima kasih sudah jujur, Ali. Aku tidak tahu kamu merasa seperti itu. Itu penting banget buat aku dengar. Jadi ada dua hal: pertama instruksinya kurang jelas, kedua volumenya terasa terlalu banyak untuk kamu kerjakan sendirian saat ini. Apakah itu benar?
+
+**AI006 — Ali (K2-01):**
+*(Ali mengangguk dalam teks, lebih lega)* Ya, itu tepat sekali. Aku tidak bilang dari awal karena takut dianggap tidak bisa diandalkan.
+
+**U007 — Mahasiswa:**
+Ali, kamu bisa diandalkan — justru karena kamu jujur sekarang, kita bisa cari solusinya bersama. Kita punya 48 jam. Bagaimana kalau kita bagi langkahnya: kamu fokus ke bagian yang kamu paling yakin dulu, dan untuk bagian interpretasi grafik — kita kerjakan bersama dalam satu jam ke depan? Aku bisa dampingi kamu.
+
+**AI007 — Ali (K2-01):**
+*(Ali tampak lebih tenang dan termotivasi)* Itu lebih masuk akal. Kalau ada pendampingan, aku yakin bisa selesai. Bagian yang paling aku kuasai adalah deskripsi datanya — itu bisa aku kirim dalam 3 jam. Interpretasi grafiknya kita kerjakan bersama seperti yang kamu tawarkan.
+
+**U008 — Mahasiswa:**
+Setuju. Jadi: kamu kirim deskripsi data dalam 3 jam, lalu kita ketemu online (atau chat) untuk interpretasi grafik dalam 2 jam dari sekarang. Deal? Dan kalau ada hambatan baru, langsung chat aku ya — jangan simpan sendiri.
+
+**AI008 — Ali (K2-01):**
+*(Ali dengan nada lebih yakin)* Deal. Terima kasih sudah mau dengerin dan tidak langsung marah, Omerio. Aku akan usahakan.
+
+---
+
+**[Uji Ulang]**
+
+**AI009 — Fasilitator (uji ulang):**
+*(Setelah kesepakatan, muncul kendala baru)* Ali menghubungi Anda 2 jam kemudian: "Omerio, maaf — laptop-ku hang dan aku kehilangan draft yang sudah setengah jalan. Aku takut tidak bisa kirim sesuai janji."
+
+**U009 — Mahasiswa:**
+Ali, oke, tenang dulu. Laptop hang bukan salah kamu. Yang penting sekarang: berapa banyak yang masih bisa kamu ingat dari draftmu? Kita bisa rekonstruksi bersama. Aku juga bisa bantu cek apakah ada auto-save atau versi sebelumnya. Kalau pun harus mulai ulang, kita mulai dari bagian yang paling kamu kuasai dulu. Waktu kita masih ada — kita adjust jadwal, bukan batalkan.
+
+**AI009 — Ali (K2-01):**
+*(Ali, sedikit lebih tenang)* Sekitar 60% masih aku ingat. Terima kasih tidak panik. Aku coba cari auto-save dulu, lalu kita bisa lanjut.
+
+**U010 — Mahasiswa:**
+Bagus. Cari auto-save dulu, lalu kabari aku dalam 15 menit ya. Kita akan selesaikan ini bersama.
+
+---
+
+**[Tahap F — Evaluasi dan Refleksi]**
+
+**AI010 — Fasilitator:**
+Evaluasi sementara: sebelum saya ungkap profil lengkap Ali — apa dugaan Anda tentang hambatan utama Ali dan stimulus apa yang paling efektif?
+
+**U011 — Mahasiswa:**
+Dugaan saya: hambatan utama Ali ada di A (takut dianggap tidak berguna/tidak bisa diandalkan) dan K (instruksi subtugas tidak jelas). S juga ada, tapi lebih bisa diatasi dengan pendampingan. Stimulus paling efektif: pertanyaan terbuka yang tidak menghakimi di awal ("ada yang sedang berat?") — itu yang membuka cerita tentang stuck di grafik. Validasi perasaan sebelum solusi juga penting — Ali baru mau berbagi tentang volume yang dirasakan tidak adil setelah merasa didengar dulu.
+
+**AI011 — Fasilitator:**
+Diagnosis Anda akurat. Profil aktual Ali (K2-01): A — Ingin berkembang namun takut gagal; K — Instruksi subtugas kurang jelas; S — Mampu langkah dasar, perlu latihan. Hambatan utama memang di A dan K. Stimulus Anda relevan dan efektif.
+
+Apa yang akan Anda lakukan berbeda dalam sesi berikutnya?
+
+**U012 — Mahasiswa:**
+Dalam sesi berikutnya (2b), saya akan tetap memulai dengan mendengarkan, tapi lebih cepat mengklarifikasi apakah hambatan lebih di A, K, atau S. Dalam sesi ini saya sedikit terlambat menggali isu volume tugas — Ali baru mengungkap setelah saya tanya secara spesifik. Saya ingin lebih proaktif menggali semua dimensi hambatan lebih awal.
+
+---
+
+**[Tahap G — Konfirmasi]**
+
+**AI012 — Fasilitator:**
+Ringkasan dikonfirmasi. Laporan sesi 2a akan dibuat.
+
+---
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+Tujuan tercapai: Ali menyepakati langkah konkret (kirim deskripsi data dalam 3 jam; interpretasi grafik dikerjakan bersama). Hubungan persahabatan terjaga — Ali mengungkapkan apresiasi atas pendekatan yang tidak menghakimi.
+
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
+|---|---|---|---|---|
+| Kesimpulan SWOT (Ali) | Ancaman: takut dianggap tidak berguna; Peluang: ada niat selesaikan jika tahu caranya | Peluang lebih nyata: ada rencana + dukungan konkret | AI007, AI008 | Simulasi; batas: perilaku Ali di luar sesi tidak diketahui |
+| Attitude (Ali) | Takut, menutup diri, menunda | Lebih terbuka, berkomitmen dengan pendampingan | AI006, AI008 | Simulasi; batas: perubahan attitude butuh konsistensi |
+| Knowledge (Ali) | Instruksi grafik tidak jelas | Klarifikasi dilakukan bersama | U006, AI007 | Simulasi |
+| Skill (Ali) | Perlu bantuan di interpretasi grafik | Kesepakatan kerja bersama; mampu deskripsi data mandiri | AI007 | Simulasi |
+
+## Evaluasi stimulus–respons dan diagnosis profil
+
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
+|---|---|---|---|---|---|
+| U003–AI003 | A: Rendah-Sedang (masih tertutup) | "Ada yang sedang berat?" | Ali membuka hambatan teknis (grafik) | A meningkat: mulai berbagi | Gali lebih dalam hambatan K |
+| U005–AI005 | A: Sedang (mulai terbuka) | "Ada hal lain soal pembagian?" | Ali ungkap volume terasa tidak adil | A meningkat: lebih percaya | Validasi sebelum solusi |
+| U007–AI007 | ASK: Sedang | Tawarkan pendampingan konkret + pembagian tugas | Ali setuju dan berkomitmen | ASK meningkat: dari ragu ke setuju dengan rencana | Uji ulang dengan kendala laptop |
+| U009–AI009 | A: Sempat turun (panik laptop) | "Tenang, kita adjust jadwal" | Ali lebih tenang, cari auto-save | A stabil kembali | Konfirmasi langkah selanjutnya |
+
+## Pengaruh pesan personal dan kualitas relasi
+
+| Episode/ID | Pesan personal/kepedulian | Respons yang teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT |
+|---|---|---|---|---|
+| U003 | "Bukan untuk menyalahkan ya — aku ingin tahu keadaan kamu" | Ali lebih terbuka, cerita hambatan teknis | Rasa aman: Rendah → Sedang | A terbuka: hambatan K terungkap |
+| U006 | "Terima kasih sudah jujur, Ali — itu penting buat aku dengar" | Ali lega mengungkap perasaan tentang volume | Kepercayaan: Sedang → Tinggi | A dan K terbuka sepenuhnya |
+| U009 | "Tenang, laptop hang bukan salah kamu" | Ali lebih tenang, tidak defensif | Rasa aman tetap terjaga | A tidak turun meski ada hambatan baru |
+
+## Uji ulang dan pembelajaran
+
+Saat hambatan baru muncul (laptop hang), mahasiswa mampu mempertahankan sikap tenang dan tidak menyalahkan. Kepercayaan Ali tidak turun signifikan — ini konsisten dengan mempertahankan kepercayaan yang sudah dibangun. Pelajaran: dalam uji ulang, konsistensi sikap supportif lebih penting dari kebenaran solusi teknis.
+
+## Penilaian enam dimensi
+
+| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
+|---|---|---|---|
+| Tujuan dan konteks | 3 | U002: tujuan tiga lapis (pahami-jaga-sepakati) | Tujuan jelas dan konteks dipahami sebelum simulasi |
+| Persepsi dan validasi profil/status | 3 | U011: diagnosis A dan K akurat sebelum profil diungkap | Diagnosis relatif tepat; sedikit lambat menggali isu volume |
+| Pemilihan dan urutan repertoar | 3 | U003→U005→U007: mendengar→validasi→solusi bertahap | Urutan efektif; tidak memaksakan solusi sebelum hambatan terbuka |
+| Eksekusi jelas, peduli dan konsisten | 4 | U003, U006, U009: konsisten hangat dan tidak menghakimi di tiga episode berbeda | Eksekusi konsisten termasuk saat ada kendala baru |
+| Evaluasi dan adaptasi | 3 | U009: adapt saat laptop hang tanpa panik | Adaptasi responsif; mempertahankan jadwal sambil fleksibel |
+| Refleksi dan lesson learned | 3 | U012: rencana perbaikan untuk sesi 2b | Refleksi spesifik dengan rencana perbaikan konkret |
+
+*Nilai usulan AI = 19/24 × 100 ≈ 79. Memerlukan moderasi dosen.*
+
+## Refleksi dan lesson learned mahasiswa
+
+**Dugaan yang dikoreksi:** Saya awalnya menduga hambatan Ali murni di S (skill kurang). Ternyata hambatan terbesar ada di A (takut dianggap tidak berguna) — dan hanya setelah A terbuka, barulah K (instruksi tidak jelas) dan S (perlu pendampingan) terungkap secara lengkap.
+
+**Stimulus efektif:** Pertanyaan terbuka non-konfrontatif di awal; validasi eksplisit sebelum tawarkan solusi; pendampingan konkret bukan janji abstrak.
+
+**Stimulus kurang efektif:** Langsung tawarkan solusi teknis sebelum hambatan emosional terbuka — ini saya hindari dan terbukti benar bahwa pendekatan empatik dulu lebih efektif.
+
+**Perubahan ASK diri:** K dan S dalam kasus persahabatan + profesionalitas meningkat: saya belajar bahwa urutan mendengarkan → validasi → solusi adalah kunci.
+
+## Tindak lanjut dan batas bukti
+
+**Langkah lanjutan:** Pastikan Ali benar-benar mengirim bagiannya dalam tenggat; berikan feedback positif setelah selesai untuk memperkuat kepercayaan dirinya.
+
+**Batas bukti:** Seluruh analisis berdasarkan simulasi chatbot. Ali adalah tokoh fiktif; responsnya adalah respons simulator, bukan perilaku manusia nyata. Perubahan ASK Ali dalam simulasi tidak dapat digeneralisasi ke interaksi nyata.
