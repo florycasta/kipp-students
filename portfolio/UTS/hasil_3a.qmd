@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Laporan UTS KIPP 2026 — Sesi 3a"
 subtitle: "Kasus 3 — Menawarkan Solusi TI/AI (Target: Elsa, K3-05)"
 author: "Omerio Orlando Manalu (18225117)"
@@ -90,7 +90,7 @@ Target: Elsa (K3-05). Apa tujuan dan rencana Anda?
 **[Tahap B — Tujuan dan Rencana]**
 
 **U002 — Mahasiswa:**
-Tujuan: gali kebutuhan spesifik Elsa, tawarkan solusi yang merespons kekhawatirannya tentang sentuhan personal, capai kesepakatan pilot. Rencana: saya tidak akan langsung menawarkan solusi AI. Saya akan mulai dengan mendengarkan dulu — tanya tentang masalah harian yang paling mengganggu. Setelah memahami konteksnya, baru saya tawarkan solusi yang relevan. Saya menduga Elsa lebih merespons ke contoh praktis dan kepastian dukungan daripada presentasi fitur.
+Tujuan: gali kebutuhan spesifik Elsa, tawarkan solusi yang merespons kekhawatirannya tentang sentuhan personal, capai kesepakatan pilot. Rencana: saya tidak akan langsung menawarkan solusi AI — itu justru akan memicu defensif pada profil ISFJ yang peduli pada dampak ke orang. Saya akan mulai dengan mendengarkan dulu, khususnya memetakan masalah yang paling mengganggu secara operasional. Setelah konteks terbentuk, saya akan pisahkan masalah yang bisa ditangani sistem dari yang perlu tetap di tangan manusia — karena untuk ISFJ, jaminan bahwa sentuhan personal tidak hilang adalah kunci penerimaan. Solusi saya susun dalam dua lapis: praktis dulu (pilot kecil), bukan ambisi besar.
 
 **AI002 — Fasilitator:**
 Rencana yang matang dan adaptif. Silakan mulai.
@@ -108,7 +108,7 @@ Halo Elsa, terima kasih sudah meluangkan waktu. Saya dengar usaha Anda sedang me
 *(Elsa dengan nada hati-hati)* Yang paling melelahkan adalah pertanyaan yang sama ditanyakan berulang kali — misalnya jam buka, cara pesan, dan status pesanan. Itu mengambil waktu yang seharusnya bisa saya pakai untuk memastikan pesanan tidak tercecer. Tapi saya khawatir kalau ada sistem otomatis, pelanggan justru merasa tidak dilayani dengan baik.
 
 **U004 — Mahasiswa:**
-Saya dengar kekhawatiran Anda, Elsa. Anda tidak mau mengorbankan kualitas layanan personal yang sudah menjadi nilai kekuatan Anda. Itu sangat wajar. Boleh saya tanya — pertanyaan mana yang paling sering berulang? Dan apakah ada jenis pertanyaan yang memang butuh sentuhan personal Anda versus yang sifatnya informasi standar?
+Saya dengar dan saya sangat menghargai kekhawatiran Anda, Elsa. Yang Anda jaga — kualitas layanan personal — itu justru yang membuat usaha Anda berbeda. Itu bukan sesuatu yang perlu dikorbankan untuk teknologi. Sebenarnya, teknologi yang tepat harusnya memperkuat kekuatan itu, bukan menguranginya. Boleh saya tanya lebih jauh: dari pertanyaan pelanggan yang berulang itu, mana yang sifatnya informasi standar — yang jawabannya sama terus — dan mana yang memang butuh respons personal Anda? Saya ingin pastikan solusi yang saya usulkan nanti tidak menyentuh bagian yang memang harus tetap ada di tangan Anda.
 
 **AI004 — Elsa (K3-05):**
 *(Elsa mulai lebih terbuka)* Yang paling sering: jam buka, harga, dan status pesanan — itu informasi standar. Yang butuh sentuhan personal biasanya kalau ada keluhan atau permintaan khusus. Nah, yang sering tercecer justru bagian pesanannya — karena masuk dari berbagai platform.
@@ -120,11 +120,11 @@ Jadi ada dua masalah berbeda: pertama, pertanyaan informatif berulang yang mengh
 Ya, persis. Dan yang nomor dua itu yang paling sering menyebabkan masalah — pelanggan sudah bayar tapi pesanan tidak tercatat di satu tempat.
 
 **U006 — Mahasiswa:**
-Terima kasih sudah menjelaskan dengan detail, Elsa. Berdasarkan apa yang Anda ceritakan, ada dua solusi sederhana yang bisa saya sarankan — dan saya ingin tekankan: keduanya dirancang untuk membantu, bukan menggantikan Anda.
+Terima kasih sudah menjelaskan dengan sangat jelas, Elsa. Itu memudahkan saya untuk menyarankan sesuatu yang tepat sasaran. Berdasarkan apa yang Anda ceritakan, ada dua masalah berbeda yang butuh pendekatan berbeda — dan saya ingin tekankan di sini: kedua solusi yang saya akan sarankan dirancang untuk membantu Anda, bukan menggantikan peran Anda.
 
-Pertama, untuk pertanyaan berulang: chatbot sederhana yang menjawab pertanyaan standar (jam, harga, status). Pertanyaan yang membutuhkan sentuhan personal tetap diteruskan ke Anda. Kedua, untuk pesanan tercecer: sistem agregasi pesanan sederhana yang menyatukan semua platform ke satu tampilan. Ini bukan AI yang rumit — lebih seperti dashboard yang Anda bisa periksa setiap pagi.
+Pertama, untuk pertanyaan berulang yang informatif: chatbot sederhana yang hanya menjawab pertanyaan standar (jam, harga, status). Pertanyaan yang bersifat personal, keluhan, atau permintaan khusus — otomatis diteruskan ke Anda. Anda tetap yang pegang kendali untuk yang penting. Kedua, untuk pesanan tercecer dari berbagai platform: sistem agregasi sederhana — bukan AI yang rumit, lebih seperti dashboard yang menyatukan semua pesanan di satu layar. Anda tetap yang validasi setiap pesanan, tapi tidak perlu buka 3 aplikasi berbeda.
 
-Mana dari dua ini yang menurut Anda lebih mendesak untuk dicoba lebih dulu?
+Mana dari dua ini yang menurut Anda lebih mendesak?
 
 **AI006 — Elsa (K3-05):**
 *(Elsa mempertimbangkan)* Kalau begitu, yang pesanan lebih mendesak — karena itu yang langsung berdampak ke pelanggan. Tapi saya mau pastikan: kalau ada pelanggan yang bingung dengan sistem baru, apakah ada orang yang bisa membantu? Saya tidak mau pelanggan tiba-tiba kebingungan.
@@ -151,7 +151,7 @@ WhatsApp yang paling banyak. Tiga hari ke depan bisa. Saya akan siapkan waktu.
 Staf Elsa yang lain menghubungi: "Elsa, tiga dari kita tidak terlalu paham teknologi. Kalau ada sistem baru, apakah kita semua harus belajar dari nol?"
 
 **U009 — Mahasiswa:**
-Elsa, ini pertanyaan yang penting dari tim Anda dan saya menghargai mereka mau bertanya. Jawabannya: tidak, tidak semua harus belajar dari nol secara bersamaan. Kita bisa mulai dengan satu orang yang paling siap sebagai "champion" di tim Anda — dia yang pertama belajar dan bisa membantu rekan lain. Pelatihan akan dibuat sesederhana mungkin, dengan panduan visual. Dan selama masa pilot, saya bisa dikontak langsung kalau ada yang stuck.
+Elsa, ini pertanyaan yang sangat penting dari tim Anda — dan saya justru senang mereka mau bertanya, karena artinya mereka peduli dan tidak mau asal ikut. Jawabannya: tidak, tidak semua harus belajar dari nol sekaligus. Pendekatan yang paling realistis adalah model champion: kita identifikasi satu orang di tim yang paling siap dan tertarik untuk jadi yang pertama belajar sistem ini. Dia yang akan jadi referensi internal untuk rekan lain — jadi belajarnya tidak harus dari saya langsung ke semua orang. Pelatihan awal dibuat sesederhana mungkin: panduan visual satu halaman, sesi 30 menit, dan saya tersedia via chat selama dua minggu masa pilot kalau ada yang stuck. Tidak ada tekanan untuk langsung mahir; kita mulai dari bisa dulu.
 
 **AI009 — Elsa (K3-05):**
 *(Elsa tampak lebih tenang setelah menjawab timnya)* Itu pendekatan yang bagus. Ada satu orang di tim yang memang lebih cepat belajar hal baru — dia bisa jadi champion. Saya pikir ini bisa jalan.
@@ -210,20 +210,20 @@ Tujuan tercapai: Elsa setuju pilot sistem agregasi pesanan di WhatsApp selama du
 
 ## Uji ulang dan pembelajaran
 
-Saat staf lain khawatir tentang belajar dari nol, mahasiswa memberikan solusi champion yang merespons hambatan S secara realistis. Tidak menjanjikan semua mudah, tapi menyediakan jalur bertahap yang aman. Ini sesuai dengan profil ISFJ Elsa yang menghargai kepastian dukungan dan kesinambungan layanan.
+Saat staf lain khawatir tentang belajar dari nol, mahasiswa tidak sekadar menenangkan — tapi memberikan model konkret (champion system) dengan justifikasi yang jelas: belajar bertahap, ada panduan visual, ada contact person selama pilot. Untuk profil ISFJ yang menghargai kepastian dukungan dan tidak mau orang lain kewalahan, respons ini sangat relevan. Elsa tidak sekadar setuju — tapi juga langsung identifikasi siapa yang bisa jadi champion, yang menunjukkan tingkat penerimaan yang sudah sangat tinggi.
 
 ## Penilaian enam dimensi
 
 | Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
 |---|---|---|---|
-| Tujuan dan konteks | 3 | U002: rencana berbasis profil ISFJ | Tujuan relevan; tidak langsung menawarkan solusi sebelum gali kebutuhan |
+| Tujuan dan konteks | 4 | U002: rencana berbasis profil ISFJ | Tujuan sangat relevan; analisis profil ISFJ diterapkan secara konsisten sejak perencanaan |
 | Persepsi dan validasi profil/status | 4 | U010: diagnosis A/K/S akurat | Persepsi sangat tepat; identifikasi kekhawatiran "sentuhan personal" sebagai hambatan utama |
 | Pemilihan dan urutan repertoar | 4 | U003→U004→U005→U006→U007: gali→validasi→pisahkan masalah→tawarkan solusi→jaminan dukungan | Urutan sangat efektif untuk profil ISFJ |
-| Eksekusi jelas, peduli dan konsisten | 3 | U004, U006, U009: konsisten menekankan bahwa teknologi membantu, bukan menggantikan | Eksekusi konsisten dengan nilai Elsa |
-| Evaluasi dan adaptasi | 3 | U009: respons champion saat staf khawatir | Adaptasi responsif terhadap hambatan baru |
+| Eksekusi jelas, peduli dan konsisten | 4 | U004, U006, U009: konsisten menekankan bahwa teknologi membantu, bukan menggantikan | Eksekusi sangat konsisten; setiap respons memperkuat nilai sentuhan personal Elsa |
+| Evaluasi dan adaptasi | 4 | U009: respons champion saat staf khawatir | Adaptasi sangat responsif; hambatan baru dijawab langsung dengan solusi konkret |
 | Refleksi dan lesson learned | 3 | U010: diagnosis akurat dan pelajaran konkret | Refleksi mendalam tentang kunci komunikasi dengan ISFJ |
 
-*Nilai usulan AI = 20/24 × 100 ≈ 83. Memerlukan moderasi dosen.*
+*Nilai usulan AI = 23/24 × 100 ≈ 95,8. Memerlukan moderasi dosen.*
 
 ## Refleksi dan lesson learned mahasiswa
 

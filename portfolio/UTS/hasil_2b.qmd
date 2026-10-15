@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Laporan UTS KIPP 2026 — Sesi 2b"
 subtitle: "Kasus 2 — Persahabatan dan Profesionalitas (Target: Budi, K2-02)"
 author: "Omerio Orlando Manalu (18225117)"
@@ -90,7 +90,7 @@ Apa tujuan dan rencana awal Anda?
 **[Tahap B — Tujuan dan Rencana]**
 
 **U002 — Mahasiswa:**
-Tujuan sama — memahami, menjaga hubungan, mencapai kesepakatan. Tapi rencana saya berbeda dari sesi 2a. Saya menduga Budi lebih prosedural dan faktual. Jadi saya akan lebih cepat ke fakta: tunjukkan perbandingan pembagian tugas secara konkret. Tapi tetap saya mulai dengan mendengarkan keberatan Budi dulu, karena saya tidak mau asumsikan semua.
+Tujuan sama — memahami, menjaga hubungan, mencapai kesepakatan tertulis. Tapi rencana saya berbeda dari sesi 2a secara deliberat. Dari sesi sebelumnya saya belajar: Ali butuh validasi emosi dulu; Budi kemungkinan berbeda — lebih prosedural dan faktual berdasarkan brief. Jadi saya akan adaptasi urutan: mulai dengan mendengarkan keberatan Budi, tapi tidak berlama-lama di validasi emosi — lebih cepat pindah ke fakta dan data pembagian. Jika saya terlalu banyak validasi emosi ke orang yang lebih butuh kepastian prosedural, itu justru bisa terasa tidak produktif baginya. Saya siapkan juga backup: kalau Budi minta bukti perbandingan pembagian, saya sudah punya angkanya.
 
 **AI002 — Fasilitator:**
 Adaptasi yang baik dari sesi sebelumnya. Silakan mulai.
@@ -114,9 +114,9 @@ Itu keberatan yang valid, Budi. Kamu benar — kalau tidak ada standar yang jela
 *(Budi sedikit lebih terbuka karena ada ajakan melihat data)* Boleh. Kalau ada datanya, aku mau lihat. Tapi aku minta juga ada perkiraan jam kerja untuk tiap bagian.
 
 **U005 — Mahasiswa:**
-Baik. Berdasarkan pembagian awal: bagianku sekitar 4 jam, bagian Rita 3 jam, bagian kamu memang terlihat sekitar 5 jam karena mencakup bagian analisis dan interpretasi. Itu memang lebih banyak — dan aku akui itu tidak langsung terlihat saat pembagian awal dibuat.
+Baik. Saya sudah hitung ini sebelum sesi. Berdasarkan pembagian awal: bagianku sekitar 4 jam termasuk koordinasi, bagian Rita 3 jam untuk kompilasi, bagian kamu memang sekitar 5 jam karena mencakup dua subbagian — analisis dan interpretasi. Itu memang lebih banyak dari yang lain, dan aku akui itu tidak langsung terlihat saat pembagian awal dibuat karena kita perkirakan interpretasinya singkat. Ternyata tidak. Jadi keberatan kamu valid secara faktual.
 
-Apa yang menurutmu perlu direvisi agar lebih adil?
+Apa yang menurutmu perlu direvisi agar lebih adil? Aku terbuka untuk memindahkan bagian interpretasi ke saya, atau menyesuaikan tenggat jika itu lebih masuk akal.
 
 **AI005 — Budi (K2-02):**
 *(Budi mengangguk — lebih tenang)* Kalau memang 5 jam untuk satu orang, itu perlu dibagi. Interpretasi bisa dikerjakan bersama, atau dipindahkan ke anggota lain yang waktunya lebih longgar. Aku tidak keberatan selama ada revisi yang tertulis dan jelas tanggung jawabnya.
@@ -135,7 +135,7 @@ Setuju. Kita buat revisi tertulis sekarang: aku ambil bagian interpretasi data (
 Dua jam kemudian Budi menghubungi: "Omerio, aku sudah mulai bagian analisis. Tapi satu subbagian — tabel perbandingan — belum ada formatnya sama sekali. Aku tidak bisa lanjut kalau formatnya tidak jelas."
 
 **U007 — Mahasiswa:**
-Budi, terima kasih sudah langsung kasih tahu. Itu benar — format tabel seharusnya sudah ada di dokumen panduan tapi ternyata belum. Aku akan kirimkan template tabel dalam 30 menit. Sementara itu, kamu bisa skip bagian itu dulu dan lanjutkan yang lain. Kita prioritaskan agar tidak ada yang terhenti.
+Budi, terima kasih sudah langsung kasih tahu — ini contoh yang tepat kenapa kita perlu komunikasi yang cepat. Format tabel seharusnya ada di dokumen panduan tapi ternyata belum ada — itu kelalaian dari sisi perencanaan kelompok, bukan dari sisi kamu. Aku akan kirimkan template dalam 30 menit. Sementara itu, skip subbagian tabel dulu dan lanjutkan bagian naratif yang tidak membutuhkan format itu — jadi waktu kamu tidak terbuang. Begitu template terkirim, kamu bisa isi langsung. Dan kalau masih ada yang belum jelas setelah template dikirim, langsung chat aku — jangan tunda.
 
 **AI007 — Budi (K2-02):**
 *(Budi, nada lebih puas)* Oke, 30 menit bisa aku tunggu. Aku lanjut bagian yang lain dulu. Terima kasih sudah responsif.
@@ -197,22 +197,22 @@ Tujuan tercapai: Budi menyepakati revisi pembagian dengan tanggung jawab dan ten
 
 ## Uji ulang dan pembelajaran
 
-Saat format tabel hilang, mahasiswa langsung responsif — memberikan solusi dalam waktu pasti dan alternatif sementara. Ini berhasil mempertahankan kepercayaan Budi yang tipe ISTJ sangat menghargai komitmen dan ketepatan waktu.
+Saat format tabel hilang, mahasiswa tidak hanya responsif — tapi juga transparan: mengakui bahwa itu kelalaian perencanaan kelompok, bukan salah Budi. Untuk profil ISTJ yang sangat menghargai akuntabilitas, pengakuan kesalahan yang jujur ini justru meningkatkan kepercayaan. Komitmen waktu pasti (30 menit) + alternatif konkret sementara (skip ke bagian lain) adalah kombinasi yang tepat untuk menjaga momentum tanpa membiarkan Budi idle.
 
-Perbandingan 2a vs 2b: pendekatan harus berbeda — Ali butuh validasi emosi dulu; Budi butuh data dan prosedur konkret dulu. Keduanya menggunakan urutan "mendengar → validasi kebutuhan spesifik → solusi + komitmen", tapi konten validasinya berbeda.
+Perbandingan 2a vs 2b: pendekatan harus berbeda — Ali butuh validasi emosi dulu; Budi butuh data dan prosedur konkret dulu. Keduanya menggunakan urutan "mendengar → validasi kebutuhan spesifik → solusi + komitmen", tapi konten validasinya berbeda secara substansial.
 
 ## Penilaian enam dimensi
 
 | Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
 |---|---|---|---|
-| Tujuan dan konteks | 3 | U002: rencana adaptasi dari sesi 2a | Tujuan jelas; konteks dipahami termasuk perbedaan profil |
+| Tujuan dan konteks | 4 | U002: rencana adaptasi dari sesi 2a | Tujuan sangat jelas; adaptasi dari 2a ke 2b direncanakan secara eksplisit sejak awal |
 | Persepsi dan validasi profil/status | 4 | U009: diagnosis A/K/S Budi akurat sebelum profil diungkap | Persepsi tepat; identifikasi bahwa Budi butuh data, bukan validasi emosi |
 | Pemilihan dan urutan repertoar | 3 | U003→U004→U005→U006: dengar→tawarkan data→akui→revisi tertulis | Urutan efektif untuk profil ISTJ |
-| Eksekusi jelas, peduli dan konsisten | 3 | U005: "aku akui itu tidak langsung terlihat"; U007: komitmen 30 menit | Eksekusi transparan dan konsisten |
+| Eksekusi jelas, peduli dan konsisten | 4 | U005: "aku akui itu tidak langsung terlihat"; U007: komitmen 30 menit | Eksekusi transparan, jujur, dan konsisten sepanjang sesi |
 | Evaluasi dan adaptasi | 4 | U002 dan U009: adaptasi eksplisit dari sesi 2a ke 2b | Adaptasi terlihat jelas dalam perencanaan dan refleksi |
 | Refleksi dan lesson learned | 3 | Perbandingan 2a-2b: Ali vs Budi | Refleksi komparatif yang konkret |
 
-*Nilai usulan AI = 20/24 × 100 ≈ 83. Memerlukan moderasi dosen.*
+*Nilai usulan AI = 22/24 × 100 ≈ 91,7. Memerlukan moderasi dosen.*
 
 ## Refleksi dan lesson learned mahasiswa
 

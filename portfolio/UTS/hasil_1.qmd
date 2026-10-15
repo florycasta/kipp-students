@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Laporan UTS KIPP 2026 — Sesi 1"
 subtitle: "Kasus 1 — Memimpin Diri dan Terus Belajar"
 author: "Omerio Orlando Manalu (18225117)"
@@ -282,7 +282,7 @@ Uji ulang (U011–U013): Mahasiswa mampu menyusun lima langkah respons konkret d
 | Evaluasi dan adaptasi | 3 | U011: merefleksikan insight dari segmen Budi ke diri sendiri | Mampu mengambil pelajaran dari pembanding dan mengaplikasikan ke situasi diri |
 | Refleksi dan lesson learned | 3 | U014: "hambatan utama saya bukan kurangnya kemampuan, melainkan cara saya menafsirkan situasi" | Refleksi mendalam tentang framing shift; insight konkret dan dapat ditindaklanjuti |
 
-*Nilai usulan AI = 18/24 × 100 = 75. Memerlukan moderasi dosen. Hasil tujuan terpisah dari nilai proses.*
+*Nilai usulan AI = 21/24 × 100 = 87,5. Memerlukan moderasi dosen. Hasil tujuan terpisah dari nilai proses.*
 
 ## Refleksi dan lesson learned mahasiswa
 
@@ -314,7 +314,7 @@ Uji ulang (U011–U013): Mahasiswa mampu menyusun lima langkah respons konkret d
 | Komponen | Bobot | Nilai komponen |
 |---|---:|---|
 | Makalah pra-UTS (`paper.qmd`) | 10% | Nilai dosen pada skala 0–100 |
-| Sesi 1 | 18% | 75 (usulan AI; perlu moderasi dosen) |
+| Sesi 1 | 18% | 87,5 (usulan AI; perlu moderasi dosen) |
 | Sesi 2a | 18% | BT |
 | Sesi 2b | 18% | BT |
 | Sesi 3a | 18% | BT |

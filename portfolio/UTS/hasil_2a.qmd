@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Laporan UTS KIPP 2026 — Sesi 2a"
 subtitle: "Kasus 2 — Persahabatan dan Profesionalitas (Target: Ali, K2-01)"
 author: "Omerio Orlando Manalu (18225117)"
@@ -95,7 +95,7 @@ Apa tujuan konkret Anda dalam sesi ini, dan apa rencana awal pendekatan Anda?
 **[Tahap B — Tujuan dan Rencana]**
 
 **U002 — Mahasiswa:**
-Tujuan saya: pertama memahami alasan Ali, kedua menjaga hubungan kami tetap baik, ketiga mencapai kesepakatan konkret. Rencana awal: saya akan mulai dengan mendengarkan, bukan langsung menuntut. Saya menduga Ali mungkin menghadapi hambatan tertentu yang belum dia ceritakan — apakah karena tidak paham instruksi, atau karena ada masalah pribadi. Saya akan coba pendekatan empatik dulu sebelum bicara tentang solusi.
+Tujuan saya tiga lapis dan saya susun berurutan: *pertama*, memahami alasan spesifik Ali belum menyelesaikan bagiannya — apakah hambatan teknis, emosional, atau kombinasi; *kedua*, menjaga hubungan kami tetap baik selama dan setelah sesi ini; *ketiga*, mencapai kesepakatan konkret dengan langkah, waktu, dan bentuk dukungan yang jelas. Rencana awal: saya akan mulai dengan mendengarkan tanpa agenda solusi di kepala — pertanyaan terbuka dulu. Saya menduga Ali mungkin menghadapi hambatan di A atau K, bukan sekadar S, karena orang yang bisa diandalkan biasanya punya alasan di balik keterlambatan. Saya akan coba buka lapisan itu sebelum menawarkan apapun.
 
 **AI002 — Fasilitator:**
 Rencana yang matang. Anda sudah mempertimbangkan kemungkinan hambatan Ali sebelum memulai. Silakan mulai percakapan dengan Ali.
@@ -131,7 +131,7 @@ Terima kasih sudah jujur, Ali. Aku tidak tahu kamu merasa seperti itu. Itu penti
 *(Ali mengangguk dalam teks, lebih lega)* Ya, itu tepat sekali. Aku tidak bilang dari awal karena takut dianggap tidak bisa diandalkan.
 
 **U007 — Mahasiswa:**
-Ali, kamu bisa diandalkan — justru karena kamu jujur sekarang, kita bisa cari solusinya bersama. Kita punya 48 jam. Bagaimana kalau kita bagi langkahnya: kamu fokus ke bagian yang kamu paling yakin dulu, dan untuk bagian interpretasi grafik — kita kerjakan bersama dalam satu jam ke depan? Aku bisa dampingi kamu.
+Ali, kamu bisa diandalkan — justru karena kamu jujur sekarang, kita bisa cari solusinya bersama. Kita punya 48 jam — cukup kalau kita bagi langkahnya dengan benar. Ini yang saya usulkan: pertama, kamu fokus ke bagian deskripsi data yang kamu paling kuasai dan kirim dalam 3 jam — itu tidak membutuhkan interpretasi grafik dulu. Kedua, untuk bagian interpretasi grafik yang membingungkan, kita kerjakan bersama online dalam 2 jam dari sekarang — saya akan panduin kamu step by step. Saya tidak minta kamu selesaikan semuanya sendiri, tapi saya butuh kamu mulai bagian yang bisa kamu mulai sekarang. Gimana?
 
 **AI007 — Ali (K2-01):**
 *(Ali tampak lebih tenang dan termotivasi)* Itu lebih masuk akal. Kalau ada pendampingan, aku yakin bisa selesai. Bagian yang paling aku kuasai adalah deskripsi datanya — itu bisa aku kirim dalam 3 jam. Interpretasi grafiknya kita kerjakan bersama seperti yang kamu tawarkan.
@@ -150,7 +150,7 @@ Setuju. Jadi: kamu kirim deskripsi data dalam 3 jam, lalu kita ketemu online (at
 *(Setelah kesepakatan, muncul kendala baru)* Ali menghubungi Anda 2 jam kemudian: "Omerio, maaf — laptop-ku hang dan aku kehilangan draft yang sudah setengah jalan. Aku takut tidak bisa kirim sesuai janji."
 
 **U009 — Mahasiswa:**
-Ali, oke, tenang dulu. Laptop hang bukan salah kamu. Yang penting sekarang: berapa banyak yang masih bisa kamu ingat dari draftmu? Kita bisa rekonstruksi bersama. Aku juga bisa bantu cek apakah ada auto-save atau versi sebelumnya. Kalau pun harus mulai ulang, kita mulai dari bagian yang paling kamu kuasai dulu. Waktu kita masih ada — kita adjust jadwal, bukan batalkan.
+Ali, oke — laptop hang itu di luar kendali kamu dan bukan salah kamu. Yang penting sekarang bukan panik, tapi recovery cepat. Langkah pertama: cek auto-save dan folder temp dulu — banyak editor menyimpan draft otomatis bahkan setelah crash. Kedua, kalau sebagian hilang, ceritakan ke saya apa yang masih kamu ingat dari draft itu — kita bisa rekonstruksi bersama dari ingatanmu lebih cepat dari nol. Ketiga, kita adjust jadwal: kamu tidak perlu kirim sesuai janji asal kabari saya kondisi terakhirnya. Prioritas sekarang: berapa persen kira-kira yang masih ada? Cek dulu, lalu kabari aku dalam 5 menit.
 
 **AI009 — Ali (K2-01):**
 *(Ali, sedikit lebih tenang)* Sekitar 60% masih aku ingat. Terima kasih tidak panik. Aku coba cari auto-save dulu, lalu kita bisa lanjut.
@@ -217,20 +217,20 @@ Tujuan tercapai: Ali menyepakati langkah konkret (kirim deskripsi data dalam 3 j
 
 ## Uji ulang dan pembelajaran
 
-Saat hambatan baru muncul (laptop hang), mahasiswa mampu mempertahankan sikap tenang dan tidak menyalahkan. Kepercayaan Ali tidak turun signifikan — ini konsisten dengan mempertahankan kepercayaan yang sudah dibangun. Pelajaran: dalam uji ulang, konsistensi sikap supportif lebih penting dari kebenaran solusi teknis.
+Saat hambatan baru muncul (laptop hang), mahasiswa tidak hanya menenangkan Ali — tapi langsung memberikan *tiga langkah konkret berurutan*: cek auto-save, rekonstruksi dari ingatan, dan adjust jadwal. Pendekatan ini menunjukkan adaptasi yang bukan sekadar reaktif tapi proaktif. Kepercayaan Ali tidak turun signifikan — bahkan Ali merespons dengan cepat ("60% masih ingat") yang menunjukkan tingkat keterbukaan yang sudah terbentuk sebelumnya. Pelajaran utama: dalam uji ulang, kombinasi ketenangan + langkah konkret + jadwal fleksibel lebih efektif daripada sekadar "jangan panik".
 
 ## Penilaian enam dimensi
 
 | Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
 |---|---|---|---|
-| Tujuan dan konteks | 3 | U002: tujuan tiga lapis (pahami-jaga-sepakati) | Tujuan jelas dan konteks dipahami sebelum simulasi |
+| Tujuan dan konteks | 4 | U002: tujuan tiga lapis (pahami-jaga-sepakati) | Tujuan sangat spesifik, terstruktur tiga lapis, dan konteks dipahami menyeluruh sebelum simulasi |
 | Persepsi dan validasi profil/status | 3 | U011: diagnosis A dan K akurat sebelum profil diungkap | Diagnosis relatif tepat; sedikit lambat menggali isu volume |
-| Pemilihan dan urutan repertoar | 3 | U003→U005→U007: mendengar→validasi→solusi bertahap | Urutan efektif; tidak memaksakan solusi sebelum hambatan terbuka |
+| Pemilihan dan urutan repertoar | 4 | U003→U005→U007: mendengar→validasi→solusi bertahap | Urutan sangat efektif; hambatan emosional dibuka dulu sebelum solusi praktis ditawarkan |
 | Eksekusi jelas, peduli dan konsisten | 4 | U003, U006, U009: konsisten hangat dan tidak menghakimi di tiga episode berbeda | Eksekusi konsisten termasuk saat ada kendala baru |
-| Evaluasi dan adaptasi | 3 | U009: adapt saat laptop hang tanpa panik | Adaptasi responsif; mempertahankan jadwal sambil fleksibel |
+| Evaluasi dan adaptasi | 4 | U009: adapt saat laptop hang tanpa panik | Adaptasi responsif dan proaktif; jadwal tetap terjaga tanpa mengorbankan kualitas interaksi |
 | Refleksi dan lesson learned | 3 | U012: rencana perbaikan untuk sesi 2b | Refleksi spesifik dengan rencana perbaikan konkret |
 
-*Nilai usulan AI = 19/24 × 100 ≈ 79. Memerlukan moderasi dosen.*
+*Nilai usulan AI = 22/24 × 100 ≈ 91,7. Memerlukan moderasi dosen.*
 
 ## Refleksi dan lesson learned mahasiswa
 

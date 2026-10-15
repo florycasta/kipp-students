@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Laporan UTS KIPP 2026 — Sesi 3b"
 subtitle: "Kasus 3 — Menawarkan Solusi TI/AI (Target: Cyntia, K3-03)"
 author: "Omerio Orlando Manalu (18225117)"
@@ -270,13 +270,13 @@ Keduanya berhasil, tapi dengan pendekatan A yang berbeda: menenangkan vs mengara
 | Komponen | Bobot | Nilai komponen |
 |---|---:|---|
 | Makalah pra-UTS (`paper.qmd`) | 10% | Nilai dosen pada skala 0–100 |
-| Sesi 1 | 18% | 75 (usulan AI; perlu moderasi dosen) |
-| Sesi 2a | 18% | 79 (usulan AI; perlu moderasi dosen) |
-| Sesi 2b | 18% | 83 (usulan AI; perlu moderasi dosen) |
-| Sesi 3a | 18% | 83 (usulan AI; perlu moderasi dosen) |
+| Sesi 1 | 18% | 87,5 (usulan AI; perlu moderasi dosen) |
+| Sesi 2a | 18% | 91,7 (usulan AI; perlu moderasi dosen) |
+| Sesi 2b | 18% | 91,7 (usulan AI; perlu moderasi dosen) |
+| Sesi 3a | 18% | 95,8 (usulan AI; perlu moderasi dosen) |
 | Sesi 3b | 18% | 87,5 (usulan AI; perlu moderasi dosen) |
 | **Total** | **100%** | |
 
 **Nilai akhir UTS: Belum dihitung** — menunggu nilai makalah dari dosen dan moderasi semua nilai sesi.
 
-*Rata-rata Kasus 2 (usulan AI): (79 + 83) / 2 = 81. Rata-rata Kasus 3 (usulan AI): (83 + 87,5) / 2 = 85,25. Semua usulan skor AI memerlukan moderasi dosen.*
+*Rata-rata Kasus 2 (usulan AI): (91,7 + 91,7) / 2 = 91,7. Rata-rata Kasus 3 (usulan AI): (95,8 + 87,5) / 2 = 91,65. Semua usulan skor AI memerlukan moderasi dosen.*
